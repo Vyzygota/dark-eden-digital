@@ -8,7 +8,7 @@
         "post play": "Annihilated",
         "name": "BEZKRESNE MORZA",
         "action": "Zagraj podczas dowolnego ataku lub najazdu z wody. Atak/najazd natychmiast kończy się ostatecznym remisem. Ponadto do początku następnej tury gracza, który właśnie wykonuje działania, nie można przeprowadzać żadnych ataków z wody.",
-        "image": "image1",
+        "image": "image1.png",
         "author": "PAUL BONNER"
     },
     {
@@ -20,7 +20,7 @@
         "post play": "Annihilated",
         "name": "BŁĘDNE MAPY",
         "action": "Zagraj podczas najazdu, po ustaleniu najeźdźców. Przeciwnik najechał złe Miejsce! Wybierz inny cel, który mogą najechać (nie musi znajdować się w tej samej Krainie co pierwotny cel). Wojownicy nie najadą własnej Krainy.",
-        "image": "image2",
+        "image": "image2.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -31,7 +31,7 @@
         "post play": "Discarded",
         "name": "BŁOGOSŁA- WIEŃSTWO",
         "action": "RYTUAŁ. Do początku twojej następnej tury WB wszystkich twoich Miejsc i twojego Przywódcy ulega podwojeniu. Ten modyfikator stosuje się przed wszystkimi innymi.",
-        "image": "image3",
+        "image": "image3.png",
         "affiliation": "The Lutheran Triad",
         "cv": "X",
         "cv1": 2,
@@ -81,7 +81,7 @@
         "post play": "Discarded",
         "name": "BRAK PALIWA",
         "action": "Zagraj w dowolnym momencie, za wyjątkiem walki lub najazdu. Aż do początku twojej następnej tury żaden POJAZD nie może przeprowadzać ataku ani najazdu, przyłączać się do Grup Ofensywnych i Defensywnych oraz nie może być Przeniesiony. POJAZDY, które znajdują się w Grupach, pozostają w nich, ale ich WB nie wlicza się do WB Grupy.",
-        "image": "image6",
+        "image": "image6.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -100,7 +100,7 @@
         "post play": "Discarded",
         "name": "BRAK ŻYWNOŚCI",
         "action": "Zagraj w dowolnym momencie, za wyjątkiem walki lub najazdu. Aż do początku twojej następnej tury żadna JAZDA nie może przeprowadzać ataków i najazdów, przyłączać się do Grup Ofensywnych i Defensywnych oraz nie może być Przeniesiona. JAZDA, która znajduje się w Grupie, pozostaje w niej, ale jej WB nie wlicza się do WB Grupy.",
-        "image": "image7",
+        "image": "image7.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -111,7 +111,7 @@
         "post play": "Discarded",
         "name": "CEGŁA PO CEGLE",
         "action": "agraj zaraz po zniszczeniu Miejsca. Zamiast odrzucać to Miejsce, możesz je umieścić w swojej Krainie (jeśli jest taka możliwość) tak jakbyś to ty je wybudował. Możesz zignorować Koszt Początkowy i przynależność Miejsca.",
-        "image": "image8",
+        "image": "image8.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -138,7 +138,7 @@
         "post play": "Discarded",
         "name": "CZAS POKOJU",
         "action": "Zagraj w dowolnym momencie. Aż do początku twojej następnej tury żaden z graczy nie może zaatakować. Jeśli zagrałeś kartę w trakcie walki, kończy się ona ostatecznym remisem. Można wciąż przeprowadzać najazdy",
-        "image": "image9",
+        "image": "image9.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -148,7 +148,7 @@
         "time modified": "2011-03-16 06:33:34",
         "name": "CZASZKA AZJATYCKA",
         "action": "Koszt Początkowy: 10. KARTA UNIKATOWA. KLUCZ-CZASZKA. Musisz posiadać w swojej krainie WYSPIARZY lub WPŁYW HARDINGA, aby zagrać tę kartę. Ponadto możesz ją zagrać tylko zaraz po Zniszczeniu jakiegoś Miejsca. Dołącz kartę do Przywódcy podczas swojej tury. W jednej turze możesz zagrać tylko jedną KLUCZ-CZASZKĘ. WB twojego Przywódcy zwiększa się o +4. Jeśli dołączysz do swego Przywódcy wszystkie cztery KLUCZE-CZASZKI, zwyciężasz!",
-        "image": "image10",
+        "image": "image10.png",
         "cv": "+",
         "cv1": 4,
         "author": "PAUL BONNER"
@@ -160,7 +160,7 @@
         "time modified": "2011-03-16 06:34:00",
         "name": "CZASZKA EUROPEJSKA",
         "action": "Koszt Początkowy: 10. KARTA UNIKATOWA. KLUCZ-CZASZKA. Musisz posiadać w swojej krainie WYSPIARZY lub WPŁYW HARDINGA, aby zagrać tę kartę. Ponadto możesz ją zagrać tylko zaraz po Zniszczeniu jakiegoś Miejsca. Dołącz kartę do Przywódcy podczas swojej tury. W jednej turze możesz zagrać tylko jedną KLUCZ-CZASZKĘ. WB twojego Przywódcy zwiększa się o +4. Jeśli dołączysz do swego Przywódcy wszystkie cztery KLUCZE-CZASZKI, zwyciężasz",
-        "image": "image11",
+        "image": "image11.png",
         "author": "PAUL BONNER"
     },
     {
@@ -170,7 +170,7 @@
         "time modified": "2011-03-16 06:35:44",
         "name": "CZASZKA POŁUDNIOWO- AMERYKAŃSKA",
         "action": "Koszt Początkowy: 10. KARTA UNIKATOWA. KLUCZ-CZASZKA. Musisz posiadać w swojej krainie WYSPIARZY lub WPŁYW HARDINGA, aby zagrać tę kartę. Ponadto możesz ją zagrać tylko zaraz po Zniszczeniu jakiegoś Miejsca. Dołącz kartę do Przywódcy podczas swojej tury. W jednej turze możesz zagrać tylko jedną KLUCZ-CZASZKĘ. WB twojego Przywódcy zwiększa się o +4. Jeśli dołączysz do swego Przywódcy wszystkie cztery KLUCZE-CZASZKI, zwyciężasz!",
-        "image": "image13",
+        "image": "image13.png",
         "author": "PAUL BONNER"
     },
     {
@@ -180,7 +180,7 @@
         "time modified": "2011-03-16 06:34:56",
         "name": "CZASZKA PÓŁNOCNO- AMERYKAŃSKA",
         "action": "Koszt Początkowy: 10. KARTA UNIKATOWA. KLUCZ-CZASZKA. Musisz posiadać w swojej krainie WYSPIARZY lub WPŁYW HARDINGA, aby zagrać tę kartę. Ponadto możesz ją zagrać tylko zaraz po Zniszczeniu jakiegoś Miejsca. Dołącz kartę do Przywódcy podczas swojej tury. W jednej turze możesz zagrać tylko jedną KLUCZ-CZASZKĘ. WB twojego Przywódcy zwiększa się o +4. Jeśli dołączysz do swego Przywódcy wszystkie cztery KLUCZE-CZASZKI, zwyciężasz!",
-        "image": "image12",
+        "image": "image12.png",
         "author": "PAUL BONNER"
     },
     {
@@ -191,7 +191,7 @@
         "post play": "Annihilated",
         "name": "DESPERACKA AKCJA",
         "action": "Możesz zwrócić jedno ze zniszczonych przez ciebie Miejsc prawowitemu właścicielowi (ten musi je odrzucić), dzięki czemu zyskujesz tyle Jednostek Złota, ile wynosi podwojone WB Miejsca. Uzyskane w ten sposób Jednostki Złota dołącz do swoich Zasobów Złota. Ta karta nie działa na żetony zdobyte podczas najazdu na Przywódcę.",
-        "image": "image14",
+        "image": "image14.png",
         "author": "PETER SNDRE JONES"
     },
     {
@@ -201,7 +201,7 @@
         "time modified": "2011-03-16 06:37:20",
         "name": "DOBROBYT",
         "action": "Dołącz w dowolnym momencie do swego Przywódcy. W każdej turze możesz wyciągnąć jedną dodatkową kartę podczas kroku Dobieranie kart. Kilka kopii tej karty kumuluje się. Jeśli ta karta ma zostać odrzucona, to ulega anihilacji (nawet jeśli nie została wykorzystana).",
-        "image": "image15",
+        "image": "image15.png",
         "author": "PAUL BONNER"
     },
     {
@@ -317,7 +317,7 @@
             "Red_Materials"
         ],
         "action": "EKWIPUNEK. Wyposaż w niego swoją PIECHOTĘ. Wojownik może podczas walki lub najazdu anihilować Granat potrajając swoją WB.",
-        "image": "image16",
+        "image": "image16.png",
         "cv": "X",
         "cv1": 3,
         "author": "PAUL BONNER"
@@ -330,7 +330,7 @@
         "post play": "Annihilated",
         "name": "INFILTRACJA",
         "action": "Zagraj podczas najazdu, zanim zostanie ustalony jego cel. Możesz wybrać dowolne Miejsce za cel najazdu, nawet jeśli nie ma ono odsłoniętych brzegów. Możesz nawet wybrać Przywódcę chronionego Miejscami.",
-        "image": "image17",
+        "image": "image17.png",
         "author": "ANGUS MCKIE"
     },
     {
@@ -359,7 +359,7 @@
         "post play": "Discarded",
         "name": "KAMUFLAŻ",
         "action": "Zagraj podczas swojego kroku Najazd. Twoi najeźdźcy mogą przemknąć się obok każdego Wojownika lub Grupy Defensywnej stacjonujących na pograniczu. Ani Wojownik, ani Grupa nie mogą zapobiec najazdowi.",
-        "image": "image18",
+        "image": "image18.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -404,7 +404,7 @@
         "time modified": "2011-03-16 06:39:51",
         "name": "KONSEKWENCJE",
         "action": "Dołącz w dowolnym momencie do swojego Przywódcy. Kiedy ta karta znajduje się w grze, za każde 3 Jednostki Złota możesz anihilować dowolną kartę dołączaną, która znajduje się w grze. Za każdą anihilowaną kartę musisz anihilować jeden atut, który znajduje się na wierzchu twojej talii (nie patrz, co straciłeś).",
-        "image": "image19",
+        "image": "image19.png",
         "author": "PETER ANDREW JONES"
     },
     {
@@ -415,7 +415,7 @@
         "post play": "Annihilated",
         "name": "KRADZIEŻ",
         "action": "SABOTAŻ. Zagraj podczas kroku Wykonywania Akcji, jeśli posiadasz WYWROTOWCA w Krainie innego gracza. Możesz wziąć Zasoby Złota gracza, który kontroluje WYWROTOWCA i dołączyć je do swoich Zasobów Złota.",
-        "image": "image4",
+        "image": "image4.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -443,7 +443,7 @@
         "post play": "Annihilated",
         "name": "LUDZKA TARCZA",
         "action": "vZagraj zaraz po tym jak twój Wojownika pokona w walce innego Wojownika. Przeciwnik zostaje dołączony do twojego Wojownika (ale wszystkie dołączone do przegranego karty zostają odrzucone), a jego WB dodaje się do WB twojego Wojownika, jeśli jest on atakowany. Jeśli przeciwnikiem była Grupa, tylko jeden Wojownik może zostać dołączony (ty decydujesz który).",
-        "image": "image20",
+        "image": "image20.png",
         "author": "JOHN MATSON"
     },
     {
@@ -454,7 +454,7 @@
         "post play": "Discarded",
         "name": "ŁAPÓWKA",
         "action": "Zagraj kiedy jesteś ofiarą ataku lub najazdu. Płacąc bazowe WB dowolnej wrogiej PIECHOTY, uniemożliwiasz jej uczestniczenie w konflikcie. Możesz Przekupić więcej niż jednego Wojownika. Jeśli przekupisz wszystkich wrogich uczestników walki, atak/najazd dobiega końca. Nie możesz przekupić Wojowników Legionu Ciemności.",
-        "image": "image5",
+        "image": "image5.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -489,7 +489,7 @@
         "post play": "Attached",
         "name": "MELANCHOLIA",
         "action": "Dołącz podczas swojej tury do dowolnego Przywódcy. Nie możesz wykonać żadnej innej akcji ani atakować lub przeprowadzać najazdu. Kiedy Melancholia jest dołączona do Przywódcy, nie może on korzystać ze specjalnych zdolności opisanych na karcie. Zapewnia jednak ikony zasobów w zwykły sposób. Do Przywódcy w danym momencie można dołączyć tylko jedną kopię karty.",
-        "image": "image21",
+        "image": "image21.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -500,7 +500,7 @@
         "post play": "Discarded",
         "name": "MEMORANDUM",
         "action": "Zagraj zaraz po tym, jak twój Wojownik zostanie zabity podczas walki lub najazdu. Umieść tyle Jednostek Złota w swoich Zasobach Złota, ile wynosiło zmodyfikowane WB zabitego.",
-        "image": "image22",
+        "image": "image22.png",
         "author": "MARCUS THORELL"
     },
     {
@@ -551,7 +551,7 @@
         "post play": "Annihilated",
         "name": "MUSIMY JEŚĆ",
         "action": "Zagraj zaraz po zabiciu w walce dowolnego Wojownika, który nie jest POJAZDEM. Weź kartę zabitego Wojownika i umieść na niej tyle żetonów, ile wynosi jego bazowe WB (całość połóż gdzieś z boku). Podczas Bilansowania możesz wykorzystać te znaczniki jako ikony Żywności. Po zużyciu wszystkich żetonów Wojownik trafia na stos kart odrzuconych swojego właściciela.",
-        "image": "image23",
+        "image": "image23.png",
         "author": "PAUL BONNER"
     },
     {
@@ -579,7 +579,7 @@
         "time modified": "2011-03-16 06:48:15",
         "name": "NADEJŚCIE VALPURGIUSA!",
         "action": "Koszt Początkowy: 10. KARTA UNIKATOWA. Dołącz w dowolnym momencie do swego Przywódcy. Kiedy ta karta znajduje się w grze, możesz zagrywać karty przynależne do Legionu Ciemności, a wszyscy twoi Wojownicy uznani są za GODNYCH MROCZNEJ HARMONII. Ponadto tylko ty możesz posiadać w grze WPŁYW HARDINGA. Podczas każdego kroku Bilansowania możesz zignorować jedną ikonę zasobów na każdym należącym do ciebie Wojowniku Legionu Ciemności. W danej chwili możesz mieć dołączoną do Przywódcy tylko jedną kopię tej karty.",
-        "image": "image24",
+        "image": "image24.png",
         "author": "PAUL BONNER"
     },
     {
@@ -590,7 +590,7 @@
         "post play": "Discarded",
         "name": "NADGODZINY",
         "action": "Zagraj podczas swojego kroku Bilansowania. Karta twojego Przywódcy produkuje w tej turze dwa razy więcej ikon zasobów.",
-        "image": "image25",
+        "image": "image25.png",
         "author": "STODIO PARENTE"
     },
     {
@@ -600,7 +600,7 @@
         "time modified": "2011-03-16 06:49:30",
         "name": "NAJEMNIK",
         "action": "Dołącz podczas swojej tury do dowolnego Wojownika. Wymaga on o +X ikon ZŁ więcej, gdzie X to jego WB.",
-        "image": "image26",
+        "image": "image26.png",
         "author": "PETER ANDREW JONES"
     },
     {
@@ -610,7 +610,7 @@
         "time modified": "2011-03-16 06:50:07",
         "name": "NA SWOIM WŁASNYM",
         "action": "Zagraj w dowolnym momencie na jakiegoś Wojownika. Od tej chwili jest on uważany za SAMOTNIKA. Jeśli ten Wojownik znajduje sie w Grupie Ofensywnej lub Defensywnej, natychmiast ją opuszcza. Karta nie ma wpływu na resztę Grupy.",
-        "image": "image27",
+        "image": "image27.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -632,7 +632,7 @@
         "post play": "Annihilated",
         "name": "NIC DO STRACENIA",
         "action": "Zagraj na dowolnego Wojownika podczas kroku Wykonywanie Akcji. Aż do początku twojej następnej tury ten Wojownik nie może zostać zabity ani w walce, ani podczas najazdu.",
-        "image": "image28",
+        "image": "image28.png",
         "author": "PAUL BONNER"
     },
     {
@@ -643,7 +643,7 @@
         "post play": "Annihilated",
         "name": "NIEHONOROWE DZIAŁANIE",
         "action": "Zagraj na któregoś z Wojowników znajdujących się w grze w dowolnym momencie, za wyjątkiem walki lub najazdu. Musisz zapłacić tyle Jednostek Złota, ile wynosi WB Wojownika, na którego zagrywasz tę kartę. Należy odrzucić Wojownika oraz wszystkie dołączone do niego karty. Jeśli Wojownik wchodził w skład Grupy, to karta nie działa na jej pozostałych członków.",
-        "image": "image29",
+        "image": "image29.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -671,7 +671,7 @@
         "post play": "Annihilated",
         "name": "NIGDY WIĘCEJ",
         "action": "Zagraj w dowolnym momencie. Możesz obejrzeć stos kart odrzuconych dowolnego gracza i anihilować dowolne dwie karty. Następnie musisz anihilować jeden atut, który znajduje się na wierzchu twojej talii (nie patrz, co straciłeś).",
-        "image": "image30",
+        "image": "image30.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -694,7 +694,7 @@
             "Red_Materials"
         ],
         "action": "Dołącz w trakcie swojej tury do dowolnego Miejsca. WB tego Miejsca ulega podwojeniu. Ten modyfikator stosuje się przed innymi",
-        "image": "image31",
+        "image": "image31.png",
         "cv": "X",
         "cv1": 2,
         "author": "PAUL BONNER"
@@ -707,7 +707,7 @@
         "post play": "Annihilated",
         "name": "OCALAŁE SUROWCE",
         "action": "Zagraj zaraz po zabiciu w walce POJAZDU. Weź kartę zabitego Wojownika i umieść na niej tyle żetonów, ile wynosi jego bazowe WB (całość połóż gdzieś z boku). Podczas Bilansowania możesz wykorzystać te znaczniki jako ikony Surowców. Po zużyciu wszystkich żetonów, Wojownik trafia na stos kart odrzuconych swojego właściciela.",
-        "image": "image32",
+        "image": "image32.png",
         "author": "PAUL BONNER"
     },
     {
@@ -717,7 +717,7 @@
         "time modified": "2011-03-16 06:53:50",
         "name": "ODKRYCIE PRAWDZIWEGO WROGA",
         "action": "PRZEPOWIEDNIA. Wybierz dowolną przynależność różną od Hordy Półksiężyca. Kiedy ta karta znajduje się w grze, WB wszystkich twoich Wojowników walczących z przeciwnikami o wybranej przez ciebie przynależności zwiększa się o +2.",
-        "image": "image33",
+        "image": "image33.png",
         "affiliation": "Crescentia",
         "cv": "+",
         "cv1": 2,
@@ -730,7 +730,7 @@
         "time modified": "2011-03-16 06:54:34",
         "name": "ODKRYCIE SŁABOŚCI PRZECIWNIKA",
         "action": "PRZEPOWIEDNIA. Kiedy ta karta znajduje się w grze, Wojownicy, których zaatakujesz nie zyskują pozytywnych modyfikatorów dawanych przez inne karty. Negatywne modyfikatory cały czas działają. Jeśli to Wojownicy przeciwnika najeżdżają lub atakują, modyfikatory działają zwyczajnie.",
-        "image": "image34",
+        "image": "image34.png",
         "affiliation": "Crescentia",
         "author": "STUDIO PARENTE"
     },
@@ -741,7 +741,7 @@
         "time modified": "2011-03-16 06:55:07",
         "name": "ODLICZANIE",
         "action": "Wprowadź do gry pod koniec swojej tury. Zmieniły się wymagania zwycięstwa. Umieść 7 żetonów na tej karcie. Zdejmuj jeden żeton podczas każdego swojego kroku pierwszego (Dobieranie). Kiedy usuniesz wszystkie żetony, gra kończy się i zwycięża ten gracz, który posiada najwięcej PZ. Jeśli ta karta zostanie odrzucona, działają normalne warunki zwycięstwa.",
-        "image": "image35",
+        "image": "image35.png",
         "author": "LES EDWARDS"
     },
     {
@@ -770,7 +770,7 @@
         "post play": "Annihilated",
         "name": "OŚWIECENIE",
         "action": "Zagraj w dowolnym momencie. Wszyscy gracze, za wyjątkiem ciebie, muszą aż do początku twojej następnej tury mieć odkryte karty na swoich rękach.",
-        "image": "image36",
+        "image": "image36.png",
         "author": "PETER ANDREW JONES"
     },
     {
@@ -781,7 +781,7 @@
         "post play": "Annihilated",
         "name": "PACYFISTA",
         "action": "Zagraj podczas tury dowolnego gracza, zanim dojdzie do kroku Atak. Gracz nie może w tej turze przeprowadzić ataku lub najazdu (ty decydujesz, czego).",
-        "image": "image37",
+        "image": "image37.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -844,7 +844,7 @@
         "time modified": "2011-03-16 06:57:23",
         "name": "PISMO INKWIZYTORA BENEDIKTUSA",
         "action": "Koszt Początkowy: 5. Dołącz w dowolnym momencie do swojego Przywódcy. Kiedy karta znajduje się w grze, możesz Werbować WYSPIARZY. Nie możesz zagrać tej karty, jeśli twój Przywódca przynależy do Legionu Ciemności",
-        "image": "image38",
+        "image": "image38.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -855,7 +855,7 @@
         "post play": "Annihilated",
         "name": "PLAGA",
         "action": "Zagraj w dowolnym momencie. Wszyscy Wojownicy znajdujący się w grze zostają odrzuceni wraz z dołączonymi do nich kartami.",
-        "image": "image39",
+        "image": "image39.png",
         "author": "SIMON BISLEY"
     },
     {
@@ -866,7 +866,7 @@
         "post play": "Annihilated",
         "name": "PLANY ZNISZCZENIA",
         "action": "Koszt Początkowy: 3. Zagraj zaraz po tym, jak twoje Miejsce zostanie zniszczone. I tak zamierzałeś zrównać je z ziemią. Twój przeciwnik nie zdobywa PZ, a twoje Miejsce zostaje odrzucone, zamiast trafić do rąk najeźdźcy.",
-        "image": "image40",
+        "image": "image40.png",
         "author": "PAUL BONNER"
     },
     {
@@ -893,7 +893,7 @@
         "time modified": "2011-03-16 07:00:29",
         "name": "PODZIAŁ BOGACTWA",
         "action": "Wprowadź do gry w dowolnym momencie. Kiedy ta karta znajduje się w grze, żaden z graczy nie może mieć więcej niż 10 Jednostek Złota w swoich Zasobach Złota. Nadmiar należy odłożyć do Wspólnej Pul",
-        "image": "image41",
+        "image": "image41.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -936,7 +936,7 @@
         "post play": "Annihilated",
         "name": "POTĘŻNE WICHRY",
         "action": "Zagraj podczas dowolnego ataku lub najazdu z powietrza. Atak/najazd natychmiast kończy się ostatecznym remisem. Ponadto do początku następnej tury gracza, który właśnie wykonuje działania, nie można przeprowadzać żadnych ataków ani najazdów z powiet",
-        "image": "image42",
+        "image": "image42.png",
         "author": "PAUL BONNER"
     },
     {
@@ -1043,7 +1043,7 @@
         "post play": "Annihilated",
         "name": "REKONSTRUKCJA",
         "action": "Zagraj podczas swojej tury. Możesz przeorganizować ułożenie Miejsc w swojej Krainie tak, jak chcesz. Nowy wygląd Krainy musi być legalny. Wszystkie karty dołączone do Miejsc pozostają dołączone i dalej działają. Nie możesz poruszyć swego Przywódcy i kart UNIERUCHOMIONYCH.",
-        "image": "image43",
+        "image": "image43.png",
         "author": "STEFAN THUNBERG"
     },
     {
@@ -1073,7 +1073,7 @@
         "post play": "Annihilated",
         "name": "SKROMNE ZWYCIĘSTWO",
         "action": "Zagraj zaraz po tym, jak jeden z twoich Wojowników lub Grup zabije innego w walce. Zdobywasz tyle PZ, ile wynosi bazowe WB pokonanego. Jeśli przeciwnikiem była Grupa, możesz zdobyć PZ tylko za jednego Wojownika (ty decydujesz, za którego). Musisz pominąć swój następny atak i najazd.",
-        "image": "image44",
+        "image": "image44.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1084,7 +1084,7 @@
         "post play": "Annihilated",
         "name": "SKUPIENIE",
         "action": "Zagraj w dowolnym momencie. Natychmiast po zagraniu Skupienia musisz anihilować jedną z kart, które znajdują się na twojej ręce. Aż do początku twojej następnej tury nie można przeprowadzać najazdów. Jeśli zagrałeś tę kartę w trakcie najazdu, kończy się on ostatecznym remisem. Wciąż można przeprowadzać ataki.",
-        "image": "image45",
+        "image": "image45.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1102,7 +1102,7 @@
         "time modified": "2011-03-16 07:04:03",
         "name": "SPALONA ZIEMIA",
         "action": "UNIERUCHOMIONA. Zagraj zaraz po tym, jak zniszczysz jakieś Miejsce. Umieść tę kartę tam, gdzie znajdowało się to Miejsce. Od tej pory żadne Miejsce nie może zostać tu umieszczone. Przez tę kartę nie mogą przechodzić Linie Dostawcze.",
-        "image": "image46",
+        "image": "image46.png",
         "author": "PAUL BONNER"
     },
     {
@@ -1112,7 +1112,7 @@
         "time modified": "2011-03-16 07:04:47",
         "name": "SPOJRZENIE W PRZYSZŁOŚĆ",
         "action": "PRZEPOWIEDNIA. Kiedy ta karta znajduje się w grze, wszyscy twoi przeciwnicy muszą przez cały czas pokazywać wszystkim co mają na ręce. Na początku każdej swojej tury musisz zapłacić 4 Jednostki Złota, aby ta karta nadal znajdowała się w grze. Jeśli nie zapłacisz, musisz ją odrzucić.",
-        "image": "image47",
+        "image": "image47.png",
         "affiliation": "Crescentia",
         "author": "STUDIO PARENTE"
     },
@@ -1124,7 +1124,7 @@
         "post play": "Annihilated",
         "name": "SPOTKANIE NA SZCZYCIE",
         "action": "TEJ KARTY MOŻNA UŻYĆ TYLKO PODCZAS GRY ZESPOŁOWEJ. Zagraj w dowolnym momencie. Ty i twoi koledzy z zespołu możecie odejść od stołu i powymieniać się kartami, które macie na ręku. Gracze mogą wrócić do stołu z dowolną liczbą atutów w ręku. Zyskują oni pełną kontrolę nad tymi kartami do końca gry. Wymiana kart nie powinna trwać dłużej niż 3 minuty. Każdy członek zespołu może zagrać tę kartę tylko raz w trakcie całej gry.",
-        "image": "image48",
+        "image": "image48.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1146,7 +1146,7 @@
         "post play": "Annihilated",
         "name": "STRASZLIWA ULEWA",
         "action": "Zagraj podczas dowolnego ataku lub najazdu lądem. Atak/najazd natychmiast kończy się ostatecznym remisem. Ponadto do początku następnej tury gracza, który właśnie wykonuje działania, nie można przeprowadzać żadnych ataków ani najazdów lądem.",
-        "image": "image49",
+        "image": "image49.png",
         "author": "PAUL BONNER"
     },
     {
@@ -1199,7 +1199,7 @@
         "post play": "Annihilated",
         "name": "SZTUCZKA",
         "action": "Zagraj w dowolnym momencie. Możesz zamienić swoje Zasoby Złota z Zasobami Złota innego gracza. Kiedy używasz tego atutu, musisz anihilować dwie karty, które znajdują się na wierzchu twojej talii.",
-        "image": "image50",
+        "image": "image50.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1246,7 +1246,7 @@
         "post play": "Annihilated",
         "name": "TERRORYZM",
         "action": "Zagraj w dowolnym momencie na którekolwiek Miejsce, znajdujące się w grze i zapłać tyle Jednostek Złota, ile wynosi WB tego Miejsca. Kartę symbolizującą to Miejsce należy natychmiast odrzucić. Za to działanie nie zdobywa się PZ.",
-        "image": "image51",
+        "image": "image51.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1256,7 +1256,7 @@
         "time modified": "2011-03-16 07:07:39",
         "name": "TOKSYCZNY WYCIEK",
         "action": "Dołącz w swojej turze do dowolnego Miejsca, które produkuje SU lub PA. Kiedy ta karta znajduje się w grze, wszystkie karty przyległe do tego Miejsca produkują o jedną ikonę ŻW mniej (jeśli w ogóle jakieś produkują). Karta nie może produkować mniej niż 0 ikon.",
-        "image": "image52",
+        "image": "image52.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1312,7 +1312,7 @@
         "time modified": "2011-03-16 07:08:11",
         "name": "UNIERUCHOMIONY",
         "action": "Zagraj na dowolnego Wojownika zaraz po tym, kiedy zostanie zabity. Nie trzeba go odrzucać, nie może jednak atakować, wchodzić w skład Ofensywnych i Defensywnych Grup, przeprowadzać najazdów, Przenosić się, korzystać ze specjalnych zdolności oraz otrzymywać kart dołączanych. Po prostu nic nie robi, tylko pochłania zasoby tak długo, jak ta karta znajduje się w grze. Kiedy zostanie ona odrzucona, należy odrzucić również jego.",
-        "image": "image53",
+        "image": "image53.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1323,7 +1323,7 @@
         "post play": "Annihilated",
         "name": "UPADEK!",
         "action": "Zagraj podczas przeprowadzanego przez ciebie najazdu. Twoi najeźdźcy powracają do twojego Oddziału. Najazd kończy się natychmiast.",
-        "image": "image54",
+        "image": "image54.png",
         "author": "JOHN MATSON"
     },
     {
@@ -1334,7 +1334,7 @@
         "post play": "Annihilated",
         "name": "UTRATA POTENCJAŁU",
         "action": "Zagraj w dowolnym momencie. Możesz obejrzeć karty na ręku jednego z graczy. Za każde 3 Jednostki Złota możesz odrzucić dowolną trzymaną przez niego kartę. Za każde 6 Jednostek Złota możesz anihilować jedną z nich.",
-        "image": "image55",
+        "image": "image55.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1363,7 +1363,7 @@
         "post play": "Annihilated",
         "name": "WIATR PRZEMIAN",
         "action": "TEJ KARTY MOŻNA UŻYĆ TYLKO PODCZAS GRY ZESPOŁOWEJ. Zagraj ją w dowolnym momencie. Kolejność graczy odwraca się. Jeśli gra toczyła się zgodnie z ruchem wskazówek zegara, teraz będzie się toczyć przeciwnie do ruchu wskazówek zegara (i na odwrót). Ta karta nie pozwala graczowi przeprowadzić dwóch tur jedna po drugiej.",
-        "image": "image56",
+        "image": "image56.png",
         "author": "PETER ANDREW JONES"
     },
     {
@@ -1400,7 +1400,7 @@
             "Blue_Fuel"
         ],
         "action": "Koszt Początkowy: 10. Dołącz w dowolnym momencie do swojego Przywódcy. Możesz zagrywać karty o dowolnej przynależności. Raz na turę możesz zapłacić 10 Jednostek Złota i dołączyć do swojego Przywódcy dowolną znajdującą się w grze KLUCZ-CZASZKĘ. Jeśli ta karta zostanie odrzucona, wszystkie twoje KLUCZE-CZASZKI również należy odrzucić, a twoje Zasoby Złota wracają do Wspólnej Puli. W danej chwili możesz mieć dołączoną do Przywódcy tylko jedną kopię tej karty.",
-        "image": "image57",
+        "image": "image57.png",
         "author": "PAUL BONNER"
     },
     {
@@ -1411,7 +1411,7 @@
         "post play": "Discarded",
         "name": "W SAMĄ PORĘ",
         "action": "Zagraj podczas najazdu, którego celem jest twoje Miejsce lub Przywódca. Możesz przenieść jednego Wojownika ze swojego Oddziału na swoje Pogranicze, musi on jednak mieć możliwość walki wybraną przez najeźdźców Taktyką. Ten Wojownik nie przeciwdziała najazdowi, ale dodaje swoje WB do WB Miejsca/Przywódcy. Jeśli przegrasz konflikt, Wojownik zostaje zabity (nie ma to wpływu na zdobywane PZ).",
-        "image": "image58",
+        "image": "image58.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1431,7 +1431,7 @@
         "post play": "Annihilated",
         "name": "WSPÓLNE PRZEDSIĘWZIĘCIE",
         "action": "TEJ KARTY MOŻNA UŻYĆ TYLKO PODCZAS GRY ZESPOŁOWEJ. Zagraj w dowolnym momencie. Możesz natychmiast przenieść dowolną liczbę Wojowników (wraz z dołączonymi do nich kartami) ze swojej Krainy do Krainy kolegi z zespołu. Twój kolega decyduje, gdzie zostaną oni umieszczeni, ale nie kontroluje ich. Jeśli któraś z przeniesionych kart zostanie odrzucona, trafia na twój stos kart odrzuconych.",
-        "image": "image59",
+        "image": "image59.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1441,7 +1441,7 @@
         "time modified": "2011-03-16 07:12:19",
         "name": "WSPÓŁPRACA",
         "action": "TEJ KARTY MOŻNA UŻYĆ TYLKO PODCZAS GRY ZESPOŁOWEJ. Dołącz ją do swojego Przywódcy. Kiedy karta znajduje się w grze, ty i twoi koledzy z zespołu możecie Przenosić Wojowników między Oddziałami i Pograniczami. Ty możesz Przenosić Wojowników tylko DO swoich kolegów, a nie OD nich.",
-        "image": "image60",
+        "image": "image60.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1470,7 +1470,7 @@
         "post play": "Annihilated",
         "name": "WSZYSTKO W SWOIM CZASIE",
         "action": "Zagraj na początku swojej tury. Możesz w tej turze przeprowadzić Bilansowanie przed Wykonywaniem Akcji.",
-        "image": "image61",
+        "image": "image61.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1510,7 +1510,7 @@
         "time modified": "2011-03-16 07:13:39",
         "name": "WYSSANIE DUSZY",
         "action": "MROCZNA HARMONIA. Obdarz swojego Wojownika. Za każdego przeciwnika, którego ten Wojownik pokona w walce, umieść na jego karcie znacznik. Każdy znacznik zwiększa WB Wojownika o +2. Jeśli Wojownik wchodzi w skład Grupy, to nie zdobywa znaczników. Znaczniki pozostają, nawet jeżeli ta karta Mrocznej Harmonii zostanie odrzucona.",
-        "image": "image62",
+        "image": "image62.png",
         "affiliation": "The Dark Legion",
         "cv": "+",
         "cv1": 2,
@@ -1569,7 +1569,7 @@
         "post play": "Annihilated",
         "name": "ZACZNIJMY OD NOWA",
         "action": "Zagraj w dowolnym momencie. Każdy z graczy musi odrzucić wszystkie karty, które ma w ręku, a następnie połączyć stos kart odrzuconych z talią, potasować tak powstałą nową talię i wyciągnąć z niej siedem kart (tylko siedem, nawet jeśli dany gracz może wyciągnąć więcej kart). Kiedy ty wyciągniesz już siedem kart, musisz anihilować atut, który znajduje się na wierzchu twojej talii (nie patrz co straciłeś).",
-        "image": "image63",
+        "image": "image63.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1597,7 +1597,7 @@
         "post play": "Annihilated",
         "name": "ZANIECZYSZCZENIE ŹRÓDŁA WODY",
         "action": "SABOTAŻ. Zagraj podczas kroku Wykonywanie Akcji, jeśli posiadasz WYWROTOWCA w Krainie innego gracza. Gracz kontrolujący WYWROTOWCA musi odrzucić połowę swoich Wojowników (zaokrąglając w dół). Gracz, na którego działa karta, decyduje, których Wojowników odrzucić, ale WYWROTOWIEC musi pozostać.",
-        "image": "image65",
+        "image": "image65.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1617,7 +1617,7 @@
         "post play": "Discarded",
         "name": "ZASKOCZENIE",
         "action": "Zagraj w dowolnym momencie na jakąś Grupę Ofensywną lub Defensywną. Ta Grupa ulega rozproszeniu.",
-        "image": "image66",
+        "image": "image66.png",
         "author": "ANGUS MCKIE"
     },
     {
@@ -1636,7 +1636,7 @@
         "time modified": "2011-03-16 07:21:17",
         "name": "ZŁY FRONT",
         "action": "Dołącz podczas swojej tury do dowolnego Miejsca. Dopóki ta karta znajduje się w grze, to Miejsce nie może być celem najazdu. Jeśli dzięki tej karcie wszystkie Miejsca w Krainie nie mogą być celem najazdu, to może nim zostać Przywódca (nawet jeśli nie ma odsłoniętych krawędzi).",
-        "image": "image67",
+        "image": "image67.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -1655,7 +1655,7 @@
         "time modified": "2011-03-16 07:19:37",
         "name": "ZMIANA WYGLĄDU",
         "action": "MROCZNA HARMONIA. Obdarz swoją PIECHOTĘ. Od tej pory ten Wojownik może zmieniać swój wygląd tak, że będzie przypominał dowolną PIECHOTĘ znajdującą się w grze. Należy uznać, że jest on idealną kopią wybranej PIECHOTY, wyłączając dołączone karty. Wojownik może wybrać tylko raz. Dołączone do niego karty działają bez zmian, za wyjątkiem tych, z których nie pozwala mu korzystać nowy wygląd.",
-        "image": "image64",
+        "image": "image64.png",
         "affiliation": "The Dark Legion",
         "author": "STUDIO PARENTE"
     },
@@ -1676,7 +1676,7 @@
         "post play": "Annihilated",
         "name": "ZNAD KRAWĘDZI",
         "action": "Zagraj podczas swojej tury. Jeśli w trakcie tej tury nie wykonałeś/wykonasz żadnych akcji, nie przeprowadzisz ani ataku, ani najazdu, możesz przenieść dowolną kartę ze stosu kart anihilowanych do ręki.",
-        "image": "image68",
+        "image": "image68.png",
         "author": "STUDIO PARENTE"
     },
     {
@@ -2583,7 +2583,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych miejsc wzrasta o +2. Abdul może zagrywać karty Wojowników będących JAZDĄ.",
-        "image": "image2",
+        "image": "image2.png",
         "affiliation": "Crescentia",
         "sea": false,
         "cv": 1,
@@ -2604,7 +2604,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +1. Podczas kroku Bilansowania, Ali musi wydać tylko 1 Jednostkę Złota (zamiast 2), żeby zdobyć czasową kontrolę nad ikoną ŻW.",
-        "image": "image3",
+        "image": "image3.png",
         "affiliation": "Crescentia",
         "sea": false,
         "cv": 1,
@@ -2626,7 +2626,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Werbując Wojowników Astinou płaci tylko połowę Kosztu Początkowego (zaokrąglając w dół).",
-        "image": "image4",
+        "image": "image4.png",
         "affiliation": "The Templars",
         "sea": false,
         "cv": 1,
@@ -2649,7 +2649,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Jeżeli Wojownicy Caina nie atakują podczas jego tury, mogą oni w tej turze dokonać najazdu dwukrotnie.",
-        "image": "image5",
+        "image": "image5.png",
         "affiliation": "The Lutheran Triad",
         "sea": false,
         "cv": 1,
@@ -2672,7 +2672,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Do Wojowników Driera można dołączać dowolne karty EKWIPUNKU niezależnie od ich przynależności. Nadal musisz zagrać kartę, która pozwala wyłożyć EKWIPUNEK.",
-        "image": "image7",
+        "image": "image7.png",
         "affiliation": "The Sons of Rasputin",
         "sea": false,
         "cv": 1,
@@ -2693,7 +2693,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +1. Podczas swojego kroku Odrzucania Rauft może odrzucić do 2 kart.",
-        "image": "image8",
+        "image": "image8.png",
         "affiliation": "The Sons of Rasputin",
         "sea": false,
         "cv": 1,
@@ -2714,7 +2714,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +1. Jeżeli przeciwnik udanie najedzie tę kartę Przywódcy, Corick decyduje jaki rodzaj nagrody otrzyma wróg.",
-        "image": "image10",
+        "image": "image10.png",
         "affiliation": "The Lutheran Triad",
         "sea": false,
         "cv": 1,
@@ -2736,7 +2736,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Podczas kroku bilansowania Spetz może pominąć jedną z ikon zasobów na każdym z jej POJAZDÓW. W każdej turze może to być inna ikona.",
-        "image": "image11",
+        "image": "image11.png",
         "affiliation": "The Sons of Rasputin",
         "sea": false,
         "cv": 1,
@@ -2758,7 +2758,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Podczas swojego kroku Dobierania Hussein może dobrać do 8 kart.",
-        "image": "image12",
+        "image": "image12.png",
         "affiliation": "Crescentia",
         "sea": false,
         "cv": 1,
@@ -2782,7 +2782,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +3. Jeśli Jonahowi po Bilansowaniu pozostaną jakieś ikony SU, może on dodać do swoich Zapasów Złota tyle samo Jednostek Złota ze Wspólnej Puli.",
-        "image": "image13",
+        "image": "image13.png",
         "affiliation": "The Lutheran Triad",
         "sea": false,
         "cv": 1,
@@ -2804,7 +2804,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Wydając 3 Jednostki Złota Josef może dobrać dodatkową kartę podczas swojego kroku Dobierania. Nie może w ten sposób wyciągnąć więcej niż 3 dodatkowe karty.",
-        "image": "image14",
+        "image": "image14.png",
         "affiliation": "The Lutheran Triad",
         "sea": false,
         "cv": 1,
@@ -2828,7 +2828,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Leitheuser może zagrywać karty Wojowników, którzy są POJAZDAMI.",
-        "image": "image15",
+        "image": "image15.png",
         "affiliation": "The Sons of Rasputin",
         "sea": false,
         "cv": 1,
@@ -2852,7 +2852,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Za każdą ikonę ZŁ pozostałą po Bilansowaniu Montagne zarabia 2 Jednostki Złota (zamiast 1).",
-        "image": "image16",
+        "image": "image16.png",
         "affiliation": "The Templars",
         "cv": 1,
         "cv1": 0,
@@ -2873,7 +2873,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Ancyrite nigdy nie może wybudować KATEDRY BRACTWA ani wykładać Wojowników Bractwa. Wszyscy Wojownicy Ancyrite'a uważani są za GODNYCH MROCZNEJ HARMONII (chyba że dany Wojownik nigdy nie może być GODNY).",
-        "image": "image17",
+        "image": "image17.png",
         "affiliation": "The Dark Legion",
         "sea": false,
         "cv": 1,
@@ -2896,7 +2896,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Oprócz POJAZDÓW przynależnych jego plemieniu, Samir może używać POJAZDÓW Templariuszy, Synów Rasputina i Luteriańskiej Triady. Nadal musisz zagrać kartę, która pozwala wykładać pojazdy.",
-        "image": "image18",
+        "image": "image18.png",
         "affiliation": "Crescentia",
         "sea": false,
         "cv": 1,
@@ -2919,7 +2919,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Serennel nie może budować AMBASAD, ale za pozostałe Miejsca płaci tylko połowę Kosztu Początkowego (zaokrąglając w dół).",
-        "image": "image19",
+        "image": "image19.png",
         "affiliation": "The Templars",
         "sea": false,
         "cv": 1,
@@ -2940,7 +2940,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +1. WB wszystkich Wojowników Verage'a znajdujących się na jego Pograniczu zwiększa się o +1. Ten modyfikator stosowany jest po wszystkich innych.",
-        "image": "image20",
+        "image": "image20.png",
         "affiliation": "The Templars",
         "sea": false,
         "cv": 1,
@@ -2964,7 +2964,7 @@
             "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +3. Marcus nigdy nie może wybudować KATEDRY BRACTWA ani wykładać Wojowników Bractwa. Marcus, poza kartami jemu przynależnymi, może również korzystać z kart przynależnych Synom Rasputina.",
-        "image": "image21",
+        "image": "image21.png",
         "affiliation": "The Dark Legion",
         "sea": false,
         "cv": 1,
@@ -2985,7 +2985,7 @@
             "Red_Materials"
         ],
         "action": "Koszt Początkowy: 3. POJAZD. SAMOTNIK. Blitztanka mogą atakować tylko Grupy Ofensywne i inne POJAZDY. Pojedynczy PIECHURZY i JEZDNI nie mogą atakować Blitztanka. Ten pojazd może atakować pojedynczych PIECHURÓW i JEZDNYCH.",
-        "image": "image5",
+        "image": "image5.png",
         "affiliation": "The Sons of Rasputin",
         "air": false,
         "sea": false,
@@ -3004,7 +3004,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. PIECHOTA. SAMOTNIK. Błogosławiona Łza nie może atakować, ale może się normalnie bronić. Jeśli w najeźdzoe bierze udział tylko pojedyncza Błogosławiona Łza, jej WB wzrasta o +15 i może najechać dowolne Miejsce, nawet takie, które nie ma Odsłoniętych krawędzi. Dodatkowo może najechać Przywódcę, nawet jeżeli w Osadzie znajdują się jakieś Miejsca. Po najeździe (niezależnie od wyniku) jest anihilowana. Jeśli Błogosławiona Łza zostanie pokonana w walce, również ulega anihilacji, a dodatkowo wszyscy jej przeciwnicy giną (są odrzucani).",
-        "image": "image6",
+        "image": "image6.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -3023,7 +3023,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. WB Centuriona Hordy wzrasta o +2 za każdego ŻOŁNIERZA HORDY znajdującego się w tym samym Oddziale lub Pograniczu.",
-        "image": "image7",
+        "image": "image7.png",
         "affiliation": "The Templars",
         "air": false,
         "sea": false,
@@ -3042,7 +3042,7 @@
             "Red_Food"
         ],
         "action": "JAZDA. Uważany za KAWALERZYSTĘ. WB Ciężkiego Kawalerzysty wzrasta o +1 za każdego innego KAWALERZYSTĘ w tym samym Oddziale lub Pograniczu. Nie zmienia swojego własnego WB. Nie działają na niego negatywne modyfikatory do WB.",
-        "image": "image8",
+        "image": "image8.png",
         "affiliation": "The Lutheran Triad",
         "air": false,
         "sea": false,
@@ -3061,7 +3061,7 @@
             "Red_Food"
         ],
         "action": "JAZDA. SAMOTNIK. Jeśli na twoim Pograniczu przebywa Drapieżniak, to twoja Osada nie może być najeżdżana, nawet z wody czy z powietrza.",
-        "image": "image9",
+        "image": "image9.png",
         "affiliation": "The Templars",
         "air": false,
         "sea": false,
@@ -3081,7 +3081,7 @@
             "Red_Food"
         ],
         "action": "JAZDA.",
-        "image": "image10",
+        "image": "image10.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -3101,7 +3101,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. JAZDA. SAMOTNIK. GODNY MROCZNEJ HARMONII. Ezoghul używa śmiercionośnego Działka Ręcznego Blutarch i miecza Ashreketh. Nie może używać BRONI ani PANCERZY.",
-        "image": "image1",
+        "image": "image1.png",
         "affiliation": "The Dark Legion",
         "air": false,
         "sea": false,
@@ -3120,7 +3120,7 @@
             "Red_Fuel"
         ],
         "action": "Koszt Początkowy: 2. POJAZD. Jeśli walka, w której uczestniczy Falisty Ogon, kończy się remisem, to Falisty Ogon i tak wygra.",
-        "image": "image2",
+        "image": "image2.png",
         "affiliation": "The Sons of Rasputin",
         "land": false,
         "sea": false,
@@ -3138,7 +3138,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Jeśli w skład Grupy Ofensywnej lub Defensywnej wchodzą tylko Fizylierzy, WB każdego z nich wzrasta o +2.",
-        "image": "image3",
+        "image": "image3.png",
         "affiliation": "The Lutheran Triad",
         "air": false,
         "sea": false,
@@ -3157,7 +3157,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Uważany za SOLDATA. Musisz mieć w twojej Osadzie kartę umożliwiającą ci korzystanie z EKWIPUNKU, żeby zagrać tę kartę. Podczas ataku bazowe WB Flammen Soldata ulega podwojeniu. Ten modyfikator stosuje się na końcu. WB Flammen Soldata jest normalne, kiedy jest on atakowany lub kiedy najeżdża. Nie może używać BRONI.",
-        "image": "image4",
+        "image": "image4.png",
         "affiliation": "The Sons of Rasputin",
         "air": false,
         "sea": false,
@@ -3177,7 +3177,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. GODNY MROCZNEJ HARMONII. Kastraci mogą najeżdżać dwukrotnie, jeśli robią to sami. Pierwszy raz muszą najechać jakieś odsłonięte Miejsce. Jeżeli pierwszy najazd zakończy się sukcesem, mogą najechać dowolną kartę sąsiadującą z ich pierwszym celem, nawet jeśli jest to karty Przywódcy.",
-        "image": "image11",
+        "image": "image11.png",
         "affiliation": "The Dark Legion",
         "air": false,
         "sea": false,
@@ -3195,7 +3195,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 5. KARTA UNIKATOWA, PIECHOTA, WYSPIARZ. Grinder może atakować cztery razy w turze, ale nigdy nie może najeżdżać. Nie może używać BRONI ani PANCERZY.",
-        "image": "image12",
+        "image": "image12.png",
         "affiliation": "The Brotherhood",
         "cv": 0,
         "cv1": 4,
@@ -3212,7 +3212,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 5. KARTA UNIKATOWA. PIECHOTA. WYSPIARZ. Podczas ataku WB Siostry Indygo zwiększa się o +6 (kiedy jest atakowana i podczas najazdu jej WB nie ulega zmianie). Nie może używać BRONI.",
-        "image": "image13",
+        "image": "image13.png",
         "affiliation": "The Brotherhood",
         "cv": 0,
         "cv1": 3,
@@ -3228,7 +3228,7 @@
             "Red_Food"
         ],
         "action": "JAZDA. WB Kawalerzysty wzrasta o +1 za każdego innego KAWALERZYSTĘ w tym samym Oddziale lub Pograniczu. Nie zmienia swego własnego WB. Nie działają na niego negatywne modyfikatory do WB.",
-        "image": "image14",
+        "image": "image14.png",
         "affiliation": "The Lutheran Triad",
         "air": false,
         "sea": false,
@@ -3246,7 +3246,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Musisz mieć w swojej Osadzie kartę umożliwiającą ci korzystanie z EKWIPUNKU, żeby zagrać tę kartę. Jeager nie może najeżdżać z powietrza, jeśli w tej samej rundzie atakował z powietrza (nadal może najeżdżać z ziemi).",
-        "image": "image15",
+        "image": "image15.png",
         "affiliation": "The Sons of Rasputin",
         "sea": false,
         "cv": 0,
@@ -3263,7 +3263,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. WB Kommendanta zwiększa się o +1 za każdego SOLDATA w tym samym Pograniczu lub Oddziale.",
-        "image": "image16",
+        "image": "image16.png",
         "affiliation": "The Sons of Rasputin",
         "air": false,
         "sea": false,
@@ -3281,7 +3281,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Musisz mieć w twojej Osadzie kartę umożliwiającą ci używanie EKWIPUNKU, żeby zagrać tę kartę. WB Korsarza jest podwajane, kiedy ten atakuje. Ten modyfikator stosuję się na samym początku. Podczas najazdu jego WB się nie zmienia. Nie może używać BRONI ani PANCERZY.",
-        "image": "image17",
+        "image": "image17.png",
         "affiliation": "The Lutheran Triad",
         "air": false,
         "sea": false,
@@ -3301,7 +3301,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. JAZDA. WB Kommendanta zwiększa się o +1 za każdego KOZAKA w tym samym Pogrganiczu lub Oddziale.",
-        "image": "image18",
+        "image": "image18.png",
         "affiliation": "The Sons of Rasputin",
         "air": false,
         "sea": false,
@@ -3319,7 +3319,7 @@
             "Red_Food"
         ],
         "action": "JAZDA. Uważany za KOZAKA. Kozaccy Zwiadowcy na twoim Pograniczu chronią cię przed najazdami z ziemi, wody i powietrza. Mogą łączyć się w Grupy Ofensywne i Defensywne tylko z innymi Kozackimi Zwiadowcami.",
-        "image": "image19",
+        "image": "image19.png",
         "affiliation": "The Sons of Rasputin",
         "air": false,
         "sea": false,
@@ -3338,7 +3338,7 @@
             "Red_Food"
         ],
         "action": "JAZDA. Jeśli Grupa Ofensywna lub Defensywna składa się tylko z Kozaków, to WB każdego z nich zwiększa się o +1.",
-        "image": "image20",
+        "image": "image20.png",
         "affiliation": "The Sons of Rasputin",
         "air": false,
         "sea": false,
@@ -3356,7 +3356,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Przeciwnik musi atakować Legionistów Templariuszy (lub Grupy w skład których wchodzą Legioniści Templariuszy) zanim zaatakuje jakiegoś innego wojownika w tym samym Oddziale/Pograniczu. NIEOGRANICZONA LICZBA W TALII.",
-        "image": "image21",
+        "image": "image21.png",
         "affiliation": "The Templars",
         "air": false,
         "sea": false,
@@ -3374,7 +3374,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. WB Luterańskiego Sierżanta wzrasta o +1 za każdego LUTERAŃSKIEGO WIERNEGO w tym samym Oddziale lub Pograniczu.",
-        "image": "image22",
+        "image": "image22.png",
         "affiliation": "The Lutheran Triad",
         "air": false,
         "sea": false,
@@ -3392,7 +3392,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. NIEOGRANICZONA LICZBA W TALII.",
-        "image": "image23",
+        "image": "image23.png",
         "affiliation": "The Lutheran Triad",
         "air": false,
         "sea": false,
@@ -3410,7 +3410,7 @@
             "Red_Food"
         ],
         "action": "JAZDA.",
-        "image": "image24",
+        "image": "image24.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -3429,7 +3429,7 @@
             "Red_Food"
         ],
         "action": "JAZDA. Mastodont nie może atakować innych wojowników Hordy Półksiężyca.",
-        "image": "image25",
+        "image": "image25.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -3448,7 +3448,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. SAMOTNIK. Męczennik może atakować tylko JAZDĘ, a najeżdżać tylko PIŻMIEJA HORDY PÓŁKSIĘŻYCA. Zarówno po ataku, jak i po najeździe (niezależnie od wyniku) jest on anihilowany. Jeśli zostanie zaatakowany, jego bazowe WB wynosi 2. Jeśli zostanie pokonany w walce, także zostaje anihilowany, a dodatkowo wszyscy jego przeciwnicy giną (i są odrzucani).",
-        "image": "image26",
+        "image": "image26.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -3466,7 +3466,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 5. KARTA UNIKATOWA. PIECHOTA. WYSPIARZ. Hunter wyposażony jest w potężny Miecz Przemocy i Pistolet \"Egzekutor\", dlatego nie może używać BRONI.",
-        "image": "image27",
+        "image": "image27.png",
         "affiliation": "Megacorporations",
         "cv": 0,
         "cv1": 6,
@@ -3482,7 +3482,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. GODNY MROCZNEJ HARMONII.",
-        "image": "image28",
+        "image": "image28.png",
         "affiliation": "The Dark Legion",
         "air": false,
         "sea": false,
@@ -3497,7 +3497,7 @@
         "time modified": "2011-03-15 22:45:38",
         "name": "OŻYWIEŃCZY LEGIONISTA",
         "action": "PIECHOTA. Ożywieńczy Legioniści nie pobierają żadnych ikon. Nigdy nie mogą tworzyć Grup Defensywnych ani być Marynarzami lub Lotnikami. NIEOGRANICZONA LICZBA W TALII.",
-        "image": "image29",
+        "image": "image29.png",
         "affiliation": "The Dark Legion",
         "air": false,
         "sea": false,
@@ -3515,7 +3515,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Przeciwnicy nie mogą atakować Patriarchy, chyba że jest on jedynym wojownikiem w Oddziale/Pograniczu (lub jest członkiem jedynej Grupy).",
-        "image": "image31",
+        "image": "image31.png",
         "affiliation": "The Lutheran Triad",
         "air": false,
         "sea": false,
@@ -3534,7 +3534,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. JAZDA. GODNY MROCZNEJ HARMONII.",
-        "image": "image32",
+        "image": "image32.png",
         "affiliation": "The Dark Legion",
         "air": false,
         "cv": 0,
@@ -3550,7 +3550,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Musisz mieć w twojej Osadzie kartę umożliwiającą ci używanie EKWIPUNKU, żeby zagrać tę kartę. Jeśli w skład Grupy Ofensywnej wchodzi tylko Piechota Morska Templariuszy, bądź najeżdża sama Piechota Morska Templariuszy. WB każdego z nich wzrasta o +2.",
-        "image": "image33",
+        "image": "image33.png",
         "affiliation": "The Templars",
         "air": false,
         "cv": 0,
@@ -3567,7 +3567,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. NIEOGRANICZONA LICZBA W TALII.",
-        "image": "image34",
+        "image": "image34.png",
         "land": false,
         "sea": false,
         "cv": 0,
@@ -3585,7 +3585,7 @@
             "Red_Fuel"
         ],
         "action": "POJAZD.",
-        "image": "image35",
+        "image": "image35.png",
         "affiliation": "The Templars",
         "land": false,
         "sea": false,
@@ -3604,7 +3604,7 @@
             "Red_Fuel"
         ],
         "action": "POJAZD. Pojazd Powietrzny Palankin nie może brać udziału w ataku ani w najeździe. Jeśli znajduje się na twoim Pograniczu, Palankin uniemożliwia najazdy lądem, z wody i z powietrza. Jeżeli Palankin jest w jednej Grupie z PATRIARCHĄ, WB wszystkich wojowników w tym samym Oddziale/Pograniczu wzrasta o +1 dopóki istnieje ta Grupa.",
-        "image": "image30",
+        "image": "image30.png",
         "affiliation": "The Lutheran Triad",
         "land": false,
         "sea": false,
@@ -3623,7 +3623,7 @@
             "Red_Fuel"
         ],
         "action": "Koszt Początkowy: 2. POJAZD. Posępny Rzeźnik może znajdować się tylko w twoim Oddziale.",
-        "image": "image36",
+        "image": "image36.png",
         "affiliation": "The Lutheran Triad",
         "land": false,
         "sea": false,
@@ -3642,7 +3642,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. PIECHOTA. Łowca może utworzyć Grupy Ofensywne i Defensywne tylko z jednym innym Pretoriańskim Łowcą i z nikim innym. Nie może używać BRONI ani PANCERZY.",
-        "image": "image37",
+        "image": "image37.png",
         "affiliation": "The Dark Legion",
         "air": false,
         "sea": false,
@@ -3660,7 +3660,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Prorok może Wygłaszać Proroctwa Hordy Półksiężyca. Przeciwnicy nie mogą atakować Proroka, chyba że jest on jedynym Wojownikiem w Oddziale/Pograniczu (lub jest członkiem jedynej Grupy).",
-        "image": "image38",
+        "image": "image38.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -3679,7 +3679,7 @@
             "Red_Materials"
         ],
         "action": "PIECHOTA. GODNY MROCZNEJ HARMONII. Tylko inni wojownicy Legionu Ciemności mogą tworzyć Grupę Ofensywną z Razydą. Nie może używać BRONI ani PANCERZY.",
-        "image": "image39",
+        "image": "image39.png",
         "affiliation": "The Dark Legion",
         "air": false,
         "sea": false,
@@ -3697,7 +3697,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 1. PIECHOTA. NIEOGRANICZONA LICZBA W TALII.",
-        "image": "image40",
+        "image": "image40.png",
         "air": false,
         "sea": false,
         "cv": 0,
@@ -3715,7 +3715,7 @@
             "Red_Food"
         ],
         "action": "JAZDA. WB Rogatego Serreta wzrasta o +2, kiedy walczy on przeciwko PIECHOCIE.",
-        "image": "image41",
+        "image": "image41.png",
         "affiliation": "The Templars",
         "air": false,
         "sea": false,
@@ -3734,7 +3734,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Musisz mieć w swojej Osadzie kartę umożliwiającą ci korzystanie z EKWIPUNKU, żeby zagrać tę kartę. Schwerwaffe nie może najeżdżać z powietrza.",
-        "image": "image42",
+        "image": "image42.png",
         "affiliation": "The Sons of Rasputin",
         "air": true,
         "sea": false,
@@ -3752,7 +3752,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 5. KARTA UNIKATOWA. PIECHOTA. CZARODZIEJ. WYSPIARZ. Crenshaw musi, jeśli jest to możliwe, atakować wojowników Legionu Ciemności (to samo dotyczy Grup Ofensywnych, w skład których wchodzi). Nie może używać BRONI ani PANCERZY.",
-        "image": "image43",
+        "image": "image43.png",
         "affiliation": "The Brotherhood",
         "cv": 0,
         "cv1": 7,
@@ -3768,7 +3768,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. WB Sierżanta Rodu zwiększa się o +1 za każdego ŻOŁNIERZA RODU w tym samym Pograniczu lub Oddziale.",
-        "image": "image44",
+        "image": "image44.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -3786,7 +3786,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. NIEOGRANICZONA LICZBA W TALII.",
-        "image": "image45",
+        "image": "image45.png",
         "affiliation": "The Sons of Rasputin",
         "air": false,
         "sea": false,
@@ -3805,7 +3805,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Uważany za SOLDATA. Soldaci Szturmowi mogą tworzyć Grupy Ofensywne i Defensywne tylko z innymi Soldatami Szturmowymi. Podczas walki WB każdego z przeciwników zmniejsza się o -X, gdzie X jest liczbą twoich Soldatów Szturmowych, biorących udział w walce.",
-        "image": "image46",
+        "image": "image46.png",
         "affiliation": "The Sons of Rasputin",
         "air": false,
         "sea": false,
@@ -3824,7 +3824,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 3. JAZDA. Jeśli w skład Grupy Ofensywnej wchodzą tylko Stalowe Byki lub najeżdżają tylko Stalowe Byki, WB każdego z nich zwiększa się o +2.",
-        "image": "image47",
+        "image": "image47.png",
         "affiliation": "The Sons of Rasputin",
         "air": false,
         "sea": false,
@@ -3842,7 +3842,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Musisz mieć w twojej Osadzie kartę umożliwiającą ci używanie EKWIPUNKU, żeby zagrać tę kartę. Jeśli na twoim Pograniczu przebywa Artylerzysta, to twoja Osada nie może być najeżdżana, nawet z wody czy z powietrza. Artylerzysta może być atakowany z wody i z powietrza, ale sam może atakować i najeżdżać tylko lądem. Nie może używać Broni.",
-        "image": "image49",
+        "image": "image49.png",
         "affiliation": "The Lutheran Triad",
         "air": false,
         "sea": false,
@@ -3862,7 +3862,7 @@
             "Red_Food"
         ],
         "action": "JAZDA. SAMOTNIK. Święty Urox może w danej turze atakować lub najeżdżać. W jednej turze nie może robić obu tych rzeczy naraz.",
-        "image": "image48",
+        "image": "image48.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -3881,7 +3881,7 @@
             "Red_Fuel"
         ],
         "action": "POJAZD. Corarius nie może atakować, ale może bronić się i najeżdżać. Jeśli najazd prowadzą tylko Transportery Corarius i KOMANDOSI JEAGER, to mogą oni najeżdżać z ziemi, wody i powietrza, a celem ataku może być dowolna karta, nawet jeżeli nie ma ona Odsłoniętych krawędzi.",
-        "image": "image50",
+        "image": "image50.png",
         "affiliation": "The Sons of Rasputin",
         "land": false,
         "sea": false,
@@ -3899,7 +3899,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Trener może w dowolnym momencie, jeśli tylko leży koszulką do dołu, Przenieść jednego Wojownika JAZDY z Oddziału/Pogranicza, w którym się znajduje do innego Oddziału/Pogranicza. Po tej czynności odwróć Trenera koszulką do dołu. Odwracany jest z powrotem na początku twojej następnej tury. To, w jaki sposób ta karta leży na stole, odzwierciedla tylko gotowość do Przenoszenia JAZDY i nie ma wpływu na grę.",
-        "image": "image51",
+        "image": "image51.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -3919,7 +3919,7 @@
             "Red_Fuel"
         ],
         "action": "Koszt Początkowy: 3. POJAZD. Najazd z powietrza, w którym biorą udział tylko Ukryte Ostrza, może ominąć jednego Wojownika lub jedną Grupę Defensywną znajdującą się na Pograniczu (ty wybierasz którą). Ten Wojownik lub ta Grupa Defensywna nie może zapobiec najazdowi.",
-        "image": "image52",
+        "image": "image52.png",
         "affiliation": "The Sons of Rasputin",
         "land": false,
         "sea": false,
@@ -3938,7 +3938,7 @@
             "Red_Food"
         ],
         "action": "JAZDA. WB Wodnego Serreta wzrasta o +1 za każdą PIECHOTĘ MORSKĄ TEMPLARIUSZY w tym samym Oddziale lub Pograniczu.",
-        "image": "image53",
+        "image": "image53.png",
         "affiliation": "The Templars",
         "land": false,
         "air": false,
@@ -3958,7 +3958,7 @@
             "Red_Food"
         ],
         "action": "JAZDA.",
-        "image": "image54",
+        "image": "image54.png",
         "affiliation": "Crescentia",
         "sea": false,
         "cv": 0,
@@ -3976,7 +3976,7 @@
             "Red_Fuel"
         ],
         "action": "POJAZD. Bystry może w jednej turze albo dwa razy atakować, albo dwa razy najeżdżać. Nie może i atakować i najeżdżać w tej samej turze.",
-        "image": "image55",
+        "image": "image55.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -3995,7 +3995,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. JAZDA. GODNY MROCZNEJ HARMONII.",
-        "image": "image59",
+        "image": "image59.png",
         "affiliation": "The Dark Legion",
         "sea": false,
         "cv": 0,
@@ -4013,7 +4013,7 @@
             "Red_Food"
         ],
         "action": "JAZDA. Uważany za KAWALERZYSTĘ. Jeśli na twoim Pograniczu przebywa Zwiadowca Kawalerii, to twoja Osada nie może być najeżdżana, nawet z wody czy z powietrza. WB Zwiadowcy Kawalerii wzrasta o +1 za każdego innego KAWALERZYSTĘ w tym samym Oddziale lub Pograniczu. Nie zmienia swego własnego WB. Nie działają na niego negatywne modyfikatory do WB.",
-        "image": "image63",
+        "image": "image63.png",
         "affiliation": "The Lutheran Triad",
         "air": false,
         "sea": false,
@@ -4031,7 +4031,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. PIECHOTA. WB Żandarma wzrasta o +2 za każdego innego ŻANDARMA w tym samym Oddziale/Pograniczu.",
-        "image": "image56",
+        "image": "image56.png",
         "affiliation": "The Templars",
         "air": false,
         "sea": false,
@@ -4050,7 +4050,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 3. PIECHOTA. Uważany za ŻANDARMA. Żandarmski Bestal może tworzyć Grupy Ofensywne i Defensywne z innymi Żandarmskimi Bestalami.",
-        "image": "image57",
+        "image": "image57.png",
         "affiliation": "The Templars",
         "air": false,
         "sea": false,
@@ -4068,7 +4068,7 @@
             "Red_Food"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. NIEOGRANICZONA LICZBA W TALII.",
-        "image": "image58",
+        "image": "image58.png",
         "land": false,
         "air": false,
         "cv": 0,
@@ -4085,7 +4085,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. WB Żołnierza Dżihad wzrasta o +2 za każdego JEZDNEGO Hordy Półksiężyca w tym samym Oddziale lub Pograniczu.",
-        "image": "image60",
+        "image": "image60.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -4103,7 +4103,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. WB PIECHOTY walczącej przeciw Żołnierzowi Hordy maleje o -1. Jeżeli PIECHUR walczy z Grupą Żołnierzy, tylko jeden z nich modyfikuje jego WB. Nie może używać PANCERZY.",
-        "image": "image61",
+        "image": "image61.png",
         "affiliation": "The Templars",
         "air": false,
         "sea": false,
@@ -4121,7 +4121,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. WB Żołnierza Rodu zwiększa się o +2, jeśli jest w Grupie Ofensywnej z co najmniej jednym JEZDNYM. NIEOGRANICZONA LICZBA W TALII.",
-        "image": "image62",
+        "image": "image62.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -4137,7 +4137,7 @@
         "time modified": "2011-03-16 07:37:17",
         "name": "AGENDA",
         "action": "Dołącz do gry w dowolnym momencie. Do Twoich miejsc i Twojego Przywódcy, mogą być dołączane 2 udoskonalenia na turę, zamiast jednego.",
-        "image": "image1",
+        "image": "image1.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4151,7 +4151,7 @@
             "Red_Materials"
         ],
         "action": "EKWIPUNEK. Wyposaż w niego swoją PIECHOTĘ. Wojownik uważany jest za Marynarza.",
-        "image": "image2",
+        "image": "image2.png",
         "author": "MUTANT CHRINICLES",
         "frame": "Genesiss"
     },
@@ -4162,7 +4162,7 @@
         "time modified": "2011-03-16 07:38:45",
         "name": "ALCHEMIA",
         "action": "ZAKLĘCIE SZTUKI. Moc zaklęcia: 3. Zagraj podczas swojego kroku Wykonywania Akcji. Wszystkie produkowane przez Ciebie ikony jednego z zasobów (wybierasz, który rodzaj zasobów), stają się ikonami innego zasobu (wybierasz rodzaj zasobów). Używając Moc zaklęcia: 8, to zaklęcie będzie oddziaływać na wszystkie ikony wybranego przez Ciebie zasobu, które są produkowane przez wszystkich graczy. Zaklęcie pozostaje w grze i musi być PODTRZYMANE aż do początku Twojej następnej tury, po czym należy je anihilować.",
-        "image": "image3",
+        "image": "image3.png",
         "affiliation": "The Brotherhood",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
@@ -4177,7 +4177,7 @@
             "Red_Materials"
         ],
         "action": "EKWIPUNEK. Dołącz do swojego POJAZDU. Wojownik uważany jest za Marynarza.",
-        "image": "image4",
+        "image": "image4.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4189,7 +4189,7 @@
         "post play": "Annihilated",
         "name": "ARMADA",
         "action": "Zagraj podczas swojej tury na Twoją grupę ofensywną składającą się wyłącznie z Marynarzy. Każdy wojownik z grupy otrzymuje +1 do WB, a grupa może atakować lub najeżdżać w tej turze dwa razy. Jeśli przeprowadza atak i najazd to nie może żadnej z tych czynności wykonać dwa razy.",
-        "image": "image5",
+        "image": "image5.png",
         "cv": "+",
         "cv1": 1,
         "author": "PAUL BONNER",
@@ -4203,7 +4203,7 @@
         "post play": "Annihilated",
         "name": "ATAK Z ZASKOCZENIA",
         "action": "Zagraj w dowolnym momencie, poza trwającą walką lub najazdem. Możesz natychmiast wykonać jeden (i tylko jeden) atak, tak jakby odbywał się podczas Twojej tury. Atakującym może być wojownik, lub grupa ofensywna, z Twojego Oddziału nawet jeśli przed chwilą atakował/atakowała. Przeprowadź atak w normalny sposób.",
-        "image": "image6",
+        "image": "image6.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4215,7 +4215,7 @@
         "post play": "Annihilated",
         "name": "CIĘCIE KOSZTÓW",
         "action": "Zagraj w dowolnym momencie na miejsce lub Przywódcę posiadającego UDOSKONALENIA. Wszystkie UDOSKONALENIA działajęce na wybraną kartę zostają odrzucone.",
-        "image": "image7",
+        "image": "image7.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4226,7 +4226,7 @@
         "time modified": "2011-03-16 07:41:23",
         "name": "DOBRY PRZYKŁAD",
         "action": "Dołącz do swojego Przywódcy w dowolnym momencie. Za każdym razem, kiedy Ty albo Twoi wojownicy spowodują, że jakakolwiek karta nie będąca wojownikiem zostanie odrzucona (z jakiegokolwiek powodu), należy ją anihilować (to dotyczy również kart odrzucanych przez Ciebie).",
-        "image": "image8",
+        "image": "image8.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4237,7 +4237,7 @@
         "time modified": "2011-03-16 07:41:55",
         "name": "JEDEN Z NASZYCH",
         "action": "Dołącz do dowolnego wojownika lub miejsca i wybierz Przynależność, której nie posiada ta karta. Od tej pory wybrana przez Ciebie przynależność jest dodatkową posiadaną przez tą kartę. Efekt kilku tych samych kart kumuluje się, ale każda z nich dodaje inną przynależność.",
-        "image": "image9",
+        "image": "image9.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4248,7 +4248,7 @@
         "time modified": "2011-03-16 07:42:29",
         "name": "KREW JEST CIĘŻSZA OD WODY",
         "action": "Dołącz do dowolnego przywódcy podczas swojej tury. Przywódca, do którego jest dołączona ta karta, nie może zagrywać kart wojowników innej przynależności, niż ta, do której należy nawet jeśli jego zdolność specjalna lub jakakolwiek inna karta mu na to pozwala. Wszyscy wojownicy innych przynależności, kontrolowani przez tego przywódcę są odrzucani (włączając w to wojowników ogólnej przynależności).",
-        "image": "image10",
+        "image": "image10.png",
         "author": "JOHN MATSON",
         "frame": "Genesiss"
     },
@@ -4259,7 +4259,7 @@
         "time modified": "2011-03-16 07:44:17",
         "name": "LEWITACJA",
         "action": "ZAKLĘCIE SZTUKI. Moc zaklęcia: 3. Zagraj podczas swojego kroku Wykonywania Akcji. Wszyscy Twoi wojownicy uważani są za lotników. Zaklęcie pozostaje w grze i musi być PODTRZYMYWANE. Jeśli gracz zrezygnuje z podtrzymywania Zaklęcia, należy je anihilować.",
-        "image": "image11",
+        "image": "image11.png",
         "affiliation": "The Brotherhood",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
@@ -4271,7 +4271,7 @@
         "time modified": "2011-03-16 07:44:47",
         "name": "MOC POWIETRZA",
         "action": "ZAKLĘCIE SZTUKI. Moc zaklęcia: 3. Zagraj podczas swojego kroku Wykonywania Akcji. Wszyscy Twoi wojownicy są uważani za Marynarzy. Zaklęcie pozostaje w grze i musi być PODTRZYMYWANE. Jeśli gracz zrezygnuje z podtrzymywania Zaklęcia, należy je anihilować.",
-        "image": "image12",
+        "image": "image12.png",
         "affiliation": "The Brotherhood",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
@@ -4283,7 +4283,7 @@
         "time modified": "2011-03-16 07:45:13",
         "name": "NABRZEŻE",
         "action": "Dołącz w dowolnym momencie, do miejsca lub porzywódcy nie posiadającego taktyki Lądowej, które ma chociaż jedną wolną krawędź. Ta karta nigdy nie może zostać odrzucona lub anihilowana. Od tej pory karta, do której dołączysz Nabrzeże posiada taktykę Lądową. Jeśli karta, do której dołączone jest Nabrzeże zostanie odrzucona, pozostaje ono w grze na jego miejscu i w przypadku, gdy zostanie w tym miejscu wybudowane miejsce, należy ją do niego dołączyć.",
-        "image": "image13",
+        "image": "image13.png",
         "author": "STUART BEEL",
         "frame": "Genesiss"
     },
@@ -4295,7 +4295,7 @@
         "post play": "Discarded",
         "name": "NIECH KAŻDY WEŹMIE GŁĘBOKI WDECH",
         "action": "Zagraj w dowolnym momencie. Wszyscy wojownicy z Twojego Pogranicza nie będący POJAZDAMI, aż do początku Twojej następnej tury, są uważani za Marynarzy (wojownik przestaje być uważana za marynarza, kiedy zostanie przeniesiony do Oddziału, ale wojownicy przenoszeni na Pogranicze stają się Marynarzami).",
-        "image": "image14",
+        "image": "image14.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4307,7 +4307,7 @@
         "post play": "Discarded",
         "name": "NURKUJ! NURKUJ!",
         "action": "Zagraj podczas walki Morskiej, w której uczestniczy Twój wojownik (lub Grupa) mogący walczyć pod wodą. Wojownik (lub Grupa) ucieka z pola walki pod wodę i uniemożliwia przeciwnikowi kontynuowanie walki. Przeciwnik może natychmiast próbować również zanurkować (poprzez zagranie takiej samej karty) aby kontynuować walkę.",
-        "image": "image15",
+        "image": "image15.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4318,7 +4318,7 @@
         "time modified": "2011-03-16 07:46:37",
         "name": "PLANY NA PRZYSZŁOŚĆ",
         "action": "Dołącz do swojego Przywódcy w dowolnym momencie, poza Twoim Krokiem Bilansowania. Możesz pominąć swój Krok Bilansowania w każdej turze, pod warunkiem, że nie będziesz w niej przeprowadzać ataków ani najazdów. Jeśli jednak po pominięciu Kroku Bilansowania dokonasz ataku lub najazdu musisz odrzucić tę kartę i przeprowadzić Krok Bilansowania po swoim Kroku Najazd.",
-        "image": "image16",
+        "image": "image16.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4329,7 +4329,7 @@
         "time modified": "2011-03-16 07:47:12",
         "name": "PŁYWAJĄCE FUNDAMENTY",
         "action": "Zagraj tę kartę, kiedy budujesz jakieś miejsce z taktyką Lądową. Miejsce to traci taktykę Lądową, a w zamian otrzymuje Wodną. Ta karta nie może zostać odrzucona lub anihilowana dopóki mijesce, do którego jest dołączona nie zostanie odrzucone lub anihilowane (lub skutecznie najechane).",
-        "image": "image17",
+        "image": "image17.png",
         "author": "STUART BEEL",
         "frame": "Genesiss"
     },
@@ -4340,7 +4340,7 @@
         "time modified": "2011-03-16 07:47:41",
         "name": "POBŁOGOSŁAWIONY PRZEZ ŚWATŁO",
         "action": "Dołącz do swojego wojownika nie będącego CZARODZIEJEM (może to być wojownik każdej przynależności) w dowolnym momencie. Od tej pory wojownik jest uważany za CZARODZIEJA, z Mocą na poziomie 3.",
-        "image": "image18",
+        "image": "image18.png",
         "affiliation": "The Brotherhood",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
@@ -4353,7 +4353,7 @@
         "post play": "Annihilated",
         "name": "POWSZECHNA MOBILIZACJA",
         "action": "Zagraj w dowolnym momencie. Daj swoją talię kart odrzuconych przeciwnikowi. Oponent musi przeszukać ją i usunąć z niej karty wszystkich wojowników (możesz to sprawdzić). Następnie dodaj karty tych wojowników z powrotem do kart w talii i przetasuj ją.",
-        "image": "image19",
+        "image": "image19.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4365,7 +4365,7 @@
         "post play": "Annihilated",
         "name": "PROSTO Z GŁĘBIN",
         "action": "Zagraj podczas kroku Wykonywania Akcji przeciwnika, na któregokolwiek z jego wojowników lub grupę, posiadającą taktykę Morską. Zapłać X Jednostek Złota (sam deklarujesz wartość X, nie możesz później wydać więcej Jednostek Złota). Podwodny potwór z WB równym X atakuje wskazanego wojownika lub grupę. Przeprowadź normalną walkę. Zaatakowany wojownik/grupa, jeśli przeżyje, nie będzie mógł/mogła wykonać w tej turze ataku oraz najazdu. Na potwora nie działają karty modyfikujące WB.",
-        "image": "image20",
+        "image": "image20.png",
         "author": "PAUL BONNER",
         "frame": "Genesiss"
     },
@@ -4376,7 +4376,7 @@
         "time modified": "2011-03-16 07:49:08",
         "name": "PRZEGLĄD BRONI",
         "action": "Dołącz do swojego Przywódcy w dowolnym momencie. Kiedy ta karta znajduje się w grze, żadna z kontrolowanych przez Ciebie kart EKWIPUNKU nie może zostać odrzucona lub anihilowana, z jakiejkolwiek przyczyny. Jeśli karta EKWIPUNKU jest odrzucana lub anihilowana wraca do Twojej ręki.",
-        "image": "image21",
+        "image": "image21.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4388,7 +4388,7 @@
         "post play": "Annihilated",
         "name": "PRZYPŁYW",
         "action": "Zagraj w dowolnym momencie. Wszystkie Miejsca oraz Przywódcy z taktyką Lądową, aż do początku twojej następnej tury otrzymują taktykę morską.",
-        "image": "image22",
+        "image": "image22.png",
         "author": "STUART BEEL",
         "frame": "Genesiss"
     },
@@ -4400,7 +4400,7 @@
         "post play": "Annihilated",
         "name": "RUCHY TEKTONICZNE",
         "action": "Koszt początkowy: 10. Zagraj podczas swojej tury (poza trwającym atakiem lub najazdem). Wszystkie miejsca znajdujące się pod wodą (posiadające wyłącznie taktykę Morską), będące w grze zostają odrzucone. Nie są przyznawane żande punkty zwycięstwa.",
-        "image": "image23",
+        "image": "image23.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4412,7 +4412,7 @@
         "post play": "Annihilated",
         "name": "SĄD BOŻY",
         "action": "ZAKLĘCIE SZTUKI. Moc zaklęcia: 10. Zagraj w dowolnym momencie. Wszyscy wojownicy pozostający w grze uważani za HERETYKÓW zostają natychmiast odrzuceni.",
-        "image": "image24",
+        "image": "image24.png",
         "affiliation": "The Brotherhood",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
@@ -4424,7 +4424,7 @@
         "time modified": "2011-03-16 07:51:05",
         "name": "STRUMIEŃ INTERWENCJI",
         "action": "Koszt początkowy: 2. Dołącz do gry w dowolnym momencie. Kiedy ta karta pozostaje w grze żadne karty PROROCTW, RYTUAŁÓW, ZAKLĘĆ SZTUKI i DARÓW MROCZNEJ HARMONII nie mają żadnego efektu.",
-        "image": "image25",
+        "image": "image25.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4435,7 +4435,7 @@
         "time modified": "2011-03-16 07:51:47",
         "name": "STYGMATY",
         "action": "ZAKLĘCIE SZTUKI. Moc zaklęcia: X (sam wybierasz). Zagraj podczas swojej tury. Wszyscy wojownicy Legionu Ciemności oraz wszyscy Heretycy otrzymują -X do swojego WB. Zaklęcie pozostaje w grze i musi być PODTRZYMYWANE. Jeśli gracz zrezygnuje z podtrzymywania Zaklęcia, należy je anihilować.",
-        "image": "image27",
+        "image": "image27.png",
         "affiliation": "The Brotherhood",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
@@ -4447,7 +4447,7 @@
         "time modified": "2011-03-16 07:52:16",
         "name": "TRUDNY CEL",
         "action": "Dołącz do dowolnego miejsca lub wojownika w dowolnym momencie (poza trwającą walką lub najazdem) i zapłać X Jednostek Złota, gdzie X jest bazowym WB karty, do której dołączasz Trudny Cel. Karta ta traci jedną taktykę, którą wybierzesz. Nie może jednak stracić swojej ostatnie taktyki. Ta karta nie może zostać dołączona do Przywódcy.",
-        "image": "image28",
+        "image": "image28.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4458,7 +4458,7 @@
         "time modified": "2011-03-16 07:52:40",
         "name": "TWÓJ ŚMIEĆ, MÓJ SKARB",
         "action": "Dołącz do swojego Przywódcy w dowolnym momencie. Za każdym razem, kiedy jakikolwiek przeciwnik odrzuca kartę z ręki, możesz dobrać dodatkową kartę.",
-        "image": "image29",
+        "image": "image29.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4469,7 +4469,7 @@
         "time modified": "2011-03-16 07:53:10",
         "name": "UTRATA MOCY",
         "action": "Dołącz w dowolnym momencie, do jakiegokolwiek wojownika mogącego przebywać pod wodą lub miejsca znajdującego się pod wodą. Podczas każdego kroku dobierania kart, przez gracza kontrolującego kartę, do której jest dołączona Utrata mocy, połóż żeton na tej karcie. Za każdy żeton, karta z Utratą mocy otrzymuje -2 do WB. Kilka kopii tej karty kumuluje się.",
-        "image": "image30",
+        "image": "image30.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4481,7 +4481,7 @@
         "post play": "Annihilated",
         "name": "WIELKA PRZEBUDOWA",
         "action": "TEJ KARTY MOŻNA UŻYĆ TYLKO PODCZAS GRY ZESPOŁOWEJ. Zagraj podczas swojej tury. Twoja drużyna może przebudować miejsca w swojej krainach w dowolny sposób. Nowe rozmieszczenie kart musi być legalne. Można przenosić nawet karty NIERUCHOME. Karty dołączone oraz uleprzenia są przenoszone wraz z ich bazowymi kartami.",
-        "image": "image31",
+        "image": "image31.png",
         "author": "MUTANT CHRONICLES",
         "frame": "Genesiss"
     },
@@ -4493,7 +4493,7 @@
         "post play": "Annihilated",
         "name": "WIELKA SUSZA",
         "action": "Zagraj w dowolnym momencie. Wszystkie miejsca oraz Przywódcy posiadający taktykę Morską, tracą ją i w zamian jeśli takiej nie posiadają, zyskują taktykę Lądową. Efekt ten utrzymuje się aż do początku Twojej następnej tury.",
-        "image": "image32",
+        "image": "image32.png",
         "author": "MUTANT CHRONICLES",
         "frame": "Genesiss"
     },
@@ -4504,7 +4504,7 @@
         "time modified": "2011-03-16 07:54:48",
         "name": "WOLNI OD GRZECHU",
         "action": "Dołącz do swojego Przywódcy (nie musi być spod przynależności Bractwa). Wszyscy wojownicy Twoich przeciwników uważani są za HERETYKÓW.",
-        "image": "image33",
+        "image": "image33.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4515,7 +4515,7 @@
         "time modified": "2011-03-16 07:55:15",
         "name": "WYSOKA FALA",
         "action": "Dołącz w dowolnym momencie, do dowolnego miejsca lub Przywódcy z taktyką Lądową, posiadającego przynajmniej jedną odkrytą krawędź. Ta karta nie może nigdy zostać odrzucona lub anihilowana. Od tej pory, karta do której została dołączona Wysoka Fala posiada taktykę wodną. Jeśli bazowa karta zostanie usunięta z gry, Wysoka Fala pozostaje na jej miejscu i należy ją dołączyć w momencie wybudowania na tym miejscu jakiegoś innego miejsca.",
-        "image": "image34",
+        "image": "image34.png",
         "author": "STUART BEEL",
         "frame": "Genesiss"
     },
@@ -4526,7 +4526,7 @@
         "time modified": "2011-03-16 07:55:42",
         "name": "WZROK INKWIZYTORA",
         "action": "ZAKLĘCIE SZTUKI. Moc zaklęcia: 2. Zagraj w dowolnym momencie. Wszyscy gracze (poza Tobą) muszą pokazać karty znajdujące się na ich rękach, tak żeby każdy mógł je obejrzeć. Zaklęcie pozostaje w grze i musi być PODTRZYMANE aż do początku Twojej następnej tury, po czym należy je anihilować.",
-        "image": "image35",
+        "image": "image35.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4538,7 +4538,7 @@
         "post play": "Annihilated",
         "name": "ZAKRZYWIENIE CZASOPRZESTRZENI",
         "action": "ZAKLĘCIE SZTUKI. Moc zaklęcia: X. Zagraj podczas swojego kroku Wykonywania Akcji. Możesz wziąć dowolne miejsce będące w grze (nawet NIERUCHOME) i umieścić je w nowym legalnym miejscu w dowolnej krainie. Moc zaklęcia to połowa bazowego WB miejsca zaokrąglana w górę. Od tej pory miejsce jest kontrolowane przez gracza, do którego krainy zostanie przeniesione.",
-        "image": "image36",
+        "image": "image36.png",
         "affiliation": "The Brotherhood",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
@@ -4551,7 +4551,7 @@
         "post play": "Annihilated",
         "name": "ZMIECIONE Z POWIERZCHNI ZIEMI",
         "action": "Zagraj natychmiast po udanym najechaniu jakiegoś miejsca, które posiada UDOSKONALENIA. Najechałeś miejsce razem z jego UDOSKONALENIAMI. Weź miejsce oraz wszystkie UDOSKONALENIA. Zdobywasz Punkty Zwycięstwa równe bazowemu WB najechanego miejsca, oraz odpowiednią ilość Punktów Zwycięstwa wynikającą z każdego UDOSKONALENIA, jakie posiada to miejsce (zaznacz to za pomocą żetonów reprezentujących Punkty Zwycięstwa).",
-        "image": "image37",
+        "image": "image37.png",
         "author": "PAUL BONNER",
         "frame": "Genesiss"
     },
@@ -4562,7 +4562,7 @@
         "time modified": "2011-03-16 07:56:55",
         "name": "ZWĄTPIENIE",
         "action": "Dołącz do jakiegokolwiek CZARODZIEJA w dowolnym momencie. Wojownik, do którego dołączona jest ta karta, nie jest dłużej uważany za CZARODZIEJA. Wszystkie Zaklęcia Sztuki PODTRZYMYWANE przez tego wojownika tracą swój efekt i należy je odrzucić.",
-        "image": "image38",
+        "image": "image38.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss",
         "type": "none"
@@ -4586,7 +4586,7 @@
             "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Strassbourg może zapłacić dodatkowe 8 jednostek złota, kiedy buduje miejsce z taktyką lądową, żeby stało się ono miejscem podwodnym. Miejsce wybudowane w ten sposób otrzymuje taktykę morską, a traci wszystkie pozostałe taktyki.",
-        "image": "image1",
+        "image": "image1.png",
         "affiliation": "The Sons of Rasputin",
         "land": false,
         "air": false,
@@ -4601,7 +4601,7 @@
         "time modified": "2011-03-16 08:24:53",
         "name": "BARTHOLOMEW GIESEL",
         "action": "CZŁONEK KARTELU. Giesel produkuje 5 ikon zasobów, które wybierzesz, zadeklaruj je podczas swojego pierwszego kroku bilansowania (nie możesz ich później zmienić). Przylegające miejsca otrzymują +2 do WB. Nie może nigdy wybudować CYTADELI LEGIONU CIEMNOŚCI. Giesel może zagrywać karty wojowników uważanych za ŻOŁNIERZY ZAGŁADY, w dowolnym momencie, poza krokiem Atak i Najazd. Nadal musi zapłacić za nich koszt początkowy.",
-        "image": "image2",
+        "image": "image2.png",
         "affiliation": "Megacorporations",
         "sea": false,
         "cv": 1,
@@ -4622,7 +4622,7 @@
             "Blue_Materials"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Nie może nigdy wybudować CYTADELI LEGIONU CIEMNOŚCI. Podczas każdego swojego kroku wykonywania akcji, Brat Horatio może anihilować 1 (i tylko 1) kartę z wierzchu swojej talii, wtedy każdy z jego przeciwników traci 2 punkty zwycięstwa. Tracone są tylko punkty zwycięstwa, a nie najechane miejsca.",
-        "image": "image3",
+        "image": "image3.png",
         "affiliation": "The Brotherhood",
         "sea": false,
         "cv": 1,
@@ -4643,7 +4643,7 @@
             "Blue_Materials"
         ],
         "action": "CZŁONEK CYBERTRONIKU. Przylegające miejsca otrzymują +2 do WB. Na Edga i wszystkich jego wojowników traktowanych jako CZŁONKOWIE CYBERTRONIKU, nie działają karty PROROCTW, RYTUAŁÓW, MROCZNEJ HARMONII oraz ZAKLĘCIA SZTUKI. Przeciwnicy w walce oraz podczas najazdów, w których uczestniczą CZŁONKOWIE CYBERTRONIKU, nie otrzymują modyfikatorów wynikających z zastosowania tych kart, a wszystkie będące dotychczas w grze tracą swój efekt do końca trwania konfliktu.",
-        "image": "image4",
+        "image": "image4.png",
         "affiliation": "The Cybertronic",
         "cv": 1,
         "cv1": 6,
@@ -4663,7 +4663,7 @@
             "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Tombu może wydać niewykorzystane jednostki paliwa po jego kroku bilansowania, żeby dobrać jedną dodatkową kartę za trzy jednostki paliwa. Tylko 3 karty mogą zostać dobrane w ten sposób w jednej turze a dobierając je nie możesz przekroczyć łącznej liczby siedmiu kart na ręku. Paliwo w Magazynach nie może być wydane.",
-        "image": "image5",
+        "image": "image5.png",
         "affiliation": "The Mishima",
         "cv": 1,
         "cv1": 6,
@@ -4683,7 +4683,7 @@
             "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Klef może zagrywać karty EKWIPUNKU. Wszyscy jego wojownicy będący CZŁONKAMI KAPITOLU są uważani za marynarzy.",
-        "image": "image6",
+        "image": "image6.png",
         "affiliation": "The Capitol",
         "cv": 1,
         "cv1": 6,
@@ -4708,7 +4708,7 @@
             "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Mohammed może wydać 5 jednostek złota podczas swojej tury i wybrać wojownika który nie będzie mógł zaatakować żadnego z jego wojowników ani najechać jego osady podczas najbliższej tury gracza który kontroluje wybranego wojownika. Mohammed może wydać złoto na więcej niż 1 wojownika.",
-        "image": "image7",
+        "image": "image7.png",
         "affiliation": "Crescentia",
         "land": false,
         "cv": 0,
@@ -4734,7 +4734,7 @@
             "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Noah może zagrywać wojowników uważanych za CZŁONKÓW IMPERIALU. Jeśli w trakcie swojej tury nie wykona żadnych akcji, nie przeprowadzi ani ataku, ani najazdu, może przenieść dowolną kartę ze swojego stosu kart anihilowanych do ręki.",
-        "image": "image8",
+        "image": "image8.png",
         "affiliation": "The Lutheran Triad",
         "land": false,
         "cv": 0,
@@ -4760,7 +4760,7 @@
             "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Wszyscy wojownicy Reichel traktowani jako piechota są uważani za marynarzy. Za każde 2 jednostki Surowców których Reichel nie zużyje w trakcie bilansu, może zwiększyć WB wszystkich swoich miejsc o +1, aż do początku jego następnej tury. Surowce składowane w Magazynach nie mogą zostać wydane.",
-        "image": "image9",
+        "image": "image9.png",
         "affiliation": "The Templars",
         "land": false,
         "cv": 0,
@@ -4781,7 +4781,7 @@
             "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Wojownicy Shannon traktowani jako CZŁONKOWIE IMPERIALU otrzymują modyfikator +3 do WB kiedy atakują i najeżdżają. Kiedy się bronią ich WB nie zmienia się. Ten modyfikator stosowany jest po wszystkich innych.",
-        "image": "image10",
+        "image": "image10.png",
         "affiliation": "The Imperial",
         "cv": 1,
         "cv1": 6,
@@ -4801,7 +4801,7 @@
             "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Sigfried może zagrywać karty Wywrotowca bez posiadania Agencji Wywiadowczej. Nie płaci kosztu początkowego za wojowników traktowanych jako CZŁONKOWIE BAUHAUSU.",
-        "image": "image11",
+        "image": "image11.png",
         "affiliation": "The Bauhaus",
         "cv": 1,
         "cv1": 6,
@@ -4818,7 +4818,7 @@
             "Red_Materials"
         ],
         "action": "POZIOM 1 UDOSKONALENIA MIEJSC. Miejsce z tym udoskonaleniem traktowane jest jak NIEPOZORNE, nie może zostać najechane chyba, że wszystkie inne miejsca w tej Osadzie również są NIEPOZORNE, albo nie mogą zostać najechane (w skutek działania jakiejś karty).",
-        "image": "image2",
+        "image": "image2.png",
         "author": "STUART BEEL",
         "frame": "Genesiss"
     },
@@ -4829,7 +4829,7 @@
         "time modified": "2011-03-16 09:45:07",
         "name": "FANATYZM",
         "action": "POZIOM 3 UDOSKONALENIA PRZYWÓDCY. Kiedy Twój wojownik zostanie zabity, należy potraktować go jako \"rannego\" i pozostawić w grze (walka/najazd są zakończone). Umieść żeton na tej karcie, żeby oznaczyć \"ranę\", nie ma ona żadnego wpływu na tego wojownika. Jeśli jest \"ranny\" i zostanie zabity, należy odrzucić kartę wojownika w normalny sposób. Jeśli karta tego UDOSKONALENIA zostanie usunięta z gry, wszyscy Twoi \"ranni\" wojownicy zostają natychmiast zabici i należy ich odrzucić.",
-        "image": "image3",
+        "image": "image3.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4840,7 +4840,7 @@
         "time modified": "2011-03-16 09:46:36",
         "name": "FOSA",
         "action": "POZIOM 1 UDOSKONALENIA MIEJSC. Jeśli to miejsce zostanie najechane z lądu, możesz odrzucić jednego, wybranego przez Ciebie wojownika biorącego udział w najeździe, w kroku Modyfikacji Najazdu.",
-        "image": "image4",
+        "image": "image4.png",
         "author": "STUART BEEL",
         "frame": "Genesiss"
     },
@@ -4851,7 +4851,7 @@
         "time modified": "2011-03-16 09:47:21",
         "name": "GARNIZON",
         "action": "POZIOM 3 UDOSKONALENIA MIEJSC. Miejsce z tym udoskonaleniem, dołączone do niego karty oraz miejsca przylegające do niego, otrzymują modyfikator +10 do WB. Jeśli do miejsca z Garnizonem przylega karta Przywódcy, to nie może on być najechany dopóki to Udoskonalenie pozostaje w grze.",
-        "image": "image5",
+        "image": "image5.png",
         "cv": 1,
         "cv1": 0,
         "author": "STUDIO PARENTE",
@@ -4864,7 +4864,7 @@
         "time modified": "2011-03-16 09:48:19",
         "name": "GWIEZDNY SOJUSZ",
         "action": "POZIOM 1 UDOSKONALENIA PRZYWÓDCY. Ze względu na swoją Przynależność (bądź też Członkostwo w Megakorporacjach), możesz werbować WOJOWNIKÓW Twojego Głównego Sojusznika. Główne Sojusze to: Horda Półksiężyca i CZŁONKOWIE MISHIMY; Synowie Rasputina i CZŁONKOWIE BAUHAUSU; Templariusze i CZŁONKOWIE CYBERTRONIKU; Luterańska Triada i CZŁONKOWIE IMPERIALU. KAPITOL nie posiada Głównego Sojusznika.",
-        "image": "image6",
+        "image": "image6.png",
         "author": "PETER BERGTING",
         "frame": "Genesiss"
     },
@@ -4875,7 +4875,7 @@
         "time modified": "2011-03-16 09:48:53",
         "name": "LEPSZE WYPOSAŻENIE",
         "action": "POZIOM 1 UDOSKONALENIA MIEJSC. Zagraj na miejsce produkujące ikony zasobów. Miejsce to będzie produkować w każdej turze dwie dodatkowe ikony zasobów, które już produkuje (jeśli miejsce posiada kilka różnych ikon zasobów, możesz wybrać spośród nich jeden rodzaj, który ma być produkowany ekstra, w danej turze).",
-        "image": "image7",
+        "image": "image7.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4886,7 +4886,7 @@
         "time modified": "2011-03-16 09:49:24",
         "name": "PODNIEBNA BUDOWLA",
         "action": "Koszt początkowy: X. POZIOM 1 UDOSKONALENIA MIEJSC. Miejsce z tym udoskonaleniem może być atakowane i najeżdżane tylko z Powietrza (zyskuje taktykę Powietrzną, jeśli zachodzi taka potrzeba i traci wszystkie inne taktyki). WB miejsca wzrasta o +X, gdzie X jest kosztem początkowym, jaki zapłacisz za to udoskonalenie.",
-        "image": "image8",
+        "image": "image8.png",
         "cv": "+",
         "cv1": "X",
         "author": "STUDIO PARENTE",
@@ -4899,7 +4899,7 @@
         "time modified": "2011-03-16 09:49:53",
         "name": "PRZYSPOSOBIENIE OBRONNE",
         "action": "POZIOM 1 UDOSKONALENIA PRZYWÓDCY. Możesz formować Grupy Defensywne w dowolnym momencie (poza trwającą walką lub najazdem).",
-        "image": "image9",
+        "image": "image9.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4914,7 +4914,7 @@
             "Red_Gold"
         ],
         "action": "POZIOM 2 UDOSKONALENIA PRZYWÓDCY. Zyskujesz 1 Punkt Zwycięstwa podczas każdego Twojego Kroku Dobierania. Jeśli nie możesz zbilansować tej karty, musisz oprócz niej odrzucić również jedno UDOSKONALENIE PRZYWÓDCY 3 POZIOMU.",
-        "image": "image10",
+        "image": "image10.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4925,7 +4925,7 @@
         "time modified": "2011-03-16 09:50:54",
         "name": "SIŁY SPECJALNE",
         "action": "POZIOM 2 UDOSKONALENIA PRZYWÓDCY. Możesz najeżdżać kartę Przywódcy z odsłoniętymi brzegami, nawet, jeśli w jego Osadzie znajdują się inne miejsca.",
-        "image": "image11",
+        "image": "image11.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4936,7 +4936,7 @@
         "time modified": "2011-03-16 09:51:30",
         "name": "SKŁAD MATERIAŁÓW WYBUCHOWYCH",
         "action": "POZIOM 2 UDOSKONALENIA MIEJSC. To udoskonalenie należy usunąć w momencie udanego najazdu na miejsce, wyposażone w tą kartę. Wszyscy wojownicy biorący udział w najeździe zostają anihilowani. Punkty Zwycięstwa przyznawane są normalnie.",
-        "image": "image12",
+        "image": "image12.png",
         "author": "MUTANT CHRONICLES",
         "frame": "Genesiss"
     },
@@ -4947,7 +4947,7 @@
         "time modified": "2011-03-16 09:52:49",
         "name": "WÓDZ DA NAM PRZYKŁAD",
         "action": "POZIOM 3 UDOSKONALENIA PRZYWÓDCY. W kroku najazdu, w trakcie wyznaczania najeźdźców, możesz dodać do twoich wojowników biorących udział w najeździe WB swojego Przywódcy. Jeśli przegrasz wynik najazdu należy potraktować jako udany najazd na Twojego Przywódcę.",
-        "image": "image13",
+        "image": "image13.png",
         "author": "PAUL BONNER",
         "frame": "Genesiss"
     },
@@ -4958,7 +4958,7 @@
         "time modified": "2011-03-16 09:53:17",
         "name": "ZWIĄZKI ZAWODOWE",
         "action": "POZIOM 3 UDOSKOLANENIA MIEJSC. To miejsce od tej pory posiada taką samą przynależność jak Twój Przywódca. Dodatkowo, WB wszystkich Twoich miejsc Twojej Przynależności jest podwajane. Ten modyfikator stosuje się po wszystkich innych. Efekt kilku kopii tej karty nie kumuluje się.",
-        "image": "image14",
+        "image": "image14.png",
         "author": "STUDIO PARENTE",
         "frame": "Genesiss"
     },
@@ -4969,7 +4969,7 @@
         "time modified": "2011-03-16 09:54:10",
         "name": "ZWIĘKSZENIE PRODUKCJI",
         "action": "POZIOM 2 UDOSKOLANENIA MIEJSC. Miejsce z tym Udoskonaleniem, oraz karty do niego dołączone, wytwarzają dwa razy więcej ikon zasobów.",
-        "image": "image15",
+        "image": "image15.png",
         "author": "PAUL BONNER",
         "frame": "Genesiss",
         "type": "none"
@@ -4985,7 +4985,7 @@
             "Red_Materials"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. CZŁONEK CYBERTRONIKU. ŻOŁNIERZ ZAGŁADY. Nigdy nie może stać się, Marynarzem, CZARODZIEJEM, PROROKIEM, PATRYJARCHĄ, GODNYM MROCZNEJ HARMONII. Możesz dołączyć do niego kartę EKWIPUNKU, którą może używać Piechota nawet, jeśli nie posiadasz w swojej osadzie, karty umożliwiającej Ci zagrywanie Ekwipunku.",
-        "image": "image2",
+        "image": "image2.png",
         "affiliation": "The Cybertronic",
         "air": false,
         "sea": false,
@@ -5004,7 +5004,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. CZŁONEK KAPITOLU. Kiedy znajduje się w Twoim Oddziale lub w Twoim Pograniczu, możesz zagruwać karty POJAZDÓW. Jeśli wszyscy Twoi Antagoniści zostaną odrzuceni, POJAZDY które dzięki nim zagrałeś pozostają w grze.",
-        "image": "image3",
+        "image": "image3.png",
         "affiliation": "The Capitol",
         "air": false,
         "sea": false,
@@ -5023,7 +5023,7 @@
             "Red_Fuel"
         ],
         "action": "Koszt początkowy: 1. POJAZD. ŁÓDŹ PODWODNA. Barakuda nigdy nie może posiadać taktyki lądowej i powietrzenej. Twoja PIECHOTA może formować Morskie Grupy Ofensywne z Barakudą, nawet jeśli nie posiada taktyki wodnej.",
-        "image": "image4",
+        "image": "image4.png",
         "affiliation": "The Sons of Rasputin",
         "land": false,
         "air": false,
@@ -5042,7 +5042,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 1. PIECHOTA. Diabol (lub grupa, w której się znajduje) w przypadku remisu podczas walki, zwycięża. Możesz odrzucić Diabola podczas DOWOLNEJ walik, w której NIE bierze on udziału. Jeden z walczących wojowników (wybierasz który) otrzymuje aż do końca trwania konfliktu, modyfikator do WB równy WB Diabola. Możesz odrzucić więcej niż jednego Diabola, żeby zwiększyć WB walczących wojowników. NIEOGRANICZONA LICZBA W TALII.",
-        "image": "image1",
+        "image": "image1.png",
         "affiliation": "The Templars",
         "air": false,
         "sea": false,
@@ -5061,7 +5061,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA.  Enigma sprawia wrażenie będącej w dowolnym miejscu w tym samym czasie. Może być przenoszona w dowolnym momencie (oprócz trwającej walki lub najazdu) i tak często jak sobie tego życzysz.",
-        "image": "image5",
+        "image": "image5.png",
         "affiliation": "The Mishima",
         "cv": 0,
         "cv1": 4,
@@ -5078,7 +5078,7 @@
             "Red_Food"
         ],
         "action": "JAZDA. Kiedy Jeździec Apokalipsy znajduje się w Twojej krainie, zwiększa limit dobieranych przez Ciebie kart w kroku Dobierania o jedną. Działanie kilku kipii tej karty nie kumuluje się.",
-        "image": "image6",
+        "image": "image6.png",
         "affiliation": "The Lutheran Triad",
         "air": false,
         "sea": false,
@@ -5097,7 +5097,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. ŻOŁNIERZ ZAGŁADY. Możesz anihilować Konkwistadora w dowolnym momencie (poza trwającą walką lub najazdem) aby wziąć jedno miejsce będące w grze, które posiada przynajmniej jedną odsłoniętą krawędź i umieścić je w legalnym miejscu, w swojej krainie (wszystkie karty dołączone oraz Udoskonalenia przenoszone są razem z tym miejscem). Musisz dodatkowo zapłacić X jednostek złota gdzie X jest zmodyfikowanym WB miejsca, które chcesz przenieść. Punkty zwycięstwa nie są przyznawane.",
-        "image": "image7",
+        "image": "image7.png",
         "affiliation": "The Imperial",
         "air": false,
         "cv": 0,
@@ -5116,7 +5116,7 @@
             "Red_Fuel"
         ],
         "action": "Koszt początkowy: 3. POJAZD. Krzyczący Kruk wydaje straszny głos, który odstrasza PIECHOTĘ i JAZDĘ dzięki czemu nie może ona go atakować (PIECHOTA oraz JAZDA BRONi się przed Krukiem w normalny sposób). Kruk może być zaatakowany tylko przez inne POJAZDy, albo Grupy Ofensywne składające się tylko z POJAZDÓW.",
-        "image": "image8",
+        "image": "image8.png",
         "affiliation": "The Templars",
         "land": false,
         "sea": false,
@@ -5136,7 +5136,7 @@
             "Red_Materials"
         ],
         "action": "Koszt początkowy: 3. PIECHOTA. CZARODZIEJ. Kiedy Krzyżowiec atakuje, jego bazowe WB wynosi 1, ale może atakować 4 razy na turę. Najeżdżać może tylko raz (z WB równym 4). Otrzymuje modyfikator +2 do WB, jeśli tworzy grupę z GRINDEREM i dodatkowy modyfikator +2 do WB, jeśli walczy przeciwko HERETYKOWI. Te modyfikatory stosuje się przed wszystkimi innymi. Nigdy nie może używać PANCERZY.",
-        "image": "image9",
+        "image": "image9.png",
         "affiliation": "The Brotherhood",
         "air": false,
         "sea": false,
@@ -5155,7 +5155,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: X. PIECHOTA. Nigdy nie może przebywać na pograniczu. Przeznaczeniem Męczennika z wyboru jest śmierć, więc nie odczuwa strachu. Połóż X żetonów na karcie tego wojownika, kiedy go werbujesz. Koszt początkowy wynosi X raz 3 Jednostki Złota. Za każdym razem, kiedy wojownik ten zginie w walce lub najeździe, zdejmij z niego jeden żeten. Kiedy po przegranej walce lub najeździe nie ma już na nim żadnego żetonu, który mógłbyś zdjąć, Męczennika z wyboru należy odrzucić.",
-        "image": "image10",
+        "image": "image10.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -5174,7 +5174,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Misjonarze żyją by roznosić po świecie słowo Kardynała niewiernym. Misjonarz może być przenoszony do Oddziałów i Pogranicz innych graczy, jednakże gracz, do którego krainy przenosisz Misjonarza, przejmuje nad nim kontrolę. Jeśli rozkażesz Misjonarzowi żeby powrócił do Twojej krainy, gracz, który go kontroluje musi to uczynić podczas swojego kolejnego kroku Wykonywania Akcji. NIEOGRANICZONA LICZBA W TALII.",
-        "image": "image11",
+        "image": "image11.png",
         "affiliation": "The Brotherhood",
         "air": false,
         "sea": false,
@@ -5195,7 +5195,7 @@
             "Red_Fuel"
         ],
         "action": "Koszt początkowy: 3. POJAZD. SAMOTNIK. Za pierwszym razem, kiedy Strzyga zostanie pokonana w walce lub podczas najazdu, umieść żeton na tej karcie. Strzyga traktowana jest jako \"ranna\" i musisz zostać ponownie pokonana, zanim zostanie odrzucona. Rana nie ma żadnego efektu na tą kartę.",
-        "image": "image12",
+        "image": "image12.png",
         "affiliation": "The Templars",
         "land": false,
         "air": false,
@@ -5215,7 +5215,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. Uważany za KOMMENDANTA. Otrzymuje +1 do WB za każdego KOMMENDANTA (ale nie za Kozackiego Kommendanta) w tym samym oddziale lub pograniczu. Grupa ofensywna, w której skład wchodzi Namiestnik nie musi się rozpadać po Kroku Atak. Stają się wtedy Grupą Defensywną, a jej członkowie nie mogą przeprowadzić w tej turze najazdu.",
-        "image": "image13",
+        "image": "image13.png",
         "affiliation": "The Sons of Rasputin",
         "air": false,
         "sea": false,
@@ -5234,7 +5234,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 1. PIECHOTA. ŻOŁNIERZ ZAGŁADY. Możesz zwerbować Ducha do swojej osady, po swoim Kroku Bilansowania. Nefrytowy Duch w przypadku remisu w walce, jest zwycięzcą. NIEOGRANICZONA LICZBA W TALII.",
-        "image": "image14",
+        "image": "image14.png",
         "affiliation": "The Mishima",
         "air": false,
         "sea": false,
@@ -5254,7 +5254,7 @@
             "Red_Materials"
         ],
         "action": "Koszt początkowy: 3. PIECHOTA. Nurek nie może atakować i najeżdżać w tej samej turze. Możesz umieścić na nim żeton za każdą niewykorzystaną jednostkę Paliwa, jaka zostanie Ci w Kroku Bilansowania (za jedną jednostkę Paliwa możesz umieścić żeton tylko na jednym Nurku). Nurek otrzymuje +1 do WB za każdy żeton, jaki na nim umieścisz. Ikony Paliwa z Magazynów nie mogą być użyte. Żetony należy odrzucić na końcu twojej tury.",
-        "image": "image15",
+        "image": "image15.png",
         "affiliation": "The Lutheran Triad",
         "air": false,
         "cv": 0,
@@ -5273,7 +5273,7 @@
             "Red_Fuel"
         ],
         "action": "POJAZD. Pirania może atakować i najeżdżać karty znajdujące się pod wodą. Połóż x żetonów symbolizujących torpedy na karcie, kiedy werbujesz Piranię (każdy żeton kosztuje 2 Jednostki Złota). Podczas walki z ŁODZIĄ PODWODNĄ lub najazdu na miejsce pod wodą, Pirania może odpalić jedną lub więcej torped (zdejmij odpowiednią ilość żetonów). Każda odpalona torpeda dodaje +3 do WB Piranii.",
-        "image": "image16",
+        "image": "image16.png",
         "affiliation": "The Templars",
         "land": false,
         "air": false,
@@ -5292,7 +5292,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. Połóż na karcie jeden żeton reprezentujący Torpedę, kiedy werbujesz tego wojownika. W trakcie walki lub najazdu za pomocą wody, ten wojownik może odpalić Torpedę (zdejmij żeton) otrzymując modyfikator +5 do WB, do końca trwania konfliktu. Podczas swojego kroku Wykonywania Akcji, możesz załadować kolejną Torpedę w miejsce już wykożystanej, płacąc 5 Jednostek Złota.",
-        "image": "image17",
+        "image": "image17.png",
         "affiliation": "The Lutheran Triad",
         "land": false,
         "air": false,
@@ -5308,7 +5308,7 @@
         "time modified": "2018-11-29 21:24:20",
         "name": "PONURY ŻNIWIARZ",
         "action": "PIECHOTA. SAMOTNIK. Żniwiarz nie pobiera żadnych ikon zasobów, ale żeby zachować jego kartę w grze, musi on zabić przynajmniej jednego wojownika przeciwnika w każdej turze. Jeśli mu się to nie uda, należy go odrzucić na końcu kroku Ataku.",
-        "image": "image18",
+        "image": "image18.png",
         "affiliation": "The Dark Legion",
         "air": false,
         "sea": false,
@@ -5327,7 +5327,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. CZARODZIEJ. Możesz anihilować Poszukiwacza w dowolnym momencie (oprócz trwającej walki lub najazdu) aby przejąć kontrolę nad dowolnym nie należącym do Legionu Ciemności wojownikiem, który znajduje się w grze i umieścić go na swoim Pograniczu. Od tej pory Ty kontrolujesz tego wojownika.",
-        "image": "image19",
+        "image": "image19.png",
         "affiliation": "The Brotherhood",
         "air": false,
         "sea": false,
@@ -5348,7 +5348,7 @@
             "Red_Fuel"
         ],
         "action": "Koszt początkowy: 4. POJAZD. Podczas Twojego Kroku Bilansowania, możesz zatankować Potężnego Tarana niewykorzystanymi jednostkami Paliwa. Za każdą jednostkę Paliwa, jaką tankujesz, połóż żeton na tej karcie. Możesz wydać te żetony w trakcie walki lub najazdu. Każdy wydany żeton dodaje +1 do WB Wielkiego Tarana aż do końca trwania konfliktu. Wszystkie niewykorzystane żetony należy odrzucić na koniec Twojej tury.",
-        "image": "image20",
+        "image": "image20.png",
         "affiliation": "Crescentia",
         "land": false,
         "air": false,
@@ -5367,7 +5367,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 3. PIECHOTA. Kiedy Potomek znajduje się w Twojej krainie zwiększa limit dobieranych przez Ciebie kart w Kroku Dobierania o jedną. Działanie kilku kopii tej karty nie kumuluje się.",
-        "image": "image21",
+        "image": "image21.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -5387,7 +5387,7 @@
             "Red_Fuel"
         ],
         "action": "Koszt początkowy: X. POJAZD. Połóż X żetonów na tej karcie, kiedy werbujesz tego wojownika. X jest kosztem początkowym, który zdecydujesz się zapłacić. Możesz zdjąć żeton przed swoim Krokiem Ataku lub Najazdu, aby umożliwić Hindenfokkerowi atak lub najazd na cel znajdujący się pod wodą. Hindenfokker otrzymuje taktykę Wodną aż do końca trwania konfliktu.",
-        "image": "image23",
+        "image": "image23.png",
         "affiliation": "The Sons of Rasputin",
         "land": false,
         "sea": false,
@@ -5407,7 +5407,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. CZARODZIEJ. Strażnicy mają zadanie dopilnować, żeby Megakorporacje nie wtargnęły do Mrocznego Raju. Możesz odrzucić Strażnika w dowolnym momencie (poza trwającą walką lub najazdem) żeby odrzucić jednego wybranego przez Ciebie wojownika, który przynależy do Megakorporacji (karty dołączone do tego wojownika również są odrzucane).",
-        "image": "image24",
+        "image": "image24.png",
         "affiliation": "The Brotherhood",
         "cv": 0,
         "cv1": 5,
@@ -5424,7 +5424,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. Khan podarował wyjątkowe zdolności Strażnikom, wybierz jedną z nich, kiedy werbujesz tego wojownika. Zdolność OCHRONY: Strażnik otrzymuje +3 do WB, kiedy znajduje się na Pograniczu. Zdolność ATAKU: otrzymuje +3 do WB, kiedy atakuje. Zdolność NAJAZDU: otrzymuje +3 do WB, kiedy najeżdża. Raz wybranej zdolności nie można zmienić.",
-        "image": "image25",
+        "image": "image25.png",
         "affiliation": "Crescentia",
         "air": false,
         "sea": false,
@@ -5443,7 +5443,7 @@
             "Red_Materials"
         ],
         "action": "PIECHOTA. Survieler może dokonać autodestrukcji podczas walki lub najazdu. Jeśli zdecydujesz się na autodestrukcję wojownika, otrzymuje on +15 do WB. Po zakończeniu konfliktu, Survieler i wszyscy członkowie grupy w skład której wchodzili, lub uczestniczący wraz z nim w najeździe są anihilowani.",
-        "image": "image26",
+        "image": "image26.png",
         "affiliation": "The Cybertronic",
         "sea": false,
         "cv": 0,
@@ -5461,7 +5461,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. Syn północy w przypadku remisu w konflikcie jest zwycięzcą. W dowolnym momencie kiedy jedna z twoich kart ma zostać anihilowana możesz zdecydować, że zostanie odrzucona. Natychmiast po tym musisz anihilować Syna Północy.",
-        "image": "image27",
+        "image": "image27.png",
         "affiliation": "The Sons of Rasputin",
         "air": false,
         "cv": 0,
@@ -5481,7 +5481,7 @@
             "Red_Fuel"
         ],
         "action": "Koszt początkowy: 2. POJAZD. ŁÓDŹ PODWODNA. Nigdy nie może posiadać taktyki lądowej i powietrznej. Może tworzyć grupy i najeżdżać tylko z wojownikami, którzy mogą atakować i najeżdżać karty znajdujące się pod wodą. Jeśli w skład najeżdżających wojowników wchodzi Szablogrzbiet, celem najazdu może być dowolne miejsce w Osadzie lub karta Przywódcy nawet, jeśli nie posiada żadnych odkrytych krawędzi.",
-        "image": "image28",
+        "image": "image28.png",
         "affiliation": "The Sons of Rasputin",
         "land": false,
         "air": false,
@@ -5500,7 +5500,7 @@
             "Red_Fuel"
         ],
         "action": "Koszt początkowy: 1. POJAZD. Śmigłowiec Wyspiarzy może być przenoszony w dowolnym momencie (oprócz trwającej walki lub najazdu) i tak często jak sobie tego życzysz.",
-        "image": "image22",
+        "image": "image22.png",
         "affiliation": "Megacorporations",
         "land": false,
         "cv": 0,
@@ -5519,7 +5519,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. Za każdym razem, gdy zagrasz RYTUAŁ, który po zakończeniu działania należy odrzucić (nie działa na anihilowane karty), ten wojownik umożliwia Ci wzięcie go ponownie na rękę. Za każdym razem, gdy ostatni z Twoich Tancerzy Wojny w Twojej krainie zostanie odrzucony lub anihilowany, musisz odrzucić wszystkie Twoje RYTUAŁY pozostające w grze oraz na twoim ręku i pokazać przeciwnikowi karty, jakie masz na ręce.",
-        "image": "image29",
+        "image": "image29.png",
         "affiliation": "The Lutheran Triad",
         "cv": 0,
         "cv1": 5,
@@ -5536,7 +5536,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 1. PIECHOTA. Przywdziani w magiczne kości przodków Twarze Duchów nie czują strachu. Kiedy jakaś twoja Twarz Ducha zginie w walce lub najeździe, połóż żeton na innej Twojej Twarzy Ducha będącej w grze. Każdy żeton zwiększa WB o +2 i jest odrzucany razem z wojownikiem. NIEOGRANICZONA LICZBA W TALII.",
-        "image": "image30",
+        "image": "image30.png",
         "affiliation": "The Lutheran Triad",
         "air": false,
         "sea": false,
@@ -5555,7 +5555,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. Upadły Anioł musi dowieść swojej wartości przed członkami swojego Klanu. Kiedy zginie po raz pierwszy w walce lub podczas najazdu, umieść na nim żeton. Oznacza on, że wojownik został \"ranny\" i aby jego karta została odrzucona musi ponownie zginąć w walce lub podczas najazdu. \"Rana\" nie ma żadnego wpływu na wojownika.",
-        "image": "image31",
+        "image": "image31.png",
         "affiliation": "The Imperial",
         "air": false,
         "sea": false,
@@ -5574,7 +5574,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 1. PIECHOTA. ŻOŁNIERZ ZAGŁADY. Wilczarz może stworzyć specjalną jednostkę, z dowolnym POJAZDEM znajdującym się w tym samym oddziale lub pograniczu (nie może tworzyć jednostki specjalnej z SAMOTNIKAMI). Dołącz Wilczarza do POJAZDu. JEDNOSTKA SPECJALNA stworzona w ten spsób sumuje WB połączonych kart oraz wszystkie ich zdolności specjlane. Ta JEDNOSTKA SPECJALNA nigdy nie może się rozpaść. Może być Przenoszona i tworzyć Grupy z innymi wojownikami.",
-        "image": "image32",
+        "image": "image32.png",
         "affiliation": "The Bauhaus",
         "air": false,
         "sea": false,
@@ -5594,7 +5594,7 @@
             "Red_Fuel"
         ],
         "action": "Koszt początkowy: 2. POJAZD. To lekki statek powietrzny przystosowany również do walki pod wodą. Może zanurkować pod wodę z powietrza. Jeśli Wodolot nie atakował, lub atakował tylko z powietrza, może w tej samej turze najechać kartę Miejsca lub Przywódcy znajdującą się pod wodą.",
-        "image": "image33",
+        "image": "image33.png",
         "affiliation": "Crescentia",
         "land": false,
         "cv": 0,
@@ -5612,7 +5612,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 3. PIECHOTA. ŻOŁNIERZ ZAGŁADY. Wolverine nie może w tej samej turze atakować i najeżdżać, może wykonać tylko jedną z tych czynności.",
-        "image": "image34",
+        "image": "image34.png",
         "affiliation": "The Capitol",
         "air": false,
         "cv": 0,
@@ -5631,7 +5631,7 @@
             "Red_Materials"
         ],
         "action": "Koszt początkowy: 3. PIECHOTA. Nie może używać BRONI. Wojowników zabitych w walce przez Wysłannika piekieł należy anihilować zamiast odrzucać. Jeśli Wysłannik przegra walkę lub najazd to jego przeciwnik może przejąć kontrolę nad tą kartą (umieszczony zostaje w jego oddziale i może być Przenoszony).",
-        "image": "image35",
+        "image": "image35.png",
         "affiliation": "The Dark Legion",
         "air": false,
         "sea": false,
@@ -5650,7 +5650,7 @@
             "Red_Food"
         ],
         "action": "PIECHOTA. Zamiast werbować Zagubioną Duszę w normalny sposób, możesz zwerbować jedną lub więcej, kiedy jakieś miejsce w Twojej osadzie jest najeżdżane z powietrza. WB Duszy dodawane jest do WB najeżdżanego miejsca. Jeśli zwyciężysz, umieść Zagubioną Duszę na swoim Pograniczu, jeśli przegrasz karty wszystkich zwerbowanych podczas tego najazdu Dusz należy odrzucić.",
-        "image": "image36",
+        "image": "image36.png",
         "affiliation": "The Templars",
         "sea": false,
         "cv": 0,
@@ -5669,7 +5669,7 @@
             "Red_Food"
         ],
         "action": "Koszt początkowy: 5. PIECHOTA. GODNY MROCZNEJ HARMONII. NIGDY nie może używać BRONI ani PANCERZA. Mistrz Mordu może przeprowadzić cztery ataki w turze. Pierwszy atak wykonuje normalnie, przed każdym następnym musisz anihilować jedną kartę z wierzchu swojej talii.",
-        "image": "image37",
+        "image": "image37.png",
         "affiliation": "The Dark Legion",
         "air": false,
         "cv": 0,
@@ -5688,7 +5688,7 @@
             "Red_Materials"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA.  SAMOTNIK. Zapomniany Strażnik otrzymuje modyfikator +5 do WB, kiedy jest atakowany. Strażnik może zaatakować dowolnego członka jakiejkolwiek Grupy, tak jakby nie wchodził on w jej skład.",
-        "image": "image38",
+        "image": "image38.png",
         "affiliation": "The Bauhaus",
         "cv": 0,
         "cv1": 5,

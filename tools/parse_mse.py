@@ -37,7 +37,10 @@ def finalize_card(card, key, value):
     elif key == "Action":
         card["action"] = value
     elif key == "Image":
-        card["image"] = value
+        if not value.endswith(('.png', '.jpg', '.jpeg')):
+            card["image"] = value + ".png"
+        else:
+            card["image"] = value
     elif key == "Affiliation":
         card["affiliation"] = value
     elif key == "Air":
