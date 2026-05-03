@@ -1,0 +1,201 @@
+mse version: 0.3.8
+short name: Dark Eden
+full name: Dark Eden
+installer group: darkeden-rc/game files
+icon: Card_Icon.png
+position hint: 18
+
+version: 2011-08-19
+
+###################################
+#  Made by Vyzygota acc. to MCIC  #
+###################################
+
+#############################################################Scripts
+
+init script: include file: script
+	
+#############################################################Set fields
+	
+set field:
+	type: text
+	name: Copyright
+	
+#############################################################Card fileds
+	
+card field:
+	type: choice
+	name: background
+	choice: background
+	editable: false
+	show statistics: true
+	save value: false
+		
+card field:
+	type: choice
+	name: Neighbor Allowance
+	choice: 0
+	choice: 1
+	choice: 2
+	choice: 3
+	choice: 4
+	show statistics: true
+	script: real_cards_na(value)
+	description: Number of allowed neighbor.
+	
+card field:
+	type: choice
+	name: post_play
+	choice: Attached
+	choice: Discarded
+	choice: Annihilated
+	show statistics: true
+	card list visible: true
+	card list column: 4
+	script: real_cards_pp(value)
+	description: Post play icon.
+	
+card field:
+	type: text
+	name: Name
+	identifying: true
+	multi line: true
+	show statistics: false
+	card list visible: true
+	card list column: 1
+	script: to_upper(value)
+	description: Name of the card.
+	
+card field:
+	type: text
+	name: Resources
+	description: 1 = Blue_Gold, 2 = Blue_Food, 3 = Blue_Materials, 4 = Blue_Fuel, 6 = Red_Gold, 7 = Red_Food, 8 = Red_Materials, 9 = Red_Fuel
+	script: Resources(real_cards_res(value))
+	show statistics: true
+	card list column: 4
+	description: Income Goods / Outcome goods.
+
+card field:
+	type: text
+	name: Action
+	show statistics: false
+	multi line: true
+	script: real_cards_text(upperwords(value))
+	description: Abilities of the card
+	
+card field:
+	type: image
+	name: Image
+	show statistics: false
+	description: Image of the card.
+	
+card field:
+	type: choice
+	name: Affiliation
+	choice:	General
+	choice: Crescentia
+	choice: The Sons of Rasputin
+	choice: The Templars
+	choice: The Lutheran Triad
+	choice: Megacorporations
+	choice: The Brotherhood
+	choice: The Dark Legion
+	choice: The Mishima
+	choice: The Bauhaus
+	choice: The Capitol
+	choice: The Cybertronic
+	choice: The Imperial
+	card list visible: true
+	show statistics: true
+	card list column: 3
+	description: Affiliation of the card.
+	script: real_cards_aff(value)
+	
+card field:
+	type: choice
+	name: Land
+	choice: Yes
+	choice: No
+	card list visible: true
+	show statistics: true
+	script: real_cards_land(value)
+	description: Land tactic.
+	
+card field:
+	type: choice
+	name: Air
+	choice: Yes
+	choice: No
+	card list visible: true
+	show statistics: true
+	script: real_cards_air(value)
+	description: Air tactic.
+	
+card field:
+	type: choice
+	name: Sea
+	choice: Yes
+	choice: No
+	card list visible: true
+	show statistics: true
+	script: real_cards_sea(value)
+	description: Sea tactic.
+	
+card field:
+	type: choice
+	name: CV
+	choice: .
+	choice: 0
+	choice: 1
+	choice: 2
+	choice: /
+	choice: X
+	choice: +
+	show statistics: false
+	card list visible: false
+	script: real_cards_cv(value)
+	description: Caombat value.
+		
+card field:
+	type: choice
+	name: CV1
+	choice: .
+	choice: 0
+	choice: 1
+	choice: 2
+	choice: 3
+	choice: 4
+	choice: 5
+	choice: 6
+	choice: 7
+	choice: 8
+	choice: 9
+	choice: X
+	show statistics: false
+	card list visible: false
+	script: real_cards_cv1(value)
+	description: Combat value.
+	
+card field:
+	type: text
+	name: Autor
+	script: real_cards_author(to_upper(value))
+	description: Author of image.
+	
+card field:
+	type: choice
+	name: Frame
+	choice: Basic
+	choice: Genesiss
+	choice: Addon
+	show statistics: true
+	description: Type os set - change color border.
+	
+card field:
+	type: text
+	name: cv1and2
+	script: cv1and2(value)
+	show statistics: true
+	card list visible: true
+	card list column: 2
+	card list width: 45

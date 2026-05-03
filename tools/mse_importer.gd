@@ -116,12 +116,25 @@ func _finalize_card(card: Dictionary, key: String, value: String):
 		card[key.to_lower()] = value
 
 func _parse_resources(raw_str: String) -> Array:
+	var mapping = {
+		"1": "Blue_Gold",
+		"2": "Blue_Food",
+		"3": "Blue_Materials",
+		"4": "Blue_Fuel",
+		"6": "Red_Gold",
+		"7": "Red_Food",
+		"8": "Red_Materials",
+		"9": "Red_Fuel"
+	}
 	var result = []
 	var regex = RegEx.new()
 	regex.compile("<sym-auto>(.*?)</sym-auto>")
 	for regex_match in regex.search_all(raw_str):
 		var res_val = regex_match.get_string(1)
-		result.append(res_val)
+		if mapping.has(res_val):
+			result.append(mapping[res_val])
+		else:
+			result.append("Unknown_" + res_val)
 	return result
 
 func save_json(data: Array, path: String):

@@ -6,18 +6,24 @@ RAW_DATA_PATH = "raw_data"
 OUTPUT_FILE = "data/cards_db.json"
 
 def parse_resources(raw_str):
+    mapping = {
+        "1": "Blue_Gold",
+        "2": "Blue_Food",
+        "3": "Blue_Materials",
+        "4": "Blue_Fuel",
+        "6": "Red_Gold",
+        "7": "Red_Food",
+        "8": "Red_Materials",
+        "9": "Red_Fuel"
+    }
     result = []
     # Match <sym-auto>X</sym-auto>
     matches = re.findall(r'<sym-auto>(.*?)</sym-auto>', raw_str)
     for m in matches:
-        if m == "7":
-            result.append("Zasob_7")
-        elif m == "8":
-            result.append("Zasob_8")
-        elif m == "9":
-            result.append("Zasob_9")
+        if m in mapping:
+            result.append(mapping[m])
         else:
-            result.append(f"Zasob_{m}")
+            result.append(f"Unknown_{m}")
     return result
 
 def finalize_card(card, key, value):

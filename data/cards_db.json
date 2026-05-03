@@ -221,7 +221,7 @@
         "time modified": "2011-03-12 18:46:38",
         "name": "DWURURKA",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "EKWIPUNEK. BROŃ. Wyposaż nią w swoją PIECHOTĘ. WB Wojownika uzbrojonego w Dwururkę zwiększa się o +1. Może on ponadto atakować dwa razy w jednej turze. Jeśli Wojownik może już atakować więcej niż raz w turze, to wszystkie efekty kumulują się.",
         "cv": "+",
@@ -234,8 +234,8 @@
         "time modified": "2011-03-12 18:50:24",
         "name": "DZIAŁKO PRZECIWLOTNICZE",
         "resources": [
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "EKWIPUNEK. Wyposaż w nie swoją PIECHOTĘ nie-Lotnika. BROŃ. Ten Wojownik może przeciwdziałać najazdom z powietrza, może być atakowany z powietrza, ale nie może atakować i najeżdżać z powietrza. Tej broni można użyć tylko w trakcie walki powietrznej. Odrzuć tę kartę, jeśli wyposażony w nią Wojownik stał się Lotnikiem."
     },
@@ -288,8 +288,8 @@
         "time modified": "2011-03-12 18:53:03",
         "name": "FORTYFIKACJA",
         "resources": [
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 4. EKWIPUNEK. Dołącz do któregoś ze swoich Miejsc lub do swojego Przywódcy. WB karty, do której dołączono Fortyfikację, zwiększa się o +4.",
         "cv": "+",
@@ -313,8 +313,8 @@
         "time modified": "2011-03-16 06:38:00",
         "name": "GRANAT",
         "resources": [
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "EKWIPUNEK. Wyposaż w niego swoją PIECHOTĘ. Wojownik może podczas walki lub najazdu anihilować Granat potrajając swoją WB.",
         "image": "image16",
@@ -378,9 +378,9 @@
         "time modified": "2011-03-12 18:58:10",
         "name": "KŁOPOTY Z SUROWCAMI",
         "resources": [
-            "Zasob_8",
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "Dołącz podczas swojej tury do Krainy dowolnego gracza. Podczas następnego kroku Bilansowania ten gracz MUSI zapłacić za tę kartę. Przed odrzuceniem tej karty należy odrzucić wszystkie inne, które wymagają Surowców. Kłopoty z Surowcami należy anihilować po zakończeniu Bilansowania."
     },
@@ -391,7 +391,7 @@
         "time modified": "2011-03-12 18:58:52",
         "name": "KOLCZASTY PANCERZ",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 1. EKWIPUNEK. PANCERZ. Dołącz do POJAZDU. WB Wojownika zwiększa się o +2.",
         "cv": "+",
@@ -474,8 +474,8 @@
         "post play": "Annihilated",
         "name": "MECHANICZNY TARAN",
         "resources": [
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "EKWIPUNEK. BROŃ. Dołącz do swojej PIECHOTY. Jeśli ten Wojownik prowadzi najazd, WB wszystkich najeźdźców ulega podwojeniu. Ten modyfikator stosuje się przed wszystkimi innymi. Ta karta ulega anihilacji po przeprowadzeniu najazdu. Prowadzący najazd nie mogą używać żadnej innej BRONI. Można używać tylko jednego Tarana.",
         "cv": "X",
@@ -520,8 +520,8 @@
         "time modified": "2011-03-12 19:08:24",
         "name": "MIOTACZ PŁOMIENI",
         "resources": [
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "EKWIPUNEK. BROŃ. Wyposaż w nią swoją PIECHOTĘ. Wojownicy zabici w walce przez Wojownika wyposażonego w Miotacz Płomieni są anihilowani, a nie odrzucani.",
         "affiliation": "The Sons of Rasputin"
@@ -690,8 +690,8 @@
         "time modified": "2011-03-16 06:52:34",
         "name": "OBWÓD DEFENSYWNY",
         "resources": [
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "Dołącz w trakcie swojej tury do dowolnego Miejsca. WB tego Miejsca ulega podwojeniu. Ten modyfikator stosuje się przed innymi",
         "image": "image31",
@@ -792,7 +792,7 @@
         "post play": "Attached",
         "name": "PANCERNA UPRZĄŻ",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 1. EKWIPUNEK. PANCERZ. Dołącz do swojej JAZDY. Podczas walki (ale nie podczas najazdu) WB Wojownika zwiększa się o +2.",
         "cv": "+",
@@ -816,8 +816,8 @@
         "time modified": "2011-03-12 19:43:51",
         "name": "PIEKIELNE DZIAŁKO",
         "resources": [
-            "Zasob_8",
-            "Zasob_9"
+            "Red_Materials",
+            "Red_Fuel"
         ],
         "action": "Koszt Początkowy: 2. EKWIPUNEK. BROŃ. Wyposaż w nie swój POJAZD. WB tego wojownika zwiększa się o +5. Jeśli walka zakończyła się remisem, to ten Wojownik i tak wygrywa.",
         "affiliation": "The Dark Legion",
@@ -831,9 +831,9 @@
         "time modified": "2011-03-12 19:44:21",
         "name": "PIRYT",
         "resources": [
-            "Zasob_6",
-            "Zasob_6",
-            "Zasob_6"
+            "Red_Gold",
+            "Red_Gold",
+            "Red_Gold"
         ],
         "action": "Dołącz podczas swojej tury do Krainy dowolnego gracza. Podczas następnego kroku Bilansowania ten gracz MUSI zapłacić za tę kartę. Przed odrzuceniem tej karty należy odrzucić wszystkie inne, które wymagają Złota. Piryt należy anihilować po zakończeniu Bilansowania."
     },
@@ -1134,7 +1134,7 @@
         "time modified": "2011-03-12 20:03:22",
         "name": "STALOWY REKIN",
         "resources": [
-            "Zasob_9"
+            "Red_Fuel"
         ],
         "action": "Koszt Początkowy: 1. EKWIPUNEK. Dołącz do swojej PIECHOTY. Od tej pory ten Wojownik uważany jest za Marynarza."
     },
@@ -1156,9 +1156,9 @@
         "time modified": "2011-03-12 20:04:12",
         "name": "SUSZA",
         "resources": [
-            "Zasob_7",
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "Dołącz podczas swojej tury do Krainy dowolnego gracza. Podczas następnego kroku Bilansowania ten gracz MUSI zapłacić za tę kartę. Przed odrzuceniem tej karty należy odrzucić wszystkie inne, które wymagają Żywności. Suszę należy anihilować po zakończeniu Bilansowania."
     },
@@ -1209,7 +1209,7 @@
         "time modified": "2011-03-12 20:06:55",
         "name": "SZYBOWIEC",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 1. EKWIPUNEK. Dołącz do swojej PIECHOTY. Od tej pory ten Wojownik uważany jest za Lotnika."
     },
@@ -1390,14 +1390,14 @@
         "time modified": "2011-03-16 07:10:19",
         "name": "WPŁYW HARDINGA",
         "resources": [
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "Koszt Początkowy: 10. Dołącz w dowolnym momencie do swojego Przywódcy. Możesz zagrywać karty o dowolnej przynależności. Raz na turę możesz zapłacić 10 Jednostek Złota i dołączyć do swojego Przywódcy dowolną znajdującą się w grze KLUCZ-CZASZKĘ. Jeśli ta karta zostanie odrzucona, wszystkie twoje KLUCZE-CZASZKI również należy odrzucić, a twoje Zasoby Złota wracają do Wspólnej Puli. W danej chwili możesz mieć dołączoną do Przywódcy tylko jedną kopię tej karty.",
         "image": "image57",
@@ -1480,9 +1480,9 @@
         "time modified": "2011-03-12 20:38:21",
         "name": "WYCIEK PALIWA",
         "resources": [
-            "Zasob_9",
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "Dołącz podczas swojej tury do Krainy dowolnego gracza. Podczas następnego kroku Bilansowania ten gracz MUSI zapłacić za tę kartę. Przed odrzuceniem tej karty należy odrzucić wszystkie inne, które wymagają Paliwa. Wyciek Paliwa należy anihilować po zakończeniu Bilansowania."
     },
@@ -1716,9 +1716,9 @@
         "neighbor allowance": "4",
         "name": "AGENCJA WYWIADOWCZA",
         "resources": [
-            "Zasob_6",
-            "Zasob_6",
-            "Zasob_6"
+            "Red_Gold",
+            "Red_Gold",
+            "Red_Gold"
         ],
         "action": "Koszt początkowy: 4. Raz w ciągu każdej tury możesz obejrzeć pierwsze dwie karty z talii dowolnego gracza (odłóż te karty w tej samej kolejności).",
         "air": false,
@@ -1781,8 +1781,8 @@
         "time modified": "2011-03-12 23:32:10",
         "name": "BARYKADA",
         "resources": [
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "To miejsce, a nie żadne inne, musi być celem najazdu, jeśli ktoś najedzie cię lądem. Jeżeli w swojej Osadzie posiadasz kilka Barykad, najeźdźca może wybrać, którą z nich najedzie. Nie można do tej karty dołączać ZŁEGO FRONTU. NIEOGRANICZONA LICZBA W TALII.",
         "air": false,
@@ -1798,8 +1798,8 @@
         "neighbor allowance": "4",
         "name": "BAZA OCHRONY",
         "resources": [
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 2. WB wszystkich kart sąsiadujących z Bazą Ochrony zwiększa się o +2.",
         "air": false,
@@ -1815,10 +1815,10 @@
         "neighbor allowance": "2",
         "name": "BAZAR",
         "resources": [
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Fuel"
         ],
         "action": "Koszt Początkowy: 3.",
         "sea": false,
@@ -1833,8 +1833,8 @@
         "neighbor allowance": "4",
         "name": "CENTRUM DOWODZENIA",
         "resources": [
-            "Zasob_9",
-            "Zasob_8"
+            "Red_Fuel",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 3. Jeżeli ta karta znajduje się w twojej Osadzie, żaden gracz nie może oglądać ani manipulować twoimi kartami na ręku, talią i stosem kart odrzuconych, chyba że ty na to pozwolisz.",
         "air": false,
@@ -1850,8 +1850,8 @@
         "neighbor allowance": "4",
         "name": "CENTRUM OBRONY",
         "resources": [
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 3. Jeżeli zostaniesz najechany po tym, jak zostaną wyznaczeni najeźdźcy, możesz płacąc 3 Jednostki Złota przenieść jednego Wojownika ze swojego Oddziału na swoje Pogranicze. Jeśli ten Wojownik używa tej samej taktyki co najeźdźcy, zakończy to najazd.",
         "sea": false,
@@ -1866,8 +1866,8 @@
         "neighbor allowance": "3",
         "name": "CENTRUM SZKOLENIA MARYNARKI",
         "resources": [
-            "Zasob_7",
-            "Zasob_8"
+            "Red_Food",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 4. Jeżeli ta karta znajduje się w twojej Osadzie, Wszyscy twoi Wojownicy PIECHOTY są uważani także za Marynarzy, oprócz swoich normalnych Taktyk.",
         "cv": 1,
@@ -1881,8 +1881,8 @@
         "neighbor allowance": "4",
         "name": "CYSTERNA",
         "resources": [
-            "Zasob_6",
-            "Zasob_6"
+            "Red_Gold",
+            "Red_Gold"
         ],
         "action": "Koszt Początkowy: 1. MAGAZYN. Podczas każdego kroku Bilansowania możesz za każda niewykorzystaną ikonę PA umieścić na tej karcie żeton. Możesz go użyć podczas swojego kroku Bilansowania, by uzyskać ikonę PA.",
         "sea": false,
@@ -1909,7 +1909,7 @@
         "neighbor allowance": "4",
         "name": "FABRYKA",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 3. Możesz zagrywać karty Intryg - EKWIPUNEK.",
         "sea": false,
@@ -1924,7 +1924,7 @@
         "neighbor allowance": "3",
         "name": "FABRYKA BRONI",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 3. Jeżeli możesz zagrywać karty EKWIPUNKU, to nie musisz płacić za nie żadnego Kosztu Początkowego.",
         "sea": false,
@@ -1939,9 +1939,9 @@
         "neighbor allowance": "4",
         "name": "GENERATOR ENERGII SŁONECZNEJ",
         "resources": [
-            "Zasob_4",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Fuel",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "Koszt Początkowy: 1.",
         "affiliation": "The Templars",
@@ -1957,8 +1957,8 @@
         "neighbor allowance": "4",
         "name": "HANGAR",
         "resources": [
-            "Zasob_9",
-            "Zasob_8"
+            "Red_Fuel",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 2. Jeżeli twój POJAZD zostanie zniszczony podczas walki lub najazdu, możesz wziąć go z powrotem do ręki po zapłaceniu równowartości jego bazowej WB w Jednostkach Złota. Karty dołączone do Wojownika są odrzucane.",
         "cv": 1,
@@ -1972,9 +1972,9 @@
         "neighbor allowance": "4",
         "name": "KOPALNIA",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_1"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Gold"
         ],
         "action": "Koszt Początkowy: 1.",
         "air": false,
@@ -1990,8 +1990,8 @@
         "neighbor allowance": "4",
         "name": "LABORATORIUM",
         "resources": [
-            "Zasob_6",
-            "Zasob_8"
+            "Red_Gold",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 2. Sąsiadujące Miejsca, które produkują ikony PA, wytwarzają ich dwa razy więcej (nie dotyczy to tej karty). Ten modyfikator jest stosowany po wszystkich innych.",
         "sea": false,
@@ -2006,7 +2006,7 @@
         "neighbor allowance": "3",
         "name": "MAGAZYN Z ZAOPATRZENIEM",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 3. Jeżeli możesz zagrywać karty EKWIPUNKU, to możesz zagrywać dowolne karty Ekwipunku niezależenie od ich przynależności. Inne ograniczenia dotyczące Ekwipunku muszą być przestrzegane",
         "sea": false,
@@ -2021,8 +2021,8 @@
         "neighbor allowance": "4",
         "name": "MENNICA",
         "resources": [
-            "Zasob_9",
-            "Zasob_8"
+            "Red_Fuel",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 2. Sąsiadujące Miejsca, które produkują ikony ZŁ, wytwarzają ich dwa razy więcej (nie dotyczy to tej karty). Ten modyfikator jest stosowany po wszystkich innych.",
         "cv": 0,
@@ -2048,12 +2048,12 @@
         "neighbor allowance": "4",
         "name": "NOTRE DAME",
         "resources": [
-            "Zasob_6",
-            "Zasob_6",
-            "Zasob_9",
-            "Zasob_9",
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Gold",
+            "Red_Gold",
+            "Red_Fuel",
+            "Red_Fuel",
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "KARTA UNIKATOWA. Główna kwatera Templariuszy. Notre Dame pozwala ci zagrywać karty o przynależności Templariuszy (ale tylko te, które możesz zagrywać) w dowolnym momencie, za wyjątkiem walki lub najazdu. Dodatkowo karty te nie wymagają Kosztu Początkowego. Wszystkie karty Templariuszy pobierają o jedną ikonę mniej, wybraną przez ciebie na początku każdego twojego kroku Bilansowania.",
         "affiliation": "The Templars",
@@ -2081,8 +2081,8 @@
         "neighbor allowance": "3",
         "name": "OBÓZ SZKOLENIOWY",
         "resources": [
-            "Zasob_8",
-            "Zasob_7"
+            "Red_Materials",
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. Kiedy zagrywasz tę kartę, wybierz przynależność. Jeśli podczas swojej tury nie wykonasz żadnej akcji (możesz normalnie atakować i najeżdżać), możesz położyć na tej karcie żeton. Za każdy znajdujący się na niej żeton Wojownicy o wybranej przynależności zyskują +2 do WB. W swojej Osadzie możesz mieć tylko jeden Obóz Szkoleniowy dla każdej przynależności.",
         "cv": 1,
@@ -2096,9 +2096,9 @@
         "neighbor allowance": "0",
         "name": "PIŻMIEJ SPOD ZNAKU PÓŁKSIĘŻYCA",
         "resources": [
-            "Zasob_7",
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "To Miejsce jest w rzeczywistości wielkim zwierzęciem. Możesz je umieścić pod dowolnym swoim Miejscem bądź pod Przywódcą. Piżmiej nosi tę kartę na grzbiecie. To Miejsce/Przywódca nie może być celem najazdu, dopóki Piżmiej nie zostanie wcześniej zniszczony lub odrzucony. Karty, które działają na Wojowników, nie działają na Piżmieja.",
         "affiliation": "Crescentia",
@@ -2124,9 +2124,9 @@
         "neighbor allowance": "4",
         "name": "POLE NAFTOWE",
         "resources": [
-            "Zasob_4",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Fuel",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "Koszt Początkowy: 1.",
         "sea": false,
@@ -2141,7 +2141,7 @@
         "neighbor allowance": "4",
         "name": "POMPA GAZOWA",
         "resources": [
-            "Zasob_4"
+            "Blue_Fuel"
         ],
         "action": "NIEPOZORNE. To Miejsce nie może zostać najechanem chyba że wszystkie Miejsca w tej samej Osadzie są uważane za NIEPOZORNE, bądź wszystkie Miejsca w tej Osadzie nie mogą być najeżdżane (w wyniku działania jakichś kart).",
         "air": false,
@@ -2169,8 +2169,8 @@
         "neighbor allowance": "4",
         "name": "RAFINERIA",
         "resources": [
-            "Zasob_6",
-            "Zasob_9"
+            "Red_Gold",
+            "Red_Fuel"
         ],
         "action": "Koszt Początkowy: 2. Sąsiadujące Miejsca, które produkują ikony SU, wytwarzają ich dwa razy więcej (nie dotyczy to tej karty). Ten modyfikator jest stosowany po wszystkich innych.",
         "sea": false,
@@ -2198,8 +2198,8 @@
         "neighbor allowance": "2",
         "name": "SANKTUARIUM",
         "resources": [
-            "Zasob_6",
-            "Zasob_8"
+            "Red_Gold",
+            "Red_Materials"
         ],
         "action": "Żadna karta sąsiadująca z Sanktuarium nie może stać się celem najazdu. Samo Sanktuarium może być najeżdżane normalnie. Liczba Sąsiadów tej karty nigdy nie może wzrosnąć powyżej 3. Nie można do tej karty dołączyć ZŁEGO FRONTU.",
         "affiliation": "The Lutheran Triad",
@@ -2215,8 +2215,8 @@
         "neighbor allowance": "4",
         "name": "SILOS",
         "resources": [
-            "Zasob_6",
-            "Zasob_6"
+            "Red_Gold",
+            "Red_Gold"
         ],
         "action": "Koszt Początkowy: 1. MAGAZYN. Podczas każdego kroku Bilansowania możesz za każdą niewykorzystaną ikonę SU umieścić na tej karcie żeton. Możesz go użyć podczas swojego kroku Bilansowania, by uzyskać ikonę SU.",
         "sea": false,
@@ -2231,8 +2231,8 @@
         "neighbor allowance": "4",
         "name": "SKARBIEC",
         "resources": [
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "Koszt Pocztkowy: 3. Jeżeli ta karta znajduje się w twojej Osadzie, żaden gracz nie może manipulować twoimi Jednostkami Złota, chyba że ty na to pozwolisz. Kiedy wydasz Jednostkę Złota, nie jest ona już uważana za \"twoją\".",
         "air": false,
@@ -2248,7 +2248,7 @@
         "neighbor allowance": "4",
         "name": "SKŁAD",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "Koszt początkowy: 2. Możesz umieścić w Składzie do pięciu kart z ręki w dowolnym momencie, płacąc 2 jednostki złota za każdą umieszczaną w nim kartę (nie pokazuj tych kart). Możesz zagrywać kart ze Składu tak jak z ręki. Jeśli Skład zostanie odrzucony lub najechany to znajdujące się w nim karty są odrzucane.",
         "sea": false,
@@ -2263,8 +2263,8 @@
         "neighbor allowance": "4",
         "name": "SKŁAD PREFABRYKATÓW",
         "resources": [
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 5. Jeśli ta karta znajduje się w grze, nie musisz płacić Kosztu Początkowego za żadne Miejsce.",
         "affiliation": "The Sons of Rasputin",
@@ -2280,8 +2280,8 @@
         "neighbor allowance": "4",
         "name": "SPICHLERZ",
         "resources": [
-            "Zasob_6",
-            "Zasob_6"
+            "Red_Gold",
+            "Red_Gold"
         ],
         "action": "Koszt Początkowy: 1. MAGAZYN. Podczas każdego kroku Bilansowania możesz za każdą niewykorzystaną ikonę ŻW umieścić na tej karcie żeton. Możesz go użyć podczas swojego kroku Bilansowania, by uzyskać ikonę ŻW.",
         "cv": 0,
@@ -2295,8 +2295,8 @@
         "neighbor allowance": "4",
         "name": "STACJA NAWOŻENIA",
         "resources": [
-            "Zasob_9",
-            "Zasob_8"
+            "Red_Fuel",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 2. Sąsiadujące Miejsca, które produkują ikony ŻW, wytwarzają ich dwa razy więcej (nie dotyczy to tej karty). Ten modyfikator jest stosowany po wszystkich innych.",
         "sea": false,
@@ -2311,8 +2311,8 @@
         "neighbor allowance": "3",
         "name": "STAJNIE",
         "resources": [
-            "Zasob_4",
-            "Zasob_2"
+            "Blue_Fuel",
+            "Blue_Food"
         ],
         "action": "Koszt Początkowy: 3. Możesz wykładać Wojowników uważanych za JAZDĘ. Stajnie nie tylko pozwalają na produkcję zwierząt bojowych, są także źródłem gazu ziemnego i mięsa.",
         "sea": false,
@@ -2327,8 +2327,8 @@
         "neighbor allowance": "4",
         "name": "SZPITAL",
         "resources": [
-            "Zasob_9",
-            "Zasob_8"
+            "Red_Fuel",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 2. Jeżeli twój PIECHUR zostanie zabity podczas walki bądź najazdu, możesz wziąć go z powrotem do ręki po zapłaceniu równowartości jego bazowej WB w Jednostkach Złota. Karty dołączone do Wojownika są odrzucane.",
         "sea": false,
@@ -2343,8 +2343,8 @@
         "neighbor allowance": "4",
         "name": "SZPITAL WETERYNARYJNY",
         "resources": [
-            "Zasob_9",
-            "Zasob_8"
+            "Red_Fuel",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 2. Jeżeli twój JEZDNY zostanie zabity podczas walki bądź najazdu, możesz wziąć go z powrotem do swojej ręki po zapłaceniu równowartości jego bazowej WB w Jednostkach Złota. Karty dołączone do Wojownika są odrzucane.",
         "sea": false,
@@ -2359,8 +2359,8 @@
         "neighbor allowance": "4",
         "name": "SZTAB ANTYTERRORYSTYCZNY",
         "resources": [
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 6. Jeśli ta karta znajduje się w grze, nie działąją na ciebie karty SABOTAŻU.",
         "sea": false,
@@ -2375,8 +2375,8 @@
         "neighbor allowance": "3",
         "name": "TAWERNA",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. WB twoich Wojowników znajdujących się na twoim Pograniczu wzrasta o +1 za każdą Tawernę w twojej Osadzie",
         "air": false,
@@ -2392,9 +2392,9 @@
         "neighbor allowance": "3",
         "name": "TUNEL PARY",
         "resources": [
-            "Zasob_4",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Fuel",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "Koszt Początkowy: 1.",
         "affiliation": "The Sons of Rasputin",
@@ -2411,7 +2411,7 @@
         "neighbor allowance": "4",
         "name": "WARSZTAT",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 3. Możesz zagrywać Wojowników uważanych za POJAZDY.",
         "sea": false,
@@ -2426,9 +2426,9 @@
         "neighbor allowance": "4",
         "name": "WIEŻA STRAŻNICZA",
         "resources": [
-            "Zasob_8",
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 2. Jeśli zostaniesz najechany, po wyznaczeniu najeźdźcy, możesz jeszcze przed rozpoczęciem najazdu zaatakować jednego z Wojowników biorących w nim udział. Zaatakować może Wojownik znajdujący się w twoim Oddziale, musi on ponadto użyć tej samej Taktyki co najeźdźcy. Nie możesz utworzyć Grupy Ofensywnej. Jeśli twój Wojownik przeżyje, pozostaje na twoim Pograniczu.",
         "air": false,
@@ -2443,7 +2443,7 @@
         "time modified": "2011-03-12 23:56:16",
         "name": "WYSYPISKO ŚMIECI",
         "resources": [
-            "Zasob_6"
+            "Red_Gold"
         ],
         "action": "Kiedy ta karta znajduje się w grze, podczas swojego kroku Odrzucania możesz odrzucić dowolną liczbę kart, płacąc za każdą (za wyjątkiem pierwszej) 2 Jednostki Złota.",
         "air": false,
@@ -2459,9 +2459,9 @@
         "neighbor allowance": "4",
         "name": "WYTWÓRNIA PAPKI",
         "resources": [
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_2"
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Food"
         ],
         "action": "Koszt Początkowy: 1. W tym Miejscu produkowane jest pożywienie dla członków luterańskiej Triady - kleik z ryżu i końskiego mleka zwany Papką.",
         "affiliation": "The Lutheran Triad",
@@ -2477,7 +2477,7 @@
         "neighbor allowance": "4",
         "name": "ZAGAJNIK",
         "resources": [
-            "Zasob_3"
+            "Blue_Materials"
         ],
         "action": "NIEPOZORNE. To miejsce nie może zostać najechane, chyba że wszystkie Miejsca w tej samej Osadzie są uważane za NIEPOZORNE, bądź wszystkie Miejsca w tej Osadzie nie mogą być najeżdżane (w wyniku działania jakichś kart).",
         "cv": 1,
@@ -2491,7 +2491,7 @@
         "neighbor allowance": "4",
         "name": "ZBROJOWNIA",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 3. Za każdym razem, gdy odrzucana jest twoja karta EKWIPUNKU (nawet ta, w którą wyposażeni byli twoi zabici Wojownicy), możesz wziąć ja z powrotem do swojej ręki.",
         "sea": false,
@@ -2506,9 +2506,9 @@
         "neighbor allowance": "4",
         "name": "ZIEMIA ORNA",
         "resources": [
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_2"
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Food"
         ],
         "action": "Koszt Początkowy: 1.",
         "sea": false,
@@ -2523,7 +2523,7 @@
         "neighbor allowance": "4",
         "name": "ZŁOŻE MINERAŁÓW",
         "resources": [
-            "Zasob_1"
+            "Blue_Gold"
         ],
         "action": "NIEPOZORNE. To Miejsce nie może zostać najechane, chyba że wszystkie Miejsca w tej samej Osadzie są uważane za NIEPOZORNE, bądź wszystkie Miejsca w tej Osadzie nie mogą być najeżdżane (w wyniku działania jakichś kart).",
         "air": false,
@@ -2539,9 +2539,9 @@
         "neighbor allowance": "4",
         "name": "ZŁOŻE RUDY",
         "resources": [
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_3"
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Materials"
         ],
         "action": "Koszt Początkowy: 1.",
         "air": false,
@@ -2557,7 +2557,7 @@
         "neighbor allowance": "4",
         "name": "ŻYZNE ZIEMIE",
         "resources": [
-            "Zasob_2"
+            "Blue_Food"
         ],
         "action": "NIEPOZORNE. To Miejsce nie może zostać najechane, chyba że wszystkie Miejsca w tej samej Osadzie są uważane za NIEPOZORNE, bądź wszystkie Miejsca w tej Osadzie nie mogą być najeżdżane (w wyniku działania jakichś kart).",
         "air": false,
@@ -2573,14 +2573,14 @@
         "time modified": "2011-03-15 21:43:33",
         "name": "ABDUL IV SPOD ZACHODZĄCEGO SŁOŃCA",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych miejsc wzrasta o +2. Abdul może zagrywać karty Wojowników będących JAZDĄ.",
         "image": "image2",
@@ -2597,11 +2597,11 @@
         "time modified": "2011-03-15 21:44:42",
         "name": "ALI II SPOD ZAĆMIONEGO SŁOŃCA",
         "resources": [
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +1. Podczas kroku Bilansowania, Ali musi wydać tylko 1 Jednostkę Złota (zamiast 2), żeby zdobyć czasową kontrolę nad ikoną ŻW.",
         "image": "image3",
@@ -2618,12 +2618,12 @@
         "time modified": "2011-03-15 21:46:01",
         "name": "ASTINOU",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Werbując Wojowników Astinou płaci tylko połowę Kosztu Początkowego (zaokrąglając w dół).",
         "image": "image4",
@@ -2640,13 +2640,13 @@
         "time modified": "2011-03-15 21:47:11",
         "name": "CAIN MOURNOR",
         "resources": [
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Jeżeli Wojownicy Caina nie atakują podczas jego tury, mogą oni w tej turze dokonać najazdu dwukrotnie.",
         "image": "image5",
@@ -2663,13 +2663,13 @@
         "time modified": "2011-03-15 21:48:58",
         "name": "DIUK ERICH VON DRIER",
         "resources": [
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Do Wojowników Driera można dołączać dowolne karty EKWIPUNKU niezależnie od ich przynależności. Nadal musisz zagrać kartę, która pozwala wyłożyć EKWIPUNEK.",
         "image": "image7",
@@ -2686,11 +2686,11 @@
         "time modified": "2011-03-15 21:48:49",
         "name": "DIUK FRIEDRICH RAUFT",
         "resources": [
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +1. Podczas swojego kroku Odrzucania Rauft może odrzucić do 2 kart.",
         "image": "image8",
@@ -2707,11 +2707,11 @@
         "time modified": "2011-03-15 21:49:48",
         "name": "ELIJAH COSRICK",
         "resources": [
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +1. Jeżeli przeciwnik udanie najedzie tę kartę Przywódcy, Corick decyduje jaki rodzaj nagrody otrzyma wróg.",
         "image": "image10",
@@ -2728,12 +2728,12 @@
         "time modified": "2011-03-15 21:51:03",
         "name": "HRABINA ALEXANDRA SPETZ",
         "resources": [
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Podczas kroku bilansowania Spetz może pominąć jedną z ikon zasobów na każdym z jej POJAZDÓW. W każdej turze może to być inna ikona.",
         "image": "image11",
@@ -2750,12 +2750,12 @@
         "time modified": "2011-03-15 21:51:16",
         "name": "HUSSEIN SPOD SPADAJĄCEJ GWIAZDY",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Podczas swojego kroku Dobierania Hussein może dobrać do 8 kart.",
         "image": "image12",
@@ -2772,14 +2772,14 @@
         "time modified": "2011-03-15 21:51:52",
         "name": "JONAH SAND",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +3. Jeśli Jonahowi po Bilansowaniu pozostaną jakieś ikony SU, może on dodać do swoich Zapasów Złota tyle samo Jednostek Złota ze Wspólnej Puli.",
         "image": "image13",
@@ -2796,12 +2796,12 @@
         "time modified": "2011-03-15 21:52:23",
         "name": "JOSEF GABRIEL",
         "resources": [
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Wydając 3 Jednostki Złota Josef może dobrać dodatkową kartę podczas swojego kroku Dobierania. Nie może w ten sposób wyciągnąć więcej niż 3 dodatkowe karty.",
         "image": "image14",
@@ -2818,14 +2818,14 @@
         "time modified": "2011-03-15 21:53:00",
         "name": "KOMMENDANT LEITHEUSSER",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Leitheuser może zagrywać karty Wojowników, którzy są POJAZDAMI.",
         "image": "image15",
@@ -2842,14 +2842,14 @@
         "time modified": "2011-03-15 21:53:42",
         "name": "MONTAGNE",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Za każdą ikonę ZŁ pozostałą po Bilansowaniu Montagne zarabia 2 Jednostki Złota (zamiast 1).",
         "image": "image16",
@@ -2865,12 +2865,12 @@
         "time modified": "2011-03-15 21:54:16",
         "name": "NEFARYTA ANCYRITE",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Ancyrite nigdy nie może wybudować KATEDRY BRACTWA ani wykładać Wojowników Bractwa. Wszyscy Wojownicy Ancyrite'a uważani są za GODNYCH MROCZNEJ HARMONII (chyba że dany Wojownik nigdy nie może być GODNY).",
         "image": "image17",
@@ -2887,13 +2887,13 @@
         "time modified": "2011-03-15 21:54:54",
         "name": "SAMIR SPOD WSCHODZĄCEGO KSIĘŻYCA",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Oprócz POJAZDÓW przynależnych jego plemieniu, Samir może używać POJAZDÓW Templariuszy, Synów Rasputina i Luteriańskiej Triady. Nadal musisz zagrać kartę, która pozwala wykładać pojazdy.",
         "image": "image18",
@@ -2910,13 +2910,13 @@
         "time modified": "2011-03-15 21:55:40",
         "name": "SERENNEL",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +2. Serennel nie może budować AMBASAD, ale za pozostałe Miejsca płaci tylko połowę Kosztu Początkowego (zaokrąglając w dół).",
         "image": "image19",
@@ -2933,11 +2933,11 @@
         "time modified": "2011-03-15 21:56:06",
         "name": "VERAGE",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +1. WB wszystkich Wojowników Verage'a znajdujących się na jego Pograniczu zwiększa się o +1. Ten modyfikator stosowany jest po wszystkich innych.",
         "image": "image20",
@@ -2954,14 +2954,14 @@
         "time modified": "2011-03-15 21:56:36",
         "name": "WIELKI HERETYK MARCUS",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "WB przyległych Miejsc wzrasta o +3. Marcus nigdy nie może wybudować KATEDRY BRACTWA ani wykładać Wojowników Bractwa. Marcus, poza kartami jemu przynależnymi, może również korzystać z kart przynależnych Synom Rasputina.",
         "image": "image21",
@@ -2980,9 +2980,9 @@
         "time modified": "2011-03-15 22:29:08",
         "name": "BLITZTANK",
         "resources": [
-            "Zasob_9",
-            "Zasob_9",
-            "Zasob_8"
+            "Red_Fuel",
+            "Red_Fuel",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 3. POJAZD. SAMOTNIK. Blitztanka mogą atakować tylko Grupy Ofensywne i inne POJAZDY. Pojedynczy PIECHURZY i JEZDNI nie mogą atakować Blitztanka. Ten pojazd może atakować pojedynczych PIECHURÓW i JEZDNYCH.",
         "image": "image5",
@@ -3000,8 +3000,8 @@
         "time modified": "2011-03-15 22:28:55",
         "name": "BŁOGOSŁAWIONA ŁZA",
         "resources": [
-            "Zasob_8",
-            "Zasob_7"
+            "Red_Materials",
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. PIECHOTA. SAMOTNIK. Błogosławiona Łza nie może atakować, ale może się normalnie bronić. Jeśli w najeźdzoe bierze udział tylko pojedyncza Błogosławiona Łza, jej WB wzrasta o +15 i może najechać dowolne Miejsce, nawet takie, które nie ma Odsłoniętych krawędzi. Dodatkowo może najechać Przywódcę, nawet jeżeli w Osadzie znajdują się jakieś Miejsca. Po najeździe (niezależnie od wyniku) jest anihilowana. Jeśli Błogosławiona Łza zostanie pokonana w walce, również ulega anihilacji, a dodatkowo wszyscy jej przeciwnicy giną (są odrzucani).",
         "image": "image6",
@@ -3019,8 +3019,8 @@
         "time modified": "2011-03-15 22:29:36",
         "name": "CENTURION HORDY",
         "resources": [
-            "Zasob_8",
-            "Zasob_7"
+            "Red_Materials",
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. WB Centuriona Hordy wzrasta o +2 za każdego ŻOŁNIERZA HORDY znajdującego się w tym samym Oddziale lub Pograniczu.",
         "image": "image7",
@@ -3038,8 +3038,8 @@
         "time modified": "2011-03-15 22:30:12",
         "name": "CIĘŻKI KAWALERZYSTA",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "JAZDA. Uważany za KAWALERZYSTĘ. WB Ciężkiego Kawalerzysty wzrasta o +1 za każdego innego KAWALERZYSTĘ w tym samym Oddziale lub Pograniczu. Nie zmienia swojego własnego WB. Nie działają na niego negatywne modyfikatory do WB.",
         "image": "image8",
@@ -3057,8 +3057,8 @@
         "time modified": "2011-03-15 22:30:49",
         "name": "DRAPIEŻNIAK",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "JAZDA. SAMOTNIK. Jeśli na twoim Pograniczu przebywa Drapieżniak, to twoja Osada nie może być najeżdżana, nawet z wody czy z powietrza.",
         "image": "image9",
@@ -3076,9 +3076,9 @@
         "time modified": "2011-03-15 22:31:27",
         "name": "DWURÓG PÓŁKSIĘŻYCA",
         "resources": [
-            "Zasob_7",
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "JAZDA.",
         "image": "image10",
@@ -3096,9 +3096,9 @@
         "time modified": "2011-03-15 22:32:05",
         "name": "EZOGHUL",
         "resources": [
-            "Zasob_7",
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. JAZDA. SAMOTNIK. GODNY MROCZNEJ HARMONII. Ezoghul używa śmiercionośnego Działka Ręcznego Blutarch i miecza Ashreketh. Nie może używać BRONI ani PANCERZY.",
         "image": "image1",
@@ -3116,8 +3116,8 @@
         "time modified": "2011-03-15 22:32:35",
         "name": "FALISTY OGON",
         "resources": [
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "Koszt Początkowy: 2. POJAZD. Jeśli walka, w której uczestniczy Falisty Ogon, kończy się remisem, to Falisty Ogon i tak wygra.",
         "image": "image2",
@@ -3135,7 +3135,7 @@
         "time modified": "2011-03-15 22:33:06",
         "name": "FIZYLIER",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. Jeśli w skład Grupy Ofensywnej lub Defensywnej wchodzą tylko Fizylierzy, WB każdego z nich wzrasta o +2.",
         "image": "image3",
@@ -3153,8 +3153,8 @@
         "time modified": "2011-03-15 22:33:35",
         "name": "FLAMMEN SOLDAT",
         "resources": [
-            "Zasob_9",
-            "Zasob_7"
+            "Red_Fuel",
+            "Red_Food"
         ],
         "action": "PIECHOTA. Uważany za SOLDATA. Musisz mieć w twojej Osadzie kartę umożliwiającą ci korzystanie z EKWIPUNKU, żeby zagrać tę kartę. Podczas ataku bazowe WB Flammen Soldata ulega podwojeniu. Ten modyfikator stosuje się na końcu. WB Flammen Soldata jest normalne, kiedy jest on atakowany lub kiedy najeżdża. Nie może używać BRONI.",
         "image": "image4",
@@ -3172,9 +3172,9 @@
         "time modified": "2011-03-15 22:34:14",
         "name": "GOMORYJSKI KASTRAT",
         "resources": [
-            "Zasob_7",
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "PIECHOTA. GODNY MROCZNEJ HARMONII. Kastraci mogą najeżdżać dwukrotnie, jeśli robią to sami. Pierwszy raz muszą najechać jakieś odsłonięte Miejsce. Jeżeli pierwszy najazd zakończy się sukcesem, mogą najechać dowolną kartę sąsiadującą z ich pierwszym celem, nawet jeśli jest to karty Przywódcy.",
         "image": "image11",
@@ -3192,7 +3192,7 @@
         "time modified": "2011-03-15 22:35:21",
         "name": "GRINDER",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 5. KARTA UNIKATOWA, PIECHOTA, WYSPIARZ. Grinder może atakować cztery razy w turze, ale nigdy nie może najeżdżać. Nie może używać BRONI ani PANCERZY.",
         "image": "image12",
@@ -3208,8 +3208,8 @@
         "time modified": "2011-03-15 22:35:12",
         "name": "INDYGO",
         "resources": [
-            "Zasob_8",
-            "Zasob_7"
+            "Red_Materials",
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 5. KARTA UNIKATOWA. PIECHOTA. WYSPIARZ. Podczas ataku WB Siostry Indygo zwiększa się o +6 (kiedy jest atakowana i podczas najazdu jej WB nie ulega zmianie). Nie może używać BRONI.",
         "image": "image13",
@@ -3225,7 +3225,7 @@
         "time modified": "2011-03-15 22:35:58",
         "name": "KAWALERZYSTA",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "JAZDA. WB Kawalerzysty wzrasta o +1 za każdego innego KAWALERZYSTĘ w tym samym Oddziale lub Pograniczu. Nie zmienia swego własnego WB. Nie działają na niego negatywne modyfikatory do WB.",
         "image": "image14",
@@ -3243,7 +3243,7 @@
         "time modified": "2011-03-15 22:36:31",
         "name": "KOMANDOS JEAGER",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. Musisz mieć w swojej Osadzie kartę umożliwiającą ci korzystanie z EKWIPUNKU, żeby zagrać tę kartę. Jeager nie może najeżdżać z powietrza, jeśli w tej samej rundzie atakował z powietrza (nadal może najeżdżać z ziemi).",
         "image": "image15",
@@ -3260,7 +3260,7 @@
         "time modified": "2011-03-15 22:37:01",
         "name": "KOMMENDANT",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. WB Kommendanta zwiększa się o +1 za każdego SOLDATA w tym samym Pograniczu lub Oddziale.",
         "image": "image16",
@@ -3278,7 +3278,7 @@
         "time modified": "2011-03-15 22:37:39",
         "name": "KORSARZ",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. Musisz mieć w twojej Osadzie kartę umożliwiającą ci używanie EKWIPUNKU, żeby zagrać tę kartę. WB Korsarza jest podwajane, kiedy ten atakuje. Ten modyfikator stosuję się na samym początku. Podczas najazdu jego WB się nie zmienia. Nie może używać BRONI ani PANCERZY.",
         "image": "image17",
@@ -3297,8 +3297,8 @@
         "time modified": "2011-03-15 22:39:44",
         "name": "KOZACKI KOMMENDANT",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. JAZDA. WB Kommendanta zwiększa się o +1 za każdego KOZAKA w tym samym Pogrganiczu lub Oddziale.",
         "image": "image18",
@@ -3315,8 +3315,8 @@
         "time modified": "2011-03-15 22:39:24",
         "name": "KOZACKI ZWIADOWCA",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "JAZDA. Uważany za KOZAKA. Kozaccy Zwiadowcy na twoim Pograniczu chronią cię przed najazdami z ziemi, wody i powietrza. Mogą łączyć się w Grupy Ofensywne i Defensywne tylko z innymi Kozackimi Zwiadowcami.",
         "image": "image19",
@@ -3334,8 +3334,8 @@
         "time modified": "2011-03-15 22:40:19",
         "name": "KOZAK",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "JAZDA. Jeśli Grupa Ofensywna lub Defensywna składa się tylko z Kozaków, to WB każdego z nich zwiększa się o +1.",
         "image": "image20",
@@ -3353,7 +3353,7 @@
         "time modified": "2011-03-15 22:40:44",
         "name": "LEGIONISTA TEMPLARIUSZY",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. Przeciwnik musi atakować Legionistów Templariuszy (lub Grupy w skład których wchodzą Legioniści Templariuszy) zanim zaatakuje jakiegoś innego wojownika w tym samym Oddziale/Pograniczu. NIEOGRANICZONA LICZBA W TALII.",
         "image": "image21",
@@ -3371,7 +3371,7 @@
         "time modified": "2011-03-15 22:41:28",
         "name": "LUTERAŃSKI SIERŻANT",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. WB Luterańskiego Sierżanta wzrasta o +1 za każdego LUTERAŃSKIEGO WIERNEGO w tym samym Oddziale lub Pograniczu.",
         "image": "image22",
@@ -3389,7 +3389,7 @@
         "time modified": "2011-03-15 22:41:51",
         "name": "LUTERAŃSKI WIERNY",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. NIEOGRANICZONA LICZBA W TALII.",
         "image": "image23",
@@ -3407,7 +3407,7 @@
         "time modified": "2011-03-15 22:42:18",
         "name": "MAMUT ZAĆMIENIA",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "JAZDA.",
         "image": "image24",
@@ -3425,8 +3425,8 @@
         "time modified": "2011-03-15 22:43:04",
         "name": "MASTODONT",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "JAZDA. Mastodont nie może atakować innych wojowników Hordy Półksiężyca.",
         "image": "image25",
@@ -3444,8 +3444,8 @@
         "time modified": "2011-03-15 22:43:36",
         "name": "MĘCZENNIK",
         "resources": [
-            "Zasob_8",
-            "Zasob_7"
+            "Red_Materials",
+            "Red_Food"
         ],
         "action": "PIECHOTA. SAMOTNIK. Męczennik może atakować tylko JAZDĘ, a najeżdżać tylko PIŻMIEJA HORDY PÓŁKSIĘŻYCA. Zarówno po ataku, jak i po najeździe (niezależnie od wyniku) jest on anihilowany. Jeśli zostanie zaatakowany, jego bazowe WB wynosi 2. Jeśli zostanie pokonany w walce, także zostaje anihilowany, a dodatkowo wszyscy jego przeciwnicy giną (i są odrzucani).",
         "image": "image26",
@@ -3463,7 +3463,7 @@
         "time modified": "2011-03-15 22:44:02",
         "name": "MITCH HUNTER",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 5. KARTA UNIKATOWA. PIECHOTA. WYSPIARZ. Hunter wyposażony jest w potężny Miecz Przemocy i Pistolet \"Egzekutor\", dlatego nie może używać BRONI.",
         "image": "image27",
@@ -3479,7 +3479,7 @@
         "time modified": "2011-03-15 22:45:10",
         "name": "NASSAL",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. GODNY MROCZNEJ HARMONII.",
         "image": "image28",
@@ -3512,7 +3512,7 @@
         "time modified": "2011-03-15 22:46:46",
         "name": "PATRIARCHA",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. Przeciwnicy nie mogą atakować Patriarchy, chyba że jest on jedynym wojownikiem w Oddziale/Pograniczu (lub jest członkiem jedynej Grupy).",
         "image": "image31",
@@ -3530,8 +3530,8 @@
         "time modified": "2011-03-15 22:47:06",
         "name": "PHISCHE",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. JAZDA. GODNY MROCZNEJ HARMONII.",
         "image": "image32",
@@ -3547,7 +3547,7 @@
         "time modified": "2011-03-15 22:47:55",
         "name": "PIECHOTA MORSKA TEMPLARIUSZY",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. Musisz mieć w twojej Osadzie kartę umożliwiającą ci używanie EKWIPUNKU, żeby zagrać tę kartę. Jeśli w skład Grupy Ofensywnej wchodzi tylko Piechota Morska Templariuszy, bądź najeżdża sama Piechota Morska Templariuszy. WB każdego z nich wzrasta o +2.",
         "image": "image33",
@@ -3564,7 +3564,7 @@
         "time modified": "2011-03-15 22:48:25",
         "name": "PLAMISTY KRUK",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. NIEOGRANICZONA LICZBA W TALII.",
         "image": "image34",
@@ -3581,8 +3581,8 @@
         "time modified": "2011-03-15 22:50:29",
         "name": "PŁASZCZKA VEROUNIST",
         "resources": [
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "POJAZD.",
         "image": "image35",
@@ -3600,8 +3600,8 @@
         "time modified": "2011-03-15 22:46:21",
         "name": "POJAZD POWIETRZNY PALANKIN",
         "resources": [
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "POJAZD. Pojazd Powietrzny Palankin nie może brać udziału w ataku ani w najeździe. Jeśli znajduje się na twoim Pograniczu, Palankin uniemożliwia najazdy lądem, z wody i z powietrza. Jeżeli Palankin jest w jednej Grupie z PATRIARCHĄ, WB wszystkich wojowników w tym samym Oddziale/Pograniczu wzrasta o +1 dopóki istnieje ta Grupa.",
         "image": "image30",
@@ -3619,8 +3619,8 @@
         "time modified": "2011-03-15 22:51:23",
         "name": "POJAZD POWIETRZNY \"POSĘPNY RZEŹNIK\"",
         "resources": [
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "Koszt Początkowy: 2. POJAZD. Posępny Rzeźnik może znajdować się tylko w twoim Oddziale.",
         "image": "image36",
@@ -3638,8 +3638,8 @@
         "time modified": "2011-03-15 22:51:57",
         "name": "PRETORIAŃSKI ŁOWCA",
         "resources": [
-            "Zasob_8",
-            "Zasob_7"
+            "Red_Materials",
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. PIECHOTA. Łowca może utworzyć Grupy Ofensywne i Defensywne tylko z jednym innym Pretoriańskim Łowcą i z nikim innym. Nie może używać BRONI ani PANCERZY.",
         "image": "image37",
@@ -3657,7 +3657,7 @@
         "time modified": "2011-03-15 22:52:22",
         "name": "PROROK",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. Prorok może Wygłaszać Proroctwa Hordy Półksiężyca. Przeciwnicy nie mogą atakować Proroka, chyba że jest on jedynym Wojownikiem w Oddziale/Pograniczu (lub jest członkiem jedynej Grupy).",
         "image": "image38",
@@ -3675,8 +3675,8 @@
         "time modified": "2011-03-15 22:52:46",
         "name": "RAZYDA",
         "resources": [
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "PIECHOTA. GODNY MROCZNEJ HARMONII. Tylko inni wojownicy Legionu Ciemności mogą tworzyć Grupę Ofensywną z Razydą. Nie może używać BRONI ani PANCERZY.",
         "image": "image39",
@@ -3694,7 +3694,7 @@
         "time modified": "2011-03-15 23:41:11",
         "name": "REKRUT",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 1. PIECHOTA. NIEOGRANICZONA LICZBA W TALII.",
         "image": "image40",
@@ -3711,8 +3711,8 @@
         "time modified": "2011-03-15 23:41:42",
         "name": "ROGATY SERRET",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "JAZDA. WB Rogatego Serreta wzrasta o +2, kiedy walczy on przeciwko PIECHOCIE.",
         "image": "image41",
@@ -3730,8 +3730,8 @@
         "time modified": "2011-03-15 23:42:09",
         "name": "SCHWERWAFFE SOLDAT",
         "resources": [
-            "Zasob_8",
-            "Zasob_7"
+            "Red_Materials",
+            "Red_Food"
         ],
         "action": "PIECHOTA. Musisz mieć w swojej Osadzie kartę umożliwiającą ci korzystanie z EKWIPUNKU, żeby zagrać tę kartę. Schwerwaffe nie może najeżdżać z powietrza.",
         "image": "image42",
@@ -3749,7 +3749,7 @@
         "time modified": "2011-03-15 23:42:37",
         "name": "SEBASTIAN CRENSHAW",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 5. KARTA UNIKATOWA. PIECHOTA. CZARODZIEJ. WYSPIARZ. Crenshaw musi, jeśli jest to możliwe, atakować wojowników Legionu Ciemności (to samo dotyczy Grup Ofensywnych, w skład których wchodzi). Nie może używać BRONI ani PANCERZY.",
         "image": "image43",
@@ -3765,7 +3765,7 @@
         "time modified": "2011-03-15 23:43:11",
         "name": "SIERŻANT RODU",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. WB Sierżanta Rodu zwiększa się o +1 za każdego ŻOŁNIERZA RODU w tym samym Pograniczu lub Oddziale.",
         "image": "image44",
@@ -3783,7 +3783,7 @@
         "time modified": "2011-03-15 23:43:40",
         "name": "SOLDAT",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. NIEOGRANICZONA LICZBA W TALII.",
         "image": "image45",
@@ -3801,8 +3801,8 @@
         "time modified": "2011-03-15 23:44:07",
         "name": "SOLDAT SZTURMOWY",
         "resources": [
-            "Zasob_8",
-            "Zasob_7"
+            "Red_Materials",
+            "Red_Food"
         ],
         "action": "PIECHOTA. Uważany za SOLDATA. Soldaci Szturmowi mogą tworzyć Grupy Ofensywne i Defensywne tylko z innymi Soldatami Szturmowymi. Podczas walki WB każdego z przeciwników zmniejsza się o -X, gdzie X jest liczbą twoich Soldatów Szturmowych, biorących udział w walce.",
         "image": "image46",
@@ -3820,8 +3820,8 @@
         "time modified": "2011-03-16 06:12:56",
         "name": "STALOWY BYK",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 3. JAZDA. Jeśli w skład Grupy Ofensywnej wchodzą tylko Stalowe Byki lub najeżdżają tylko Stalowe Byki, WB każdego z nich zwiększa się o +2.",
         "image": "image47",
@@ -3839,7 +3839,7 @@
         "time modified": "2011-03-16 06:14:18",
         "name": "SZARY ARTYLERZYSTA",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. Musisz mieć w twojej Osadzie kartę umożliwiającą ci używanie EKWIPUNKU, żeby zagrać tę kartę. Jeśli na twoim Pograniczu przebywa Artylerzysta, to twoja Osada nie może być najeżdżana, nawet z wody czy z powietrza. Artylerzysta może być atakowany z wody i z powietrza, ale sam może atakować i najeżdżać tylko lądem. Nie może używać Broni.",
         "image": "image49",
@@ -3857,9 +3857,9 @@
         "time modified": "2011-03-16 06:13:39",
         "name": "ŚWIĘTY UROX",
         "resources": [
-            "Zasob_7",
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "JAZDA. SAMOTNIK. Święty Urox może w danej turze atakować lub najeżdżać. W jednej turze nie może robić obu tych rzeczy naraz.",
         "image": "image48",
@@ -3877,8 +3877,8 @@
         "time modified": "2011-03-16 06:15:29",
         "name": "TRANSPORTER CORARIUS",
         "resources": [
-            "Zasob_8",
-            "Zasob_9"
+            "Red_Materials",
+            "Red_Fuel"
         ],
         "action": "POJAZD. Corarius nie może atakować, ale może bronić się i najeżdżać. Jeśli najazd prowadzą tylko Transportery Corarius i KOMANDOSI JEAGER, to mogą oni najeżdżać z ziemi, wody i powietrza, a celem ataku może być dowolna karta, nawet jeżeli nie ma ona Odsłoniętych krawędzi.",
         "image": "image50",
@@ -3896,7 +3896,7 @@
         "time modified": "2011-03-16 06:15:56",
         "name": "TRENER MASTODONTÓW",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. Trener może w dowolnym momencie, jeśli tylko leży koszulką do dołu, Przenieść jednego Wojownika JAZDY z Oddziału/Pogranicza, w którym się znajduje do innego Oddziału/Pogranicza. Po tej czynności odwróć Trenera koszulką do dołu. Odwracany jest z powrotem na początku twojej następnej tury. To, w jaki sposób ta karta leży na stole, odzwierciedla tylko gotowość do Przenoszenia JAZDY i nie ma wpływu na grę.",
         "image": "image51",
@@ -3914,9 +3914,9 @@
         "time modified": "2011-03-16 06:16:24",
         "name": "UKRYTE OSTRZE",
         "resources": [
-            "Zasob_9",
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "Koszt Początkowy: 3. POJAZD. Najazd z powietrza, w którym biorą udział tylko Ukryte Ostrza, może ominąć jednego Wojownika lub jedną Grupę Defensywną znajdującą się na Pograniczu (ty wybierasz którą). Ten Wojownik lub ta Grupa Defensywna nie może zapobiec najazdowi.",
         "image": "image52",
@@ -3934,8 +3934,8 @@
         "time modified": "2011-03-16 06:17:19",
         "name": "WODNY SERRET",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "JAZDA. WB Wodnego Serreta wzrasta o +1 za każdą PIECHOTĘ MORSKĄ TEMPLARIUSZY w tym samym Oddziale lub Pograniczu.",
         "image": "image53",
@@ -3953,9 +3953,9 @@
         "time modified": "2011-03-16 06:17:53",
         "name": "WÓŁ ARTYLERYJSKI",
         "resources": [
-            "Zasob_7",
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "JAZDA.",
         "image": "image54",
@@ -3972,8 +3972,8 @@
         "time modified": "2011-03-16 06:18:23",
         "name": "WÓZ BOJOWY \"BYSTRY\"",
         "resources": [
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "POJAZD. Bystry może w jednej turze albo dwa razy atakować, albo dwa razy najeżdżać. Nie może i atakować i najeżdżać w tej samej turze.",
         "image": "image55",
@@ -3991,8 +3991,8 @@
         "time modified": "2011-03-16 06:21:21",
         "name": "ZHURGON",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. JAZDA. GODNY MROCZNEJ HARMONII.",
         "image": "image59",
@@ -4009,8 +4009,8 @@
         "time modified": "2011-03-16 06:23:22",
         "name": "ZWIADOWCA KAWALERII",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "JAZDA. Uważany za KAWALERZYSTĘ. Jeśli na twoim Pograniczu przebywa Zwiadowca Kawalerii, to twoja Osada nie może być najeżdżana, nawet z wody czy z powietrza. WB Zwiadowcy Kawalerii wzrasta o +1 za każdego innego KAWALERZYSTĘ w tym samym Oddziale lub Pograniczu. Nie zmienia swego własnego WB. Nie działają na niego negatywne modyfikatory do WB.",
         "image": "image63",
@@ -4028,7 +4028,7 @@
         "time modified": "2011-03-16 06:19:17",
         "name": "ŻANDARM",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 2. PIECHOTA. WB Żandarma wzrasta o +2 za każdego innego ŻANDARMA w tym samym Oddziale/Pograniczu.",
         "image": "image56",
@@ -4046,8 +4046,8 @@
         "time modified": "2011-03-16 06:20:08",
         "name": "ŻANDARMSKI BESTAL",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 3. PIECHOTA. Uważany za ŻANDARMA. Żandarmski Bestal może tworzyć Grupy Ofensywne i Defensywne z innymi Żandarmskimi Bestalami.",
         "image": "image57",
@@ -4065,7 +4065,7 @@
         "time modified": "2011-03-16 06:20:42",
         "name": "ŻEGLARZ",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. NIEOGRANICZONA LICZBA W TALII.",
         "image": "image58",
@@ -4082,7 +4082,7 @@
         "time modified": "2011-03-16 06:21:49",
         "name": "ŻOŁNIERZ DŻIHAD",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. WB Żołnierza Dżihad wzrasta o +2 za każdego JEZDNEGO Hordy Półksiężyca w tym samym Oddziale lub Pograniczu.",
         "image": "image60",
@@ -4100,7 +4100,7 @@
         "time modified": "2011-03-16 06:22:23",
         "name": "ŻOŁNIERZ HORDY",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. WB PIECHOTY walczącej przeciw Żołnierzowi Hordy maleje o -1. Jeżeli PIECHUR walczy z Grupą Żołnierzy, tylko jeden z nich modyfikuje jego WB. Nie może używać PANCERZY.",
         "image": "image61",
@@ -4118,7 +4118,7 @@
         "time modified": "2011-03-16 06:22:51",
         "name": "ŻOŁNIERZ RODU",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. WB Żołnierza Rodu zwiększa się o +2, jeśli jest w Grupie Ofensywnej z co najmniej jednym JEZDNYM. NIEOGRANICZONA LICZBA W TALII.",
         "image": "image62",
@@ -4148,7 +4148,7 @@
         "time modified": "2011-03-16 07:38:14",
         "name": "AKWALUNG",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "EKWIPUNEK. Wyposaż w niego swoją PIECHOTĘ. Wojownik uważany jest za Marynarza.",
         "image": "image2",
@@ -4174,7 +4174,7 @@
         "time modified": "2011-03-16 07:39:13",
         "name": "AMFIBIA",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "EKWIPUNEK. Dołącz do swojego POJAZDU. Wojownik uważany jest za Marynarza.",
         "image": "image4",
@@ -4574,16 +4574,16 @@
         "time modified": "2011-03-16 08:25:07",
         "name": "BARON STRASSBOURG",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Strassbourg może zapłacić dodatkowe 8 jednostek złota, kiedy buduje miejsce z taktyką lądową, żeby stało się ono miejscem podwodnym. Miejsce wybudowane w ten sposób otrzymuje taktykę morską, a traci wszystkie pozostałe taktyki.",
         "image": "image1",
@@ -4615,11 +4615,11 @@
         "time modified": "2011-03-16 08:25:47",
         "name": "BRAT HORATIO",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Nie może nigdy wybudować CYTADELI LEGIONU CIEMNOŚCI. Podczas każdego swojego kroku wykonywania akcji, Brat Horatio może anihilować 1 (i tylko 1) kartę z wierzchu swojej talii, wtedy każdy z jego przeciwników traci 2 punkty zwycięstwa. Tracone są tylko punkty zwycięstwa, a nie najechane miejsca.",
         "image": "image3",
@@ -4636,11 +4636,11 @@
         "time modified": "2011-03-16 08:26:28",
         "name": "CHARLES EDGE",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials"
         ],
         "action": "CZŁONEK CYBERTRONIKU. Przylegające miejsca otrzymują +2 do WB. Na Edga i wszystkich jego wojowników traktowanych jako CZŁONKOWIE CYBERTRONIKU, nie działają karty PROROCTW, RYTUAŁÓW, MROCZNEJ HARMONII oraz ZAKLĘCIA SZTUKI. Przeciwnicy w walce oraz podczas najazdów, w których uczestniczą CZŁONKOWIE CYBERTRONIKU, nie otrzymują modyfikatorów wynikających z zastosowania tych kart, a wszystkie będące dotychczas w grze tracą swój efekt do końca trwania konfliktu.",
         "image": "image4",
@@ -4656,11 +4656,11 @@
         "time modified": "2011-03-16 08:27:01",
         "name": "LORD TOMBU",
         "resources": [
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Tombu może wydać niewykorzystane jednostki paliwa po jego kroku bilansowania, żeby dobrać jedną dodatkową kartę za trzy jednostki paliwa. Tylko 3 karty mogą zostać dobrane w ten sposób w jednej turze a dobierając je nie możesz przekroczyć łącznej liczby siedmiu kart na ręku. Paliwo w Magazynach nie może być wydane.",
         "image": "image5",
@@ -4676,11 +4676,11 @@
         "time modified": "2011-03-16 08:27:30",
         "name": "MARCUS KLEF",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Klef może zagrywać karty EKWIPUNKU. Wszyscy jego wojownicy będący CZŁONKAMI KAPITOLU są uważani za marynarzy.",
         "image": "image6",
@@ -4696,16 +4696,16 @@
         "time modified": "2011-03-16 08:28:20",
         "name": "MOHAMMED ENGULFED",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Mohammed może wydać 5 jednostek złota podczas swojej tury i wybrać wojownika który nie będzie mógł zaatakować żadnego z jego wojowników ani najechać jego osady podczas najbliższej tury gracza który kontroluje wybranego wojownika. Mohammed może wydać złoto na więcej niż 1 wojownika.",
         "image": "image7",
@@ -4722,16 +4722,16 @@
         "time modified": "2011-03-16 08:29:01",
         "name": "NOAH WROUGHT",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Noah może zagrywać wojowników uważanych za CZŁONKÓW IMPERIALU. Jeśli w trakcie swojej tury nie wykona żadnych akcji, nie przeprowadzi ani ataku, ani najazdu, może przenieść dowolną kartę ze swojego stosu kart anihilowanych do ręki.",
         "image": "image8",
@@ -4748,16 +4748,16 @@
         "time modified": "2011-03-16 08:29:40",
         "name": "REICHEL",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel",
+            "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Wszyscy wojownicy Reichel traktowani jako piechota są uważani za marynarzy. Za każde 2 jednostki Surowców których Reichel nie zużyje w trakcie bilansu, może zwiększyć WB wszystkich swoich miejsc o +1, aż do początku jego następnej tury. Surowce składowane w Magazynach nie mogą zostać wydane.",
         "image": "image9",
@@ -4774,11 +4774,11 @@
         "time modified": "2011-03-16 08:30:13",
         "name": "SHANNON O'ROURKE",
         "resources": [
-            "Zasob_1",
-            "Zasob_2",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Food",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Wojownicy Shannon traktowani jako CZŁONKOWIE IMPERIALU otrzymują modyfikator +3 do WB kiedy atakują i najeżdżają. Kiedy się bronią ich WB nie zmienia się. Ten modyfikator stosowany jest po wszystkich innych.",
         "image": "image10",
@@ -4794,11 +4794,11 @@
         "time modified": "2011-03-16 08:30:39",
         "name": "SIGFRIED BOURGES",
         "resources": [
-            "Zasob_1",
-            "Zasob_1",
-            "Zasob_3",
-            "Zasob_3",
-            "Zasob_4"
+            "Blue_Gold",
+            "Blue_Gold",
+            "Blue_Materials",
+            "Blue_Materials",
+            "Blue_Fuel"
         ],
         "action": "Przylegające miejsca otrzymują +2 do WB. Sigfried może zagrywać karty Wywrotowca bez posiadania Agencji Wywiadowczej. Nie płaci kosztu początkowego za wojowników traktowanych jako CZŁONKOWIE BAUHAUSU.",
         "image": "image11",
@@ -4815,7 +4815,7 @@
         "time modified": "2011-03-16 09:44:11",
         "name": "EKOLOGICZNE ULEPSZENIE",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "POZIOM 1 UDOSKONALENIA MIEJSC. Miejsce z tym udoskonaleniem traktowane jest jak NIEPOZORNE, nie może zostać najechane chyba, że wszystkie inne miejsca w tej Osadzie również są NIEPOZORNE, albo nie mogą zostać najechane (w skutek działania jakiejś karty).",
         "image": "image2",
@@ -4910,8 +4910,8 @@
         "time modified": "2011-03-16 09:50:24",
         "name": "SIATKA SZPIEGOWSKA",
         "resources": [
-            "Zasob_6",
-            "Zasob_6"
+            "Red_Gold",
+            "Red_Gold"
         ],
         "action": "POZIOM 2 UDOSKONALENIA PRZYWÓDCY. Zyskujesz 1 Punkt Zwycięstwa podczas każdego Twojego Kroku Dobierania. Jeśli nie możesz zbilansować tej karty, musisz oprócz niej odrzucić również jedno UDOSKONALENIE PRZYWÓDCY 3 POZIOMU.",
         "image": "image10",
@@ -4981,8 +4981,8 @@
         "time modified": "2011-03-16 08:41:03",
         "name": "19-Y CICHY",
         "resources": [
-            "Zasob_8",
-            "Zasob_8"
+            "Red_Materials",
+            "Red_Materials"
         ],
         "action": "Koszt Początkowy: 1. PIECHOTA. CZŁONEK CYBERTRONIKU. ŻOŁNIERZ ZAGŁADY. Nigdy nie może stać się, Marynarzem, CZARODZIEJEM, PROROKIEM, PATRYJARCHĄ, GODNYM MROCZNEJ HARMONII. Możesz dołączyć do niego kartę EKWIPUNKU, którą może używać Piechota nawet, jeśli nie posiadasz w swojej osadzie, karty umożliwiającej Ci zagrywanie Ekwipunku.",
         "image": "image2",
@@ -5001,7 +5001,7 @@
         "time modified": "2011-03-16 08:43:34",
         "name": "ANTAGONIST",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. CZŁONEK KAPITOLU. Kiedy znajduje się w Twoim Oddziale lub w Twoim Pograniczu, możesz zagruwać karty POJAZDÓW. Jeśli wszyscy Twoi Antagoniści zostaną odrzuceni, POJAZDY które dzięki nim zagrałeś pozostają w grze.",
         "image": "image3",
@@ -5020,7 +5020,7 @@
         "time modified": "2011-03-16 08:44:05",
         "name": "BARAKUDA",
         "resources": [
-            "Zasob_9"
+            "Red_Fuel"
         ],
         "action": "Koszt początkowy: 1. POJAZD. ŁÓDŹ PODWODNA. Barakuda nigdy nie może posiadać taktyki lądowej i powietrzenej. Twoja PIECHOTA może formować Morskie Grupy Ofensywne z Barakudą, nawet jeśli nie posiada taktyki wodnej.",
         "image": "image4",
@@ -5039,7 +5039,7 @@
         "time modified": "2011-03-16 08:46:15",
         "name": "DIABOL",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 1. PIECHOTA. Diabol (lub grupa, w której się znajduje) w przypadku remisu podczas walki, zwycięża. Możesz odrzucić Diabola podczas DOWOLNEJ walik, w której NIE bierze on udziału. Jeden z walczących wojowników (wybierasz który) otrzymuje aż do końca trwania konfliktu, modyfikator do WB równy WB Diabola. Możesz odrzucić więcej niż jednego Diabola, żeby zwiększyć WB walczących wojowników. NIEOGRANICZONA LICZBA W TALII.",
         "image": "image1",
@@ -5058,7 +5058,7 @@
         "time modified": "2011-03-16 08:46:41",
         "name": "ENIGMA",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA.  Enigma sprawia wrażenie będącej w dowolnym miejscu w tym samym czasie. Może być przenoszona w dowolnym momencie (oprócz trwającej walki lub najazdu) i tak często jak sobie tego życzysz.",
         "image": "image5",
@@ -5075,7 +5075,7 @@
         "time modified": "2011-03-16 08:47:11",
         "name": "JEŹDZIEC APOKALIPSY",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "JAZDA. Kiedy Jeździec Apokalipsy znajduje się w Twojej krainie, zwiększa limit dobieranych przez Ciebie kart w kroku Dobierania o jedną. Działanie kilku kipii tej karty nie kumuluje się.",
         "image": "image6",
@@ -5094,7 +5094,7 @@
         "time modified": "2011-03-16 08:47:49",
         "name": "KONKWISTADOR",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. ŻOŁNIERZ ZAGŁADY. Możesz anihilować Konkwistadora w dowolnym momencie (poza trwającą walką lub najazdem) aby wziąć jedno miejsce będące w grze, które posiada przynajmniej jedną odsłoniętą krawędź i umieścić je w legalnym miejscu, w swojej krainie (wszystkie karty dołączone oraz Udoskonalenia przenoszone są razem z tym miejscem). Musisz dodatkowo zapłacić X jednostek złota gdzie X jest zmodyfikowanym WB miejsca, które chcesz przenieść. Punkty zwycięstwa nie są przyznawane.",
         "image": "image7",
@@ -5112,8 +5112,8 @@
         "time modified": "2011-03-16 08:48:24",
         "name": "KRZYCZĄCY KRUK",
         "resources": [
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "Koszt początkowy: 3. POJAZD. Krzyczący Kruk wydaje straszny głos, który odstrasza PIECHOTĘ i JAZDĘ dzięki czemu nie może ona go atakować (PIECHOTA oraz JAZDA BRONi się przed Krukiem w normalny sposób). Kruk może być zaatakowany tylko przez inne POJAZDy, albo Grupy Ofensywne składające się tylko z POJAZDÓW.",
         "image": "image8",
@@ -5132,8 +5132,8 @@
         "time modified": "2011-03-16 08:48:46",
         "name": "KRZYŻOWIEC",
         "resources": [
-            "Zasob_7",
-            "Zasob_8"
+            "Red_Food",
+            "Red_Materials"
         ],
         "action": "Koszt początkowy: 3. PIECHOTA. CZARODZIEJ. Kiedy Krzyżowiec atakuje, jego bazowe WB wynosi 1, ale może atakować 4 razy na turę. Najeżdżać może tylko raz (z WB równym 4). Otrzymuje modyfikator +2 do WB, jeśli tworzy grupę z GRINDEREM i dodatkowy modyfikator +2 do WB, jeśli walczy przeciwko HERETYKOWI. Te modyfikatory stosuje się przed wszystkimi innymi. Nigdy nie może używać PANCERZY.",
         "image": "image9",
@@ -5152,7 +5152,7 @@
         "time modified": "2018-11-29 21:32:35",
         "name": "MĘCZENNIK Z WYBORU",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: X. PIECHOTA. Nigdy nie może przebywać na pograniczu. Przeznaczeniem Męczennika z wyboru jest śmierć, więc nie odczuwa strachu. Połóż X żetonów na karcie tego wojownika, kiedy go werbujesz. Koszt początkowy wynosi X raz 3 Jednostki Złota. Za każdym razem, kiedy wojownik ten zginie w walce lub najeździe, zdejmij z niego jeden żeten. Kiedy po przegranej walce lub najeździe nie ma już na nim żadnego żetonu, który mógłbyś zdjąć, Męczennika z wyboru należy odrzucić.",
         "image": "image10",
@@ -5171,7 +5171,7 @@
         "time modified": "2011-03-16 08:49:56",
         "name": "MISJONARZ",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. Misjonarze żyją by roznosić po świecie słowo Kardynała niewiernym. Misjonarz może być przenoszony do Oddziałów i Pogranicz innych graczy, jednakże gracz, do którego krainy przenosisz Misjonarza, przejmuje nad nim kontrolę. Jeśli rozkażesz Misjonarzowi żeby powrócił do Twojej krainy, gracz, który go kontroluje musi to uczynić podczas swojego kolejnego kroku Wykonywania Akcji. NIEOGRANICZONA LICZBA W TALII.",
         "image": "image11",
@@ -5190,9 +5190,9 @@
         "time modified": "2011-03-16 08:50:23",
         "name": "MORSKA STRZYGA",
         "resources": [
-            "Zasob_9",
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "Koszt początkowy: 3. POJAZD. SAMOTNIK. Za pierwszym razem, kiedy Strzyga zostanie pokonana w walce lub podczas najazdu, umieść żeton na tej karcie. Strzyga traktowana jest jako \"ranna\" i musisz zostać ponownie pokonana, zanim zostanie odrzucona. Rana nie ma żadnego efektu na tą kartę.",
         "image": "image12",
@@ -5211,8 +5211,8 @@
         "time modified": "2011-03-16 08:50:52",
         "name": "NAMIESTNIK",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. Uważany za KOMMENDANTA. Otrzymuje +1 do WB za każdego KOMMENDANTA (ale nie za Kozackiego Kommendanta) w tym samym oddziale lub pograniczu. Grupa ofensywna, w której skład wchodzi Namiestnik nie musi się rozpadać po Kroku Atak. Stają się wtedy Grupą Defensywną, a jej członkowie nie mogą przeprowadzić w tej turze najazdu.",
         "image": "image13",
@@ -5231,7 +5231,7 @@
         "time modified": "2011-03-16 08:51:21",
         "name": "NEFRYTOWY DUCH",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 1. PIECHOTA. ŻOŁNIERZ ZAGŁADY. Możesz zwerbować Ducha do swojej osady, po swoim Kroku Bilansowania. Nefrytowy Duch w przypadku remisu w walce, jest zwycięzcą. NIEOGRANICZONA LICZBA W TALII.",
         "image": "image14",
@@ -5250,8 +5250,8 @@
         "time modified": "2011-03-16 08:51:54",
         "name": "NUREK",
         "resources": [
-            "Zasob_7",
-            "Zasob_8"
+            "Red_Food",
+            "Red_Materials"
         ],
         "action": "Koszt początkowy: 3. PIECHOTA. Nurek nie może atakować i najeżdżać w tej samej turze. Możesz umieścić na nim żeton za każdą niewykorzystaną jednostkę Paliwa, jaka zostanie Ci w Kroku Bilansowania (za jedną jednostkę Paliwa możesz umieścić żeton tylko na jednym Nurku). Nurek otrzymuje +1 do WB za każdy żeton, jaki na nim umieścisz. Ikony Paliwa z Magazynów nie mogą być użyte. Żetony należy odrzucić na końcu twojej tury.",
         "image": "image15",
@@ -5269,8 +5269,8 @@
         "time modified": "2011-03-16 08:52:31",
         "name": "PIRANIA",
         "resources": [
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "POJAZD. Pirania może atakować i najeżdżać karty znajdujące się pod wodą. Połóż x żetonów symbolizujących torpedy na karcie, kiedy werbujesz Piranię (każdy żeton kosztuje 2 Jednostki Złota). Podczas walki z ŁODZIĄ PODWODNĄ lub najazdu na miejsce pod wodą, Pirania może odpalić jedną lub więcej torped (zdejmij odpowiednią ilość żetonów). Każda odpalona torpeda dodaje +3 do WB Piranii.",
         "image": "image16",
@@ -5289,7 +5289,7 @@
         "time modified": "2011-03-16 08:53:03",
         "name": "POKRYTY ŁUSKAMI",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. Połóż na karcie jeden żeton reprezentujący Torpedę, kiedy werbujesz tego wojownika. W trakcie walki lub najazdu za pomocą wody, ten wojownik może odpalić Torpedę (zdejmij żeton) otrzymując modyfikator +5 do WB, do końca trwania konfliktu. Podczas swojego kroku Wykonywania Akcji, możesz załadować kolejną Torpedę w miejsce już wykożystanej, płacąc 5 Jednostek Złota.",
         "image": "image17",
@@ -5324,7 +5324,7 @@
         "time modified": "2011-03-16 08:54:00",
         "name": "POSZUKIWACZ",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. CZARODZIEJ. Możesz anihilować Poszukiwacza w dowolnym momencie (oprócz trwającej walki lub najazdu) aby przejąć kontrolę nad dowolnym nie należącym do Legionu Ciemności wojownikiem, który znajduje się w grze i umieścić go na swoim Pograniczu. Od tej pory Ty kontrolujesz tego wojownika.",
         "image": "image19",
@@ -5343,9 +5343,9 @@
         "time modified": "2011-03-16 08:54:23",
         "name": "POTĘŻNY TARAN",
         "resources": [
-            "Zasob_9",
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "Koszt początkowy: 4. POJAZD. Podczas Twojego Kroku Bilansowania, możesz zatankować Potężnego Tarana niewykorzystanymi jednostkami Paliwa. Za każdą jednostkę Paliwa, jaką tankujesz, połóż żeton na tej karcie. Możesz wydać te żetony w trakcie walki lub najazdu. Każdy wydany żeton dodaje +1 do WB Wielkiego Tarana aż do końca trwania konfliktu. Wszystkie niewykorzystane żetony należy odrzucić na koniec Twojej tury.",
         "image": "image20",
@@ -5364,7 +5364,7 @@
         "time modified": "2011-03-16 08:54:50",
         "name": "POTOMEK",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 3. PIECHOTA. Kiedy Potomek znajduje się w Twojej krainie zwiększa limit dobieranych przez Ciebie kart w Kroku Dobierania o jedną. Działanie kilku kopii tej karty nie kumuluje się.",
         "image": "image21",
@@ -5383,8 +5383,8 @@
         "time modified": "2011-03-16 08:55:44",
         "name": "STEROWIEC HINDENFOKKER",
         "resources": [
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "Koszt początkowy: X. POJAZD. Połóż X żetonów na tej karcie, kiedy werbujesz tego wojownika. X jest kosztem początkowym, który zdecydujesz się zapłacić. Możesz zdjąć żeton przed swoim Krokiem Ataku lub Najazdu, aby umożliwić Hindenfokkerowi atak lub najazd na cel znajdujący się pod wodą. Hindenfokker otrzymuje taktykę Wodną aż do końca trwania konfliktu.",
         "image": "image23",
@@ -5403,8 +5403,8 @@
         "time modified": "2011-03-16 08:56:21",
         "name": "STRAŻNIK",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. CZARODZIEJ. Strażnicy mają zadanie dopilnować, żeby Megakorporacje nie wtargnęły do Mrocznego Raju. Możesz odrzucić Strażnika w dowolnym momencie (poza trwającą walką lub najazdem) żeby odrzucić jednego wybranego przez Ciebie wojownika, który przynależy do Megakorporacji (karty dołączone do tego wojownika również są odrzucane).",
         "image": "image24",
@@ -5421,7 +5421,7 @@
         "time modified": "2011-03-16 08:57:38",
         "name": "STRAŻNIK KHANA",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. Khan podarował wyjątkowe zdolności Strażnikom, wybierz jedną z nich, kiedy werbujesz tego wojownika. Zdolność OCHRONY: Strażnik otrzymuje +3 do WB, kiedy znajduje się na Pograniczu. Zdolność ATAKU: otrzymuje +3 do WB, kiedy atakuje. Zdolność NAJAZDU: otrzymuje +3 do WB, kiedy najeżdża. Raz wybranej zdolności nie można zmienić.",
         "image": "image25",
@@ -5440,7 +5440,7 @@
         "time modified": "2011-03-16 09:32:31",
         "name": "SURVIELER",
         "resources": [
-            "Zasob_8"
+            "Red_Materials"
         ],
         "action": "PIECHOTA. Survieler może dokonać autodestrukcji podczas walki lub najazdu. Jeśli zdecydujesz się na autodestrukcję wojownika, otrzymuje on +15 do WB. Po zakończeniu konfliktu, Survieler i wszyscy członkowie grupy w skład której wchodzili, lub uczestniczący wraz z nim w najeździe są anihilowani.",
         "image": "image26",
@@ -5458,7 +5458,7 @@
         "time modified": "2011-03-16 09:33:26",
         "name": "SYN PÓŁNOCY",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. Syn północy w przypadku remisu w konflikcie jest zwycięzcą. W dowolnym momencie kiedy jedna z twoich kart ma zostać anihilowana możesz zdecydować, że zostanie odrzucona. Natychmiast po tym musisz anihilować Syna Północy.",
         "image": "image27",
@@ -5476,9 +5476,9 @@
         "time modified": "2011-03-16 09:33:56",
         "name": "SZABLOGRZBIET",
         "resources": [
-            "Zasob_8",
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Materials",
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "Koszt początkowy: 2. POJAZD. ŁÓDŹ PODWODNA. Nigdy nie może posiadać taktyki lądowej i powietrznej. Może tworzyć grupy i najeżdżać tylko z wojownikami, którzy mogą atakować i najeżdżać karty znajdujące się pod wodą. Jeśli w skład najeżdżających wojowników wchodzi Szablogrzbiet, celem najazdu może być dowolne miejsce w Osadzie lub karta Przywódcy nawet, jeśli nie posiada żadnych odkrytych krawędzi.",
         "image": "image28",
@@ -5497,7 +5497,7 @@
         "time modified": "2011-03-16 08:55:16",
         "name": "ŚMIGŁOWIEC WYSPIARZY",
         "resources": [
-            "Zasob_9"
+            "Red_Fuel"
         ],
         "action": "Koszt początkowy: 1. POJAZD. Śmigłowiec Wyspiarzy może być przenoszony w dowolnym momencie (oprócz trwającej walki lub najazdu) i tak często jak sobie tego życzysz.",
         "image": "image22",
@@ -5515,8 +5515,8 @@
         "time modified": "2011-03-16 09:34:24",
         "name": "TANCERZ WOJNY",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. Za każdym razem, gdy zagrasz RYTUAŁ, który po zakończeniu działania należy odrzucić (nie działa na anihilowane karty), ten wojownik umożliwia Ci wzięcie go ponownie na rękę. Za każdym razem, gdy ostatni z Twoich Tancerzy Wojny w Twojej krainie zostanie odrzucony lub anihilowany, musisz odrzucić wszystkie Twoje RYTUAŁY pozostające w grze oraz na twoim ręku i pokazać przeciwnikowi karty, jakie masz na ręce.",
         "image": "image29",
@@ -5533,7 +5533,7 @@
         "time modified": "2011-03-16 09:34:52",
         "name": "TWARZ DUCHA",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 1. PIECHOTA. Przywdziani w magiczne kości przodków Twarze Duchów nie czują strachu. Kiedy jakaś twoja Twarz Ducha zginie w walce lub najeździe, połóż żeton na innej Twojej Twarzy Ducha będącej w grze. Każdy żeton zwiększa WB o +2 i jest odrzucany razem z wojownikiem. NIEOGRANICZONA LICZBA W TALII.",
         "image": "image30",
@@ -5552,7 +5552,7 @@
         "time modified": "2011-03-16 09:35:23",
         "name": "UPADŁY ANIOŁ",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA. Upadły Anioł musi dowieść swojej wartości przed członkami swojego Klanu. Kiedy zginie po raz pierwszy w walce lub podczas najazdu, umieść na nim żeton. Oznacza on, że wojownik został \"ranny\" i aby jego karta została odrzucona musi ponownie zginąć w walce lub podczas najazdu. \"Rana\" nie ma żadnego wpływu na wojownika.",
         "image": "image31",
@@ -5571,7 +5571,7 @@
         "time modified": "2011-03-16 09:36:09",
         "name": "WILCZARZ",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 1. PIECHOTA. ŻOŁNIERZ ZAGŁADY. Wilczarz może stworzyć specjalną jednostkę, z dowolnym POJAZDEM znajdującym się w tym samym oddziale lub pograniczu (nie może tworzyć jednostki specjalnej z SAMOTNIKAMI). Dołącz Wilczarza do POJAZDu. JEDNOSTKA SPECJALNA stworzona w ten spsób sumuje WB połączonych kart oraz wszystkie ich zdolności specjlane. Ta JEDNOSTKA SPECJALNA nigdy nie może się rozpaść. Może być Przenoszona i tworzyć Grupy z innymi wojownikami.",
         "image": "image32",
@@ -5590,8 +5590,8 @@
         "time modified": "2011-03-16 09:37:40",
         "name": "WODOLOT",
         "resources": [
-            "Zasob_9",
-            "Zasob_9"
+            "Red_Fuel",
+            "Red_Fuel"
         ],
         "action": "Koszt początkowy: 2. POJAZD. To lekki statek powietrzny przystosowany również do walki pod wodą. Może zanurkować pod wodę z powietrza. Jeśli Wodolot nie atakował, lub atakował tylko z powietrza, może w tej samej turze najechać kartę Miejsca lub Przywódcy znajdującą się pod wodą.",
         "image": "image33",
@@ -5609,7 +5609,7 @@
         "time modified": "2011-03-16 09:38:08",
         "name": "WOLVERINE",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 3. PIECHOTA. ŻOŁNIERZ ZAGŁADY. Wolverine nie może w tej samej turze atakować i najeżdżać, może wykonać tylko jedną z tych czynności.",
         "image": "image34",
@@ -5627,8 +5627,8 @@
         "time modified": "2011-03-16 09:38:30",
         "name": "WYSŁANNIK PIEKIEŁ",
         "resources": [
-            "Zasob_7",
-            "Zasob_8"
+            "Red_Food",
+            "Red_Materials"
         ],
         "action": "Koszt początkowy: 3. PIECHOTA. Nie może używać BRONI. Wojowników zabitych w walce przez Wysłannika piekieł należy anihilować zamiast odrzucać. Jeśli Wysłannik przegra walkę lub najazd to jego przeciwnik może przejąć kontrolę nad tą kartą (umieszczony zostaje w jego oddziale i może być Przenoszony).",
         "image": "image35",
@@ -5647,7 +5647,7 @@
         "time modified": "2011-03-16 09:38:50",
         "name": "ZAGUBIONA DUSZA",
         "resources": [
-            "Zasob_7"
+            "Red_Food"
         ],
         "action": "PIECHOTA. Zamiast werbować Zagubioną Duszę w normalny sposób, możesz zwerbować jedną lub więcej, kiedy jakieś miejsce w Twojej osadzie jest najeżdżane z powietrza. WB Duszy dodawane jest do WB najeżdżanego miejsca. Jeśli zwyciężysz, umieść Zagubioną Duszę na swoim Pograniczu, jeśli przegrasz karty wszystkich zwerbowanych podczas tego najazdu Dusz należy odrzucić.",
         "image": "image36",
@@ -5665,8 +5665,8 @@
         "time modified": "2011-03-16 09:39:12",
         "name": "ZENITIAńSKI MISTRZ MORDU",
         "resources": [
-            "Zasob_7",
-            "Zasob_7"
+            "Red_Food",
+            "Red_Food"
         ],
         "action": "Koszt początkowy: 5. PIECHOTA. GODNY MROCZNEJ HARMONII. NIGDY nie może używać BRONI ani PANCERZA. Mistrz Mordu może przeprowadzić cztery ataki w turze. Pierwszy atak wykonuje normalnie, przed każdym następnym musisz anihilować jedną kartę z wierzchu swojej talii.",
         "image": "image37",
@@ -5684,8 +5684,8 @@
         "time modified": "2011-03-16 09:39:36",
         "name": "ZAPOMNIANY STRAŻNIK",
         "resources": [
-            "Zasob_7",
-            "Zasob_8"
+            "Red_Food",
+            "Red_Materials"
         ],
         "action": "Koszt początkowy: 2. PIECHOTA.  SAMOTNIK. Zapomniany Strażnik otrzymuje modyfikator +5 do WB, kiedy jest atakowany. Strażnik może zaatakować dowolnego członka jakiejkolwiek Grupy, tak jakby nie wchodził on w jej skład.",
         "image": "image38",
