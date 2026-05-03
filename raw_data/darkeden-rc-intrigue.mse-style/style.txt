@@ -1,0 +1,195 @@
+mse version: 0.3.8
+game: darkeden-rc
+short name: Intrigue
+full name: Intrigue
+icon: Intrigue_Icon.png
+position hint: 003
+installer group: darkeden-rc/Styles/Intrigue
+
+version: 2011-07-02
+
+depends on:
+	package: darkeden-rc.mse-game
+	version: 2011-07-02
+depends on:
+	package: darkeden-rc-sym.mse-symbol-font
+	version: 2011-07-02
+depends on:
+	package: darkeden-rc-common.mse-include
+	version: 2011-07-02
+
+card width: 378
+card height: 525
+card dpi: 300
+
+###################################
+#  Made by Vyzygota acc. to MCIC  #
+###################################
+card style:
+	background:
+		left:	0
+		top:	0
+		width:	378
+		height:	525
+		z index: 0
+		render style: image
+		popup style: in place
+		image: Intrigue.png
+		
+	Name:
+		left: 99
+		top : 35
+		width: 179
+		height: 59
+		alignment: middle center
+		z index: 2
+		font:
+			name: Times New Roman Pogrubiona
+			weight: Bold
+			style: Bold
+			size: 12
+			scale down to: 9
+			color: rgb(0,0,0) 
+			
+	Action:
+		left: 40
+		top : 345
+		width: 295
+		height: 130
+		alignment: left
+		z index: 4
+		mask: Text_mask.png
+		font:
+			name: Times New Roman
+			size: 10
+			weight: bold
+			scale down to: 7
+			color: rgb(0,0,0)
+
+	Image:
+		left: 18
+		top : 110
+		width: 342
+		height: 235
+		z index: 2
+		mask: Mask.png
+
+	Affiliation:
+		left: 32
+		top: 38
+		width: 66
+		height: 66
+		z index: 2
+		popup style: in place
+		render style: image
+		choice images:
+			General:				/darkeden-rc-common.mse-include/General.png
+			Crescentia:				/darkeden-rc-common.mse-include/Crescentia.png
+			The Sons of Rasputin:	/darkeden-rc-common.mse-include/Sons_of_Rasputin.png
+			The Templars:			/darkeden-rc-common.mse-include/Templars.png
+			The Lutheran Triad:		/darkeden-rc-common.mse-include/Lutheran_Triad.png
+			Megacorporations:		/darkeden-rc-common.mse-include/Megacorporations.png
+			The Brotherhood:		/darkeden-rc-common.mse-include/Brotherhood.png
+			The Dark Legion:		/darkeden-rc-common.mse-include/Dark_Legion.png
+			The Mishima:			/darkeden-rc-common.mse-include/Mishima.png
+			The Bauhaus:			/darkeden-rc-common.mse-include/Bauhaus.png
+			The Capitol:			/darkeden-rc-common.mse-include/Capitol.png
+			The Cybertronic:		/darkeden-rc-common.mse-include/Cybertronic.png
+			The Imperial:			/darkeden-rc-common.mse-include/Imperial.png
+
+	Resources:
+		left: 40
+		top : 455
+		width: 265
+		height: 22
+		alignment: top left
+		z index: 4
+		font:
+			name: TraditionSansXLight
+			size: 10
+			scale down to: 4
+			color: rgb(0,0,0)
+		symbol font:
+			name: darkeden-rc-sym
+			size: 12
+			scale down to: 5
+	
+	CV:
+		left: 289
+		top: 46
+		width: 22
+		height: 44
+		z index: 3
+		popup style: in place
+		render style: image
+		choice images:
+			.: /darkeden-rc-common.mse-include/CV_Empty.png
+			0: /darkeden-rc-common.mse-include/CV_0.png
+			1: /darkeden-rc-common.mse-include/CV_1.png
+			2: /darkeden-rc-common.mse-include/CV_2.png
+			/: /darkeden-rc-common.mse-include/CV_slash.png
+			X: /darkeden-rc-common.mse-include/CV_Multiplication.png
+			+: /darkeden-rc-common.mse-include/CV_Add.png
+	
+	CV1:
+		left: 316
+		top: 46
+		width: 22
+		height: 44
+		z index: 3
+		render style: image
+		popup style: in place
+		choice images:
+			.: /darkeden-rc-common.mse-include/CV_Empty.png
+			0: /darkeden-rc-common.mse-include/CV_0.png
+			1: /darkeden-rc-common.mse-include/CV_1.png
+			2: /darkeden-rc-common.mse-include/CV_2.png
+			3: /darkeden-rc-common.mse-include/CV_3.png
+			4: /darkeden-rc-common.mse-include/CV_4.png
+			5: /darkeden-rc-common.mse-include/CV_5.png
+			6: /darkeden-rc-common.mse-include/CV_6.png
+			7: /darkeden-rc-common.mse-include/CV_7.png
+			8: /darkeden-rc-common.mse-include/CV_8.png
+			9: /darkeden-rc-common.mse-include/CV_9.png
+			X: /darkeden-rc-common.mse-include/CV_Multiplication.png
+			
+	post_play:
+		left: 302
+		top : 448
+		width: 30
+		height: 30
+		z index: 4
+		render style: image
+		popup style: in place
+		choice images:
+			Attached:		/darkeden-rc-common.mse-include/Attachment.png
+			Discarded:		/darkeden-rc-common.mse-include/Discard.png
+			Annihilated:	/darkeden-rc-common.mse-include/Annihilate.png
+
+	Autor:
+		left: 31
+		top : 493
+		width: 212
+		height: 13
+		alignment: middle left
+		z index: 3
+		font:
+			name: Bank Gothic Light BT
+			weight: bold
+			size: 10
+			scale down to: 8
+			color: rgb(255,255,255)
+
+	Frame:
+		left: 0
+		top : 0
+		width: 378
+		height: 525
+		alignment: top left
+		z index: 1
+		render style: image
+		popup style: in place
+		choice images:
+			Basic:		/darkeden-rc-sym.mse-symbol-font/Blue_Frame_Vertical.png
+			Genesiss:	/darkeden-rc-sym.mse-symbol-font/Red_Frame_Vertical.png
+			Addon:		/darkeden-rc-sym.mse-symbol-font/Green_Frame_Vertical.png

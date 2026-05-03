@@ -1,0 +1,185 @@
+mse version: 0.3.8
+game: darkeden-rc
+short name: Enhancment
+full name: Enhancment
+icon: Enhancment_Icon.png
+position hint: 002
+installer group: darkeden-rc/Styles/Enhancment
+
+version: 2011-07-02
+
+depends on:
+	package: darkeden-rc.mse-game
+	version: 2011-07-02
+depends on:
+	package: darkeden-rc-sym.mse-symbol-font
+	version: 2011-07-02
+depends on:
+	package: darkeden-rc-common.mse-include
+	version: 2011-07-02
+
+card width: 525
+card height: 378
+card dpi: 150
+
+###################################
+#  Made by Vyzygota acc. to MCIC  #
+###################################
+card style:
+	background:
+		left:	0
+		top:	0
+		width:	525
+		height:	378
+		z index: 0
+		render style: image
+		popup style: in place
+		image: Enhancment.png
+		
+	Name:
+		left: 100
+		top : 20
+		width: 325
+		height: 33
+		alignment: middle center
+		padding bottom: 0
+		z index: 2
+		font:
+			name: Times New Roman Pogrubiona
+			weight: Bold			
+			size: 12
+			scale down to: 10
+			color: rgb(255,255,255) 
+			
+	Action:
+		left: 40
+		top : 265
+		width: 443
+		height: 70
+		alignment: left
+		padding bottom: 0
+		z index: 4
+		mask: text_mask.png
+		font:
+			name: Times New Roman
+			size: 10
+			weight: bold
+			scale down to: 8
+			color: rgb(0,0,0)
+
+	Image:
+		left: 94
+		top : 58
+		width: 337
+		height: 204
+		z index: 2
+		mask: Mask.png
+
+	Affiliation:
+		left: 33
+		top: 34
+		width: 64
+		height: 64
+		z index: 2
+		popup style: in place
+		render style: image
+		choice images:
+			General:				/darkeden-rc-common.mse-include/General.png
+			Crescentia:				/darkeden-rc-common.mse-include/Crescentia.png
+			The Sons of Rasputin:	/darkeden-rc-common.mse-include/Sons_of_Rasputin.png
+			The Templars:			/darkeden-rc-common.mse-include/Templars.png
+			The Lutheran Triad:		/darkeden-rc-common.mse-include/Lutheran_Triad.png
+			Megacorporations:		/darkeden-rc-common.mse-include/Megacorporations.png
+			The Brotherhood:		/darkeden-rc-common.mse-include/Brotherhood.png
+			The Dark Legion:		/darkeden-rc-common.mse-include/Dark_Legion.png
+			The Mishima:			/darkeden-rc-common.mse-include/Mishima.png
+			The Bauhaus:			/darkeden-rc-common.mse-include/Bauhaus.png
+			The Capitol:			/darkeden-rc-common.mse-include/Capitol.png
+			The Cybertronic:		/darkeden-rc-common.mse-include/Cybertronic.png
+			The Imperial:			/darkeden-rc-common.mse-include/Imperial.png
+
+	Resources:
+		left: 270
+		top : 310
+		width: 211
+		height: 23
+		alignment: bottom right
+		z index: 4
+		font:
+			name: TraditionSansXLight
+			size: 10
+			scale down to: 4
+			color: rgb(0,0,0)
+		symbol font:
+			name: darkeden-rc-sym
+			size: 10
+			scale down to: 5
+			
+	CV:
+		left: 435
+		top: 41
+		width: 22
+		height: 44
+		z index: 3
+		popup style: in place
+		render style: image
+		choice images:
+			.: /darkeden-rc-common.mse-include/CV_Empty.png
+			0: /darkeden-rc-common.mse-include/CV_0.png
+			1: /darkeden-rc-common.mse-include/CV_1.png
+			2: /darkeden-rc-common.mse-include/CV_2.png
+			/: /darkeden-rc-common.mse-include/CV_slash.png
+			X: /darkeden-rc-common.mse-include/CV_Multiplication.png
+			+: /darkeden-rc-common.mse-include/CV_Add.png
+	
+	CV1:
+		left: 462
+		top: 41
+		width: 22
+		height: 44
+		z index: 3
+		render style: image
+		popup style: in place
+		choice images:
+			.: /darkeden-rc-common.mse-include/CV_Empty.png
+			0: /darkeden-rc-common.mse-include/CV_0.png
+			1: /darkeden-rc-common.mse-include/CV_1.png
+			2: /darkeden-rc-common.mse-include/CV_2.png
+			3: /darkeden-rc-common.mse-include/CV_3.png
+			4: /darkeden-rc-common.mse-include/CV_4.png
+			5: /darkeden-rc-common.mse-include/CV_5.png
+			6: /darkeden-rc-common.mse-include/CV_6.png
+			7: /darkeden-rc-common.mse-include/CV_7.png
+			8: /darkeden-rc-common.mse-include/CV_8.png
+			9: /darkeden-rc-common.mse-include/CV_9.png
+			X: /darkeden-rc-common.mse-include/CV_Multiplication.png
+			
+
+	Autor:
+		left: 33
+		top : 349
+		width: 132
+		height: 12
+		alignment: top left
+		padding bottom: 0
+		z index: 3
+		font:
+			name: Bank Gothic Light BT
+			weight: bold
+			size: 10
+			scale down to: 4
+			color: rgb(255,255,255)
+
+	Frame:
+		left: 0
+		top : 0
+		width: 525
+		height: 378
+		alignment: top left
+		z index: 1
+		render style: image
+		popup style: in place
+		choice images:
+			Basic:		/darkeden-rc-sym.mse-symbol-font/Blue_Frame_Horizontal.png
+			Genesiss:	/darkeden-rc-sym.mse-symbol-font/Red_Frame_Horizontal.png
+			Addon:		/darkeden-rc-sym.mse-symbol-font/Green_Frame_Horizontal.png
