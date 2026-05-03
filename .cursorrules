@@ -1,0 +1,10 @@
+Projekt: "Dark Eden Digital"
+Silnik: Godot 4.x
+Język: WŁĄCZNIE GDScript (wersja Standard/Vanilla). Żadnego C#.
+
+ZASADY ARCHITEKTURY:
+1. Używamy silnego typowania w GDScript (np. var health: int = 10).
+2. Data-Driven Design: Surowe statystyki kart i ich parametry wyzwalaczy (Triggers/Effects) przechowujemy w zewnętrznym pliku danych (wygenerowanym z MSE), a w Godocie używamy niestandardowych Zasobów (Resources) jako szablonów obiektów.
+3. Interfejs (UI): Do budowy ręki gracza, stołu i kart zawsze używamy węzłów Control (np. HBoxContainer, VBoxContainer, TextureRect).
+4. Logika Gry: Bazuje na ścisłej Maszynie Stanów (State Machine) zawartej w GameManager.gd (podział tury na 6 kroków: Draw, Action, Balance, Attack, Raid, Discard).
+5. Nie modyfikujemy globalnych parametrów silnika bez pytania. Każdy kod musi być modułowy i unikać ścisłego sprzęgania (tight coupling) za pomocą sygnałów.

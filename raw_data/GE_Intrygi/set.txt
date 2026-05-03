@@ -1,0 +1,422 @@
+﻿mse version: 0.3.8
+game: darkeden-rc
+stylesheet: intrigue
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:09:04
+	time modified: 2011-03-16 07:37:17
+	Name: AGENDA
+	Action: Dołącz do gry w dowolnym momencie. Do Twoich miejsc i Twojego Przywódcy, mogą być dołączane 2 udoskonalenia na turę, zamiast jednego.
+	Image: image1
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:10:14
+	time modified: 2011-03-16 07:38:14
+	Name: AKWALUNG
+	Resources: <sym-auto>8</sym-auto>
+	Action: EKWIPUNEK. Wyposaż w niego swoją PIECHOTĘ. Wojownik uważany jest za Marynarza.
+	Image: image2
+	Autor: MUTANT CHRINICLES
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:10:41
+	time modified: 2011-03-16 07:38:45
+	Name: ALCHEMIA
+	Action: ZAKLĘCIE SZTUKI. Moc zaklęcia: 3. Zagraj podczas swojego kroku Wykonywania Akcji. Wszystkie produkowane przez Ciebie ikony jednego z zasobów (wybierasz, który rodzaj zasobów), stają się ikonami innego zasobu (wybierasz rodzaj zasobów). Używając Moc zaklęcia: 8, to zaklęcie będzie oddziaływać na wszystkie ikony wybranego przez Ciebie zasobu, które są produkowane przez wszystkich graczy. Zaklęcie pozostaje w grze i musi być PODTRZYMANE aż do początku Twojej następnej tury, po czym należy je anihilować.
+	Image: image3
+	Affiliation: The Brotherhood
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:11:04
+	time modified: 2011-03-16 07:39:13
+	Name: AMFIBIA
+	Resources: <sym-auto>8</sym-auto>
+	Action: EKWIPUNEK. Dołącz do swojego POJAZDU. Wojownik uważany jest za Marynarza.
+	Image: image4
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:12:08
+	time modified: 2011-03-16 07:39:51
+	post play: Annihilated
+	Name: ARMADA
+	Action: Zagraj podczas swojej tury na Twoją grupę ofensywną składającą się wyłącznie z Marynarzy. Każdy wojownik z grupy otrzymuje +1 do WB, a grupa może atakować lub najeżdżać w tej turze dwa razy. Jeśli przeprowadza atak i najazd to nie może żadnej z tych czynności wykonać dwa razy.
+	Image: image5
+	CV: +
+	CV1: 1
+	Autor: PAUL BONNER
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:12:39
+	time modified: 2011-03-16 07:40:24
+	post play: Annihilated
+	Name:
+		ATAK Z
+		ZASKOCZENIA
+	Action: Zagraj w dowolnym momencie, poza trwającą walką lub najazdem. Możesz natychmiast wykonać jeden (i tylko jeden) atak, tak jakby odbywał się podczas Twojej tury. Atakującym może być wojownik, lub grupa ofensywna, z Twojego Oddziału nawet jeśli przed chwilą atakował/atakowała. Przeprowadź atak w normalny sposób.
+	Image: image6
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:13:15
+	time modified: 2011-03-16 07:40:52
+	post play: Annihilated
+	Name: CIĘCIE KOSZTÓW
+	Action: Zagraj w dowolnym momencie na miejsce lub Przywódcę posiadającego UDOSKONALENIA. Wszystkie UDOSKONALENIA działajęce na wybraną kartę zostają odrzucone.
+	Image: image7
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:21:25
+	time modified: 2011-03-16 07:41:23
+	Name: DOBRY PRZYKŁAD
+	Action: Dołącz do swojego Przywódcy w dowolnym momencie. Za każdym razem, kiedy Ty albo Twoi wojownicy spowodują, że jakakolwiek karta nie będąca wojownikiem zostanie odrzucona (z jakiegokolwiek powodu), należy ją anihilować (to dotyczy również kart odrzucanych przez Ciebie).
+	Image: image8
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:21:52
+	time modified: 2011-03-16 07:41:55
+	Name: JEDEN Z NASZYCH
+	Action: Dołącz do dowolnego wojownika lub miejsca i wybierz Przynależność, której nie posiada ta karta. Od tej pory wybrana przez Ciebie przynależność jest dodatkową posiadaną przez tą kartę. Efekt kilku tych samych kart kumuluje się, ale każda z nich dodaje inną przynależność.
+	Image: image9
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:22:05
+	time modified: 2011-03-16 07:42:29
+	Name:
+		KREW JEST
+		CIĘŻSZA OD WODY
+	Action: Dołącz do dowolnego przywódcy podczas swojej tury. Przywódca, do którego jest dołączona ta karta, nie może zagrywać kart wojowników innej przynależności, niż ta, do której należy nawet jeśli jego zdolność specjalna lub jakakolwiek inna karta mu na to pozwala. Wszyscy wojownicy innych przynależności, kontrolowani przez tego przywódcę są odrzucani (włączając w to wojowników ogólnej przynależności).
+	Image: image10
+	Autor: JOHN MATSON
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:22:35
+	time modified: 2011-03-16 07:44:17
+	Name: LEWITACJA
+	Action: ZAKLĘCIE SZTUKI. Moc zaklęcia: 3. Zagraj podczas swojego kroku Wykonywania Akcji. Wszyscy Twoi wojownicy uważani są za lotników. Zaklęcie pozostaje w grze i musi być PODTRZYMYWANE. Jeśli gracz zrezygnuje z podtrzymywania Zaklęcia, należy je anihilować.
+	Image: image11
+	Affiliation: The Brotherhood
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:22:57
+	time modified: 2011-03-16 07:44:47
+	Name: MOC POWIETRZA
+	Action: ZAKLĘCIE SZTUKI. Moc zaklęcia: 3. Zagraj podczas swojego kroku Wykonywania Akcji. Wszyscy Twoi wojownicy są uważani za Marynarzy. Zaklęcie pozostaje w grze i musi być PODTRZYMYWANE. Jeśli gracz zrezygnuje z podtrzymywania Zaklęcia, należy je anihilować.
+	Image: image12
+	Affiliation: The Brotherhood
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:23:18
+	time modified: 2011-03-16 07:45:13
+	Name: NABRZEŻE
+	Action: Dołącz w dowolnym momencie, do miejsca lub porzywódcy nie posiadającego taktyki Lądowej, które ma chociaż jedną wolną krawędź. Ta karta nigdy nie może zostać odrzucona lub anihilowana. Od tej pory karta, do której dołączysz Nabrzeże posiada taktykę Lądową. Jeśli karta, do której dołączone jest Nabrzeże zostanie odrzucona, pozostaje ono w grze na jego miejscu i w przypadku, gdy zostanie w tym miejscu wybudowane miejsce, należy ją do niego dołączyć.
+	Image: image13
+	Autor: STUART BEEL
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:23:37
+	time modified: 2011-03-16 07:45:40
+	post play: Discarded
+	Name:
+		NIECH KAŻDY
+		WEŹMIE
+		GŁĘBOKI WDECH
+	Action: Zagraj w dowolnym momencie. Wszyscy wojownicy z Twojego Pogranicza nie będący POJAZDAMI, aż do początku Twojej następnej tury, są uważani za Marynarzy (wojownik przestaje być uważana za marynarza, kiedy zostanie przeniesiony do Oddziału, ale wojownicy przenoszeni na Pogranicze stają się Marynarzami).
+	Image: image14
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:24:16
+	time modified: 2011-03-16 07:46:05
+	post play: Discarded
+	Name: NURKUJ! NURKUJ!
+	Action: Zagraj podczas walki Morskiej, w której uczestniczy Twój wojownik (lub Grupa) mogący walczyć pod wodą. Wojownik (lub Grupa) ucieka z pola walki pod wodę i uniemożliwia przeciwnikowi kontynuowanie walki. Przeciwnik może natychmiast próbować również zanurkować (poprzez zagranie takiej samej karty) aby kontynuować walkę.
+	Image: image15
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:24:36
+	time modified: 2011-03-16 07:46:37
+	Name:
+		PLANY NA
+		PRZYSZŁOŚĆ
+	Action: Dołącz do swojego Przywódcy w dowolnym momencie, poza Twoim Krokiem Bilansowania. Możesz pominąć swój Krok Bilansowania w każdej turze, pod warunkiem, że nie będziesz w niej przeprowadzać ataków ani najazdów. Jeśli jednak po pominięciu Kroku Bilansowania dokonasz ataku lub najazdu musisz odrzucić tę kartę i przeprowadzić Krok Bilansowania po swoim Kroku Najazd.
+	Image: image16
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:25:14
+	time modified: 2011-03-16 07:47:12
+	Name: PŁYWAJĄCE FUNDAMENTY
+	Action: Zagraj tę kartę, kiedy budujesz jakieś miejsce z taktyką Lądową. Miejsce to traci taktykę Lądową, a w zamian otrzymuje Wodną. Ta karta nie może zostać odrzucona lub anihilowana dopóki mijesce, do którego jest dołączona nie zostanie odrzucone lub anihilowane (lub skutecznie najechane).
+	Image: image17
+	Autor: STUART BEEL
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:25:36
+	time modified: 2011-03-16 07:47:41
+	Name: POBŁOGOSŁAWIONY PRZEZ ŚWATŁO
+	Action: Dołącz do swojego wojownika nie będącego CZARODZIEJEM (może to być wojownik każdej przynależności) w dowolnym momencie. Od tej pory wojownik jest uważany za CZARODZIEJA, z Mocą na poziomie 3.
+	Image: image18
+	Affiliation: The Brotherhood
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:26:24
+	time modified: 2011-03-16 07:48:09
+	post play: Annihilated
+	Name: POWSZECHNA MOBILIZACJA
+	Action: Zagraj w dowolnym momencie. Daj swoją talię kart odrzuconych przeciwnikowi. Oponent musi przeszukać ją i usunąć z niej karty wszystkich wojowników (możesz to sprawdzić). Następnie dodaj karty tych wojowników z powrotem do kart w talii i przetasuj ją.
+	Image: image19
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:26:39
+	time modified: 2011-03-16 07:48:35
+	post play: Annihilated
+	Name: PROSTO Z GŁĘBIN
+	Action: Zagraj podczas kroku Wykonywania Akcji przeciwnika, na któregokolwiek z jego wojowników lub grupę, posiadającą taktykę Morską. Zapłać X Jednostek Złota (sam deklarujesz wartość X, nie możesz później wydać więcej Jednostek Złota). Podwodny potwór z WB równym X atakuje wskazanego wojownika lub grupę. Przeprowadź normalną walkę. Zaatakowany wojownik/grupa, jeśli przeżyje, nie będzie mógł/mogła wykonać w tej turze ataku oraz najazdu. Na potwora nie działają karty modyfikujące WB.
+	Image: image20
+	Autor: PAUL BONNER
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:27:17
+	time modified: 2011-03-16 07:49:08
+	Name: PRZEGLĄD BRONI
+	Action: Dołącz do swojego Przywódcy w dowolnym momencie. Kiedy ta karta znajduje się w grze, żadna z kontrolowanych przez Ciebie kart EKWIPUNKU nie może zostać odrzucona lub anihilowana, z jakiejkolwiek przyczyny. Jeśli karta EKWIPUNKU jest odrzucana lub anihilowana wraca do Twojej ręki.
+	Image: image21
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:27:52
+	time modified: 2011-03-16 07:49:38
+	post play: Annihilated
+	Name: PRZYPŁYW
+	Action: Zagraj w dowolnym momencie. Wszystkie Miejsca oraz Przywódcy z taktyką Lądową, aż do początku twojej następnej tury otrzymują taktykę morską.
+	Image: image22
+	Autor: STUART BEEL
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:28:25
+	time modified: 2011-03-16 07:50:06
+	post play: Annihilated
+	Name:
+		RUCHY
+		TEKTONICZNE
+	Action: Koszt początkowy: 10. Zagraj podczas swojej tury (poza trwającym atakiem lub najazdem). Wszystkie miejsca znajdujące się pod wodą (posiadające wyłącznie taktykę Morską), będące w grze zostają odrzucone. Nie są przyznawane żande punkty zwycięstwa.
+	Image: image23
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:29:03
+	time modified: 2011-03-16 07:50:35
+	post play: Annihilated
+	Name: SĄD BOŻY
+	Action: ZAKLĘCIE SZTUKI. Moc zaklęcia: 10. Zagraj w dowolnym momencie. Wszyscy wojownicy pozostający w grze uważani za HERETYKÓW zostają natychmiast odrzuceni.
+	Image: image24
+	Affiliation: The Brotherhood
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:29:17
+	time modified: 2011-03-16 07:51:05
+	Name: STRUMIEŃ INTERWENCJI
+	Action: Koszt początkowy: 2. Dołącz do gry w dowolnym momencie. Kiedy ta karta pozostaje w grze żadne karty PROROCTW, RYTUAŁÓW, ZAKLĘĆ SZTUKI i DARÓW MROCZNEJ HARMONII nie mają żadnego efektu.
+	Image: image25
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:29:43
+	time modified: 2011-03-16 07:51:47
+	Name: STYGMATY
+	Action: ZAKLĘCIE SZTUKI. Moc zaklęcia: X (sam wybierasz). Zagraj podczas swojej tury. Wszyscy wojownicy Legionu Ciemności oraz wszyscy Heretycy otrzymują -X do swojego WB. Zaklęcie pozostaje w grze i musi być PODTRZYMYWANE. Jeśli gracz zrezygnuje z podtrzymywania Zaklęcia, należy je anihilować.
+	Image: image27
+	Affiliation: The Brotherhood
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:30:08
+	time modified: 2011-03-16 07:52:16
+	Name: TRUDNY CEL
+	Action: Dołącz do dowolnego miejsca lub wojownika w dowolnym momencie (poza trwającą walką lub najazdem) i zapłać X Jednostek Złota, gdzie X jest bazowym WB karty, do której dołączasz Trudny Cel. Karta ta traci jedną taktykę, którą wybierzesz. Nie może jednak stracić swojej ostatnie taktyki. Ta karta nie może zostać dołączona do Przywódcy.
+	Image: image28
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:30:21
+	time modified: 2011-03-16 07:52:40
+	Name:
+		TWÓJ ŚMIEĆ, 
+		MÓJ SKARB
+	Action: Dołącz do swojego Przywódcy w dowolnym momencie. Za każdym razem, kiedy jakikolwiek przeciwnik odrzuca kartę z ręki, możesz dobrać dodatkową kartę.
+	Image: image29
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:31:02
+	time modified: 2011-03-16 07:53:10
+	Name: UTRATA MOCY
+	Action: Dołącz w dowolnym momencie, do jakiegokolwiek wojownika mogącego przebywać pod wodą lub miejsca znajdującego się pod wodą. Podczas każdego kroku dobierania kart, przez gracza kontrolującego kartę, do której jest dołączona Utrata mocy, połóż żeton na tej karcie. Za każdy żeton, karta z Utratą mocy otrzymuje -2 do WB. Kilka kopii tej karty kumuluje się.
+	Image: image30
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:31:19
+	time modified: 2011-03-16 07:53:40
+	post play: Annihilated
+	Name:
+		WIELKA
+		PRZEBUDOWA
+	Action: TEJ KARTY MOŻNA UŻYĆ TYLKO PODCZAS GRY ZESPOŁOWEJ. Zagraj podczas swojej tury. Twoja drużyna może przebudować miejsca w swojej krainach w dowolny sposób. Nowe rozmieszczenie kart musi być legalne. Można przenosić nawet karty NIERUCHOME. Karty dołączone oraz uleprzenia są przenoszone wraz z ich bazowymi kartami.
+	Image: image31
+	Autor: MUTANT CHRONICLES
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:31:48
+	time modified: 2011-03-16 07:54:10
+	post play: Annihilated
+	Name: WIELKA SUSZA
+	Action: Zagraj w dowolnym momencie. Wszystkie miejsca oraz Przywódcy posiadający taktykę Morską, tracą ją i w zamian jeśli takiej nie posiadają, zyskują taktykę Lądową. Efekt ten utrzymuje się aż do początku Twojej następnej tury.
+	Image: image32
+	Autor: MUTANT CHRONICLES
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:32:08
+	time modified: 2011-03-16 07:54:48
+	Name:
+		WOLNI
+		OD GRZECHU
+	Action: Dołącz do swojego Przywódcy (nie musi być spod przynależności Bractwa). Wszyscy wojownicy Twoich przeciwników uważani są za HERETYKÓW.
+	Image: image33
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:32:44
+	time modified: 2011-03-16 07:55:15
+	Name: WYSOKA FALA
+	Action: Dołącz w dowolnym momencie, do dowolnego miejsca lub Przywódcy z taktyką Lądową, posiadającego przynajmniej jedną odkrytą krawędź. Ta karta nie może nigdy zostać odrzucona lub anihilowana. Od tej pory, karta do której została dołączona Wysoka Fala posiada taktykę wodną. Jeśli bazowa karta zostanie usunięta z gry, Wysoka Fala pozostaje na jej miejscu i należy ją dołączyć w momencie wybudowania na tym miejscu jakiegoś innego miejsca.
+	Image: image34
+	Autor: STUART BEEL
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:32:57
+	time modified: 2011-03-16 07:55:42
+	Name:
+		WZROK
+		INKWIZYTORA
+	Action: ZAKLĘCIE SZTUKI. Moc zaklęcia: 2. Zagraj w dowolnym momencie. Wszyscy gracze (poza Tobą) muszą pokazać karty znajdujące się na ich rękach, tak żeby każdy mógł je obejrzeć. Zaklęcie pozostaje w grze i musi być PODTRZYMANE aż do początku Twojej następnej tury, po czym należy je anihilować.
+	Image: image35
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:33:26
+	time modified: 2011-03-16 07:56:08
+	post play: Annihilated
+	Name: ZAKRZYWIENIE CZASOPRZESTRZENI
+	Action: ZAKLĘCIE SZTUKI. Moc zaklęcia: X. Zagraj podczas swojego kroku Wykonywania Akcji. Możesz wziąć dowolne miejsce będące w grze (nawet NIERUCHOME) i umieścić je w nowym legalnym miejscu w dowolnej krainie. Moc zaklęcia to połowa bazowego WB miejsca zaokrąglana w górę. Od tej pory miejsce jest kontrolowane przez gracza, do którego krainy zostanie przeniesione.
+	Image: image36
+	Affiliation: The Brotherhood
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:33:46
+	time modified: 2011-03-16 07:56:32
+	post play: Annihilated
+	Name:
+		ZMIECIONE Z POWIERZCHNI
+		ZIEMI
+	Action: Zagraj natychmiast po udanym najechaniu jakiegoś miejsca, które posiada UDOSKONALENIA. Najechałeś miejsce razem z jego UDOSKONALENIAMI. Weź miejsce oraz wszystkie UDOSKONALENIA. Zdobywasz Punkty Zwycięstwa równe bazowemu WB najechanego miejsca, oraz odpowiednią ilość Punktów Zwycięstwa wynikającą z każdego UDOSKONALENIA, jakie posiada to miejsce (zaznacz to za pomocą żetonów reprezentujących Punkty Zwycięstwa).
+	Image: image37
+	Autor: PAUL BONNER
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:34:12
+	time modified: 2011-03-16 07:56:55
+	Name: ZWĄTPIENIE
+	Action: Dołącz do jakiegokolwiek CZARODZIEJA w dowolnym momencie. Wojownik, do którego dołączona jest ta karta, nie jest dłużej uważany za CZARODZIEJA. Wszystkie Zaklęcia Sztuki PODTRZYMYWANE przez tego wojownika tracą swój efekt i należy je odrzucić.
+	Image: image38
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+version control:
+	type: none
+apprentice code: 

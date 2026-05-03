@@ -1,0 +1,157 @@
+﻿mse version: 0.3.8
+game: darkeden-rc
+stylesheet: leader
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 00:32:21
+	time modified: 2011-03-16 08:25:07
+	Name:
+		BARON
+		STRASSBOURG
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: Przylegające miejsca otrzymują +2 do WB. Strassbourg może zapłacić dodatkowe 8 jednostek złota, kiedy buduje miejsce z taktyką lądową, żeby stało się ono miejscem podwodnym. Miejsce wybudowane w ten sposób otrzymuje taktykę morską, a traci wszystkie pozostałe taktyki.
+	Image: image1
+	Affiliation: The Sons of Rasputin
+	Land: No
+	Air: No
+	CV: 0
+	CV1: 8
+	Autor: JOHN MATSON
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 00:33:29
+	time modified: 2011-03-16 08:24:53
+	Name: BARTHOLOMEW GIESEL
+	Action: CZŁONEK KARTELU. Giesel produkuje 5 ikon zasobów, które wybierzesz, zadeklaruj je podczas swojego pierwszego kroku bilansowania (nie możesz ich później zmienić). Przylegające miejsca otrzymują +2 do WB. Nie może nigdy wybudować CYTADELI LEGIONU CIEMNOŚCI. Giesel może zagrywać karty wojowników uważanych za ŻOŁNIERZY ZAGŁADY, w dowolnym momencie, poza krokiem Atak i Najazd. Nadal musi zapłacić za nich koszt początkowy.
+	Image: image2
+	Affiliation: Megacorporations
+	Sea: No
+	CV: 1
+	CV1: 6
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 00:34:08
+	time modified: 2011-03-16 08:25:47
+	Name: BRAT HORATIO
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto>
+	Action: Przylegające miejsca otrzymują +2 do WB. Nie może nigdy wybudować CYTADELI LEGIONU CIEMNOŚCI. Podczas każdego swojego kroku wykonywania akcji, Brat Horatio może anihilować 1 (i tylko 1) kartę z wierzchu swojej talii, wtedy każdy z jego przeciwników traci 2 punkty zwycięstwa. Tracone są tylko punkty zwycięstwa, a nie najechane miejsca.
+	Image: image3
+	Affiliation: The Brotherhood
+	Sea: No
+	CV: 1
+	CV1: 6
+	Autor: MUTANT CHRONICLES
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 00:34:32
+	time modified: 2011-03-16 08:26:28
+	Name: CHARLES EDGE
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto>
+	Action: CZŁONEK CYBERTRONIKU. Przylegające miejsca otrzymują +2 do WB. Na Edga i wszystkich jego wojowników traktowanych jako CZŁONKOWIE CYBERTRONIKU, nie działają karty PROROCTW, RYTUAŁÓW, MROCZNEJ HARMONII oraz ZAKLĘCIA SZTUKI. Przeciwnicy w walce oraz podczas najazdów, w których uczestniczą CZŁONKOWIE CYBERTRONIKU, nie otrzymują modyfikatorów wynikających z zastosowania tych kart, a wszystkie będące dotychczas w grze tracą swój efekt do końca trwania konfliktu.
+	Image: image4
+	Affiliation: The Cybertronic
+	CV: 1
+	CV1: 6
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 00:40:49
+	time modified: 2011-03-16 08:27:01
+	Name: LORD TOMBU
+	Resources: <sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto>
+	Action: Przylegające miejsca otrzymują +2 do WB. Tombu może wydać niewykorzystane jednostki paliwa po jego kroku bilansowania, żeby dobrać jedną dodatkową kartę za trzy jednostki paliwa. Tylko 3 karty mogą zostać dobrane w ten sposób w jednej turze a dobierając je nie możesz przekroczyć łącznej liczby siedmiu kart na ręku. Paliwo w Magazynach nie może być wydane.
+	Image: image5
+	Affiliation: The Mishima
+	CV: 1
+	CV1: 6
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 00:41:32
+	time modified: 2011-03-16 08:27:30
+	Name: MARCUS KLEF
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>4</sym-auto>
+	Action: Przylegające miejsca otrzymują +2 do WB. Klef może zagrywać karty EKWIPUNKU. Wszyscy jego wojownicy będący CZŁONKAMI KAPITOLU są uważani za marynarzy.
+	Image: image6
+	Affiliation: The Capitol
+	CV: 1
+	CV1: 6
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 00:42:16
+	time modified: 2011-03-16 08:28:20
+	Name: MOHAMMED ENGULFED
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: Przylegające miejsca otrzymują +2 do WB. Mohammed może wydać 5 jednostek złota podczas swojej tury i wybrać wojownika który nie będzie mógł zaatakować żadnego z jego wojowników ani najechać jego osady podczas najbliższej tury gracza który kontroluje wybranego wojownika. Mohammed może wydać złoto na więcej niż 1 wojownika.
+	Image: image7
+	Affiliation: Crescentia
+	Land: No
+	CV: 0
+	CV1: 8
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 00:42:59
+	time modified: 2011-03-16 08:29:01
+	Name: NOAH WROUGHT
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: Przylegające miejsca otrzymują +2 do WB. Noah może zagrywać wojowników uważanych za CZŁONKÓW IMPERIALU. Jeśli w trakcie swojej tury nie wykona żadnych akcji, nie przeprowadzi ani ataku, ani najazdu, może przenieść dowolną kartę ze swojego stosu kart anihilowanych do ręki.
+	Image: image8
+	Affiliation: The Lutheran Triad
+	Land: No
+	CV: 0
+	CV1: 8
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 00:43:30
+	time modified: 2011-03-16 08:29:40
+	Name: REICHEL
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: Przylegające miejsca otrzymują +2 do WB. Wszyscy wojownicy Reichel traktowani jako piechota są uważani za marynarzy. Za każde 2 jednostki Surowców których Reichel nie zużyje w trakcie bilansu, może zwiększyć WB wszystkich swoich miejsc o +1, aż do początku jego następnej tury. Surowce składowane w Magazynach nie mogą zostać wydane.
+	Image: image9
+	Affiliation: The Templars
+	Land: No
+	CV: 0
+	CV1: 8
+	Autor: MUTANT CHRONICLES
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 00:44:47
+	time modified: 2011-03-16 08:30:13
+	Name: SHANNON O'ROURKE
+	Resources: <sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto>
+	Action: Przylegające miejsca otrzymują +2 do WB. Wojownicy Shannon traktowani jako CZŁONKOWIE IMPERIALU otrzymują modyfikator +3 do WB kiedy atakują i najeżdżają. Kiedy się bronią ich WB nie zmienia się. Ten modyfikator stosowany jest po wszystkich innych.
+	Image: image10
+	Affiliation: The Imperial
+	CV: 1
+	CV1: 6
+	Autor: LUCA ZONTINI
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 00:45:23
+	time modified: 2011-03-16 08:30:39
+	Name: SIGFRIED BOURGES
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto>
+	Action: Przylegające miejsca otrzymują +2 do WB. Sigfried może zagrywać karty Wywrotowca bez posiadania Agencji Wywiadowczej. Nie płaci kosztu początkowego za wojowników traktowanych jako CZŁONKOWIE BAUHAUSU.
+	Image: image11
+	Affiliation: The Bauhaus
+	CV: 1
+	CV1: 6
+	Autor: PAUL BONNER
+version control:
+	type: none
+apprentice code: 

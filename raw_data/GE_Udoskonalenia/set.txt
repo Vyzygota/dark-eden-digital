@@ -1,0 +1,154 @@
+﻿mse version: 0.3.8
+game: darkeden-rc
+stylesheet: enhancment
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:24:58
+	time modified: 2011-03-16 09:44:11
+	Name: EKOLOGICZNE ULEPSZENIE
+	Resources: <sym-auto>8</sym-auto>
+	Action: POZIOM 1 UDOSKONALENIA MIEJSC. Miejsce z tym udoskonaleniem traktowane jest jak NIEPOZORNE, nie może zostać najechane chyba, że wszystkie inne miejsca w tej Osadzie również są NIEPOZORNE, albo nie mogą zostać najechane (w skutek działania jakiejś karty).
+	Image: image2
+	Autor: STUART BEEL
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:29:23
+	time modified: 2011-03-16 09:45:07
+	Name: FANATYZM
+	Action: POZIOM 3 UDOSKONALENIA PRZYWÓDCY. Kiedy Twój wojownik zostanie zabity, należy potraktować go jako "rannego" i pozostawić w grze (walka/najazd są zakończone). Umieść żeton na tej karcie, żeby oznaczyć "ranę", nie ma ona żadnego wpływu na tego wojownika. Jeśli jest "ranny" i zostanie zabity, należy odrzucić kartę wojownika w normalny sposób. Jeśli karta tego UDOSKONALENIA zostanie usunięta z gry, wszyscy Twoi "ranni" wojownicy zostają natychmiast zabici i należy ich odrzucić.
+	Image: image3
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:29:49
+	time modified: 2011-03-16 09:46:36
+	Name: FOSA
+	Action: POZIOM 1 UDOSKONALENIA MIEJSC. Jeśli to miejsce zostanie najechane z lądu, możesz odrzucić jednego, wybranego przez Ciebie wojownika biorącego udział w najeździe, w kroku Modyfikacji Najazdu.
+	Image: image4
+	Autor: STUART BEEL
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:30:09
+	time modified: 2011-03-16 09:47:21
+	Name: GARNIZON
+	Action: POZIOM 3 UDOSKONALENIA MIEJSC. Miejsce z tym udoskonaleniem, dołączone do niego karty oraz miejsca przylegające do niego, otrzymują modyfikator +10 do WB. Jeśli do miejsca z Garnizonem przylega karta Przywódcy, to nie może on być najechany dopóki to Udoskonalenie pozostaje w grze.
+	Image: image5
+	CV: 1
+	CV1: 0
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:30:35
+	time modified: 2011-03-16 09:48:19
+	Name: GWIEZDNY SOJUSZ
+	Action: POZIOM 1 UDOSKONALENIA PRZYWÓDCY. Ze względu na swoją Przynależność (bądź też Członkostwo w Megakorporacjach), możesz werbować WOJOWNIKÓW Twojego Głównego Sojusznika. Główne Sojusze to: Horda Półksiężyca i CZŁONKOWIE MISHIMY; Synowie Rasputina i CZŁONKOWIE BAUHAUSU; Templariusze i CZŁONKOWIE CYBERTRONIKU; Luterańska Triada i CZŁONKOWIE IMPERIALU. KAPITOL nie posiada Głównego Sojusznika.
+	Image: image6
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:30:51
+	time modified: 2011-03-16 09:48:53
+	Name: LEPSZE WYPOSAŻENIE
+	Action: POZIOM 1 UDOSKONALENIA MIEJSC. Zagraj na miejsce produkujące ikony zasobów. Miejsce to będzie produkować w każdej turze dwie dodatkowe ikony zasobów, które już produkuje (jeśli miejsce posiada kilka różnych ikon zasobów, możesz wybrać spośród nich jeden rodzaj, który ma być produkowany ekstra, w danej turze).
+	Image: image7
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:31:17
+	time modified: 2011-03-16 09:49:24
+	Name: PODNIEBNA BUDOWLA
+	Action: Koszt początkowy: X. POZIOM 1 UDOSKONALENIA MIEJSC. Miejsce z tym udoskonaleniem może być atakowane i najeżdżane tylko z Powietrza (zyskuje taktykę Powietrzną, jeśli zachodzi taka potrzeba i traci wszystkie inne taktyki). WB miejsca wzrasta o +X, gdzie X jest kosztem początkowym, jaki zapłacisz za to udoskonalenie.
+	Image: image8
+	CV: +
+	CV1: X
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:32:02
+	time modified: 2011-03-16 09:49:53
+	Name: PRZYSPOSOBIENIE OBRONNE
+	Action: POZIOM 1 UDOSKONALENIA PRZYWÓDCY. Możesz formować Grupy Defensywne w dowolnym momencie (poza trwającą walką lub najazdem).
+	Image: image9
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:34:23
+	time modified: 2011-03-16 09:50:24
+	Name: SIATKA SZPIEGOWSKA
+	Resources: <sym-auto>6</sym-auto><sym-auto>6</sym-auto>
+	Action: POZIOM 2 UDOSKONALENIA PRZYWÓDCY. Zyskujesz 1 Punkt Zwycięstwa podczas każdego Twojego Kroku Dobierania. Jeśli nie możesz zbilansować tej karty, musisz oprócz niej odrzucić również jedno UDOSKONALENIE PRZYWÓDCY 3 POZIOMU.
+	Image: image10
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:34:51
+	time modified: 2011-03-16 09:50:54
+	Name: SIŁY SPECJALNE
+	Action: POZIOM 2 UDOSKONALENIA PRZYWÓDCY. Możesz najeżdżać kartę Przywódcy z odsłoniętymi brzegami, nawet, jeśli w jego Osadzie znajdują się inne miejsca.
+	Image: image11
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:35:13
+	time modified: 2011-03-16 09:51:30
+	Name:
+		SKŁAD
+		MATERIAŁÓW WYBUCHOWYCH
+	Action: POZIOM 2 UDOSKONALENIA MIEJSC. To udoskonalenie należy usunąć w momencie udanego najazdu na miejsce, wyposażone w tą kartę. Wszyscy wojownicy biorący udział w najeździe zostają anihilowani. Punkty Zwycięstwa przyznawane są normalnie.
+	Image: image12
+	Autor: MUTANT CHRONICLES
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:36:18
+	time modified: 2011-03-16 09:52:49
+	Name: WÓDZ DA NAM PRZYKŁAD
+	Action: POZIOM 3 UDOSKONALENIA PRZYWÓDCY. W kroku najazdu, w trakcie wyznaczania najeźdźców, możesz dodać do twoich wojowników biorących udział w najeździe WB swojego Przywódcy. Jeśli przegrasz wynik najazdu należy potraktować jako udany najazd na Twojego Przywódcę.
+	Image: image13
+	Autor: PAUL BONNER
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:36:56
+	time modified: 2011-03-16 09:53:17
+	Name: ZWIĄZKI ZAWODOWE
+	Action: POZIOM 3 UDOSKOLANENIA MIEJSC. To miejsce od tej pory posiada taką samą przynależność jak Twój Przywódca. Dodatkowo, WB wszystkich Twoich miejsc Twojej Przynależności jest podwajane. Ten modyfikator stosuje się po wszystkich innych. Efekt kilku kopii tej karty nie kumuluje się.
+	Image: image14
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:37:20
+	time modified: 2011-03-16 09:54:10
+	Name: ZWIĘKSZENIE PRODUKCJI
+	Action: POZIOM 2 UDOSKOLANENIA MIEJSC. Miejsce z tym Udoskonaleniem, oraz karty do niego dołączone, wytwarzają dwa razy więcej ikon zasobów.
+	Image: image15
+	Autor: PAUL BONNER
+	Frame: Genesiss
+version control:
+	type: none
+apprentice code: 

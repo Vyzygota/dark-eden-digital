@@ -1,0 +1,1651 @@
+﻿mse version: 0.3.8
+game: darkeden-rc
+stylesheet: intrigue
+card:
+	stylesheet: intrigue
+	has styling: false
+	notes: 
+	time created: 2011-03-12 16:21:33
+	time modified: 2011-03-16 06:25:52
+	post play: Annihilated
+	Name:
+		BEZKRESNE
+		MORZA
+	Action: Zagraj podczas dowolnego ataku lub najazdu z wody. Atak/najazd natychmiast kończy się ostatecznym remisem. Ponadto do początku następnej tury gracza, który właśnie wykonuje działania, nie można przeprowadzać żadnych ataków z wody.
+	Image: image1
+	Autor: PAUL BONNER
+card:
+	stylesheet: intrigue
+	has styling: false
+	notes: 
+	time created: 2011-03-12 16:22:25
+	time modified: 2011-03-16 06:26:22
+	post play: Annihilated
+	Name: BŁĘDNE MAPY
+	Action: Zagraj podczas najazdu, po ustaleniu najeźdźców. Przeciwnik najechał złe Miejsce! Wybierz inny cel, który mogą najechać (nie musi znajdować się w tej samej Krainie co pierwotny cel). Wojownicy nie najadą własnej Krainy.
+	Image: image2
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:20:09
+	time modified: 2011-03-16 06:30:17
+	post play: Discarded
+	Name:
+		BŁOGOSŁA-
+		WIEŃSTWO
+	Action: RYTUAŁ. Do początku twojej następnej tury WB wszystkich twoich Miejsc i twojego Przywódcy ulega podwojeniu. Ten modyfikator stosuje się przed wszystkimi innymi.
+	Image: image3
+	Affiliation: The Lutheran Triad
+	CV: X
+	CV1: 2
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:21:39
+	time modified: 2011-03-12 18:22:29
+	Name:
+		BŁOGOSŁA-
+		WIEŃSTWO CZY PRZEKLEŃSTWO?
+	Action: Dołącz podczas swojej tury do dowolnego Wojownika. Od tej pory ten Wojownik nie może posiadać innych kart dołączanych poza tą. Ponadto należy odrzucić wszystkie karty, które zostały do niego dołączone przed użyciem tego atutu.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:22:46
+	time modified: 2011-03-12 18:23:02
+	post play: Discarded
+	Name: BOMBARDOWANIE
+	Action: Zagraj podczas swojej tury na swój POJAZD latający. Ten Wojownik może w tej turze zaatakować i najechać lądem. Jeśli Obrońca nie jest Lotnikiem i zwycięży, walka kończy się ostatecznym remisem.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:23:14
+	time modified: 2011-03-12 18:23:43
+	post play: Annihilated
+	Name: BOOM ŻYWNOŚCIOWY!
+	Action: Zagraj podczas swojego kroku Bilansowania. Wszystkie twoje karty produkujące Żywność produkują w tej turze dwa razy więcej Żywności.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:23:54
+	time modified: 2011-03-12 18:24:24
+	Name: BOSKA PIĘŚĆ
+	Action: EKWIPUNEK. Wyposaż w niego swojego PIECHURA. WB tego Wojownika zwiększa się o +3. Jeśli walka zakończy się remisem, to ten Wojownik i tak wygrywa.
+	Image: 
+	CV: +
+	CV1: 3
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:24:36
+	time modified: 2011-03-16 06:30:01
+	post play: Discarded
+	Name: BRAK PALIWA
+	Resources: 
+	Action: Zagraj w dowolnym momencie, za wyjątkiem walki lub najazdu. Aż do początku twojej następnej tury żaden POJAZD nie może przeprowadzać ataku ani najazdu, przyłączać się do Grup Ofensywnych i Defensywnych oraz nie może być Przeniesiony. POJAZDY, które znajdują się w Grupach, pozostają w nich, ale ich WB nie wlicza się do WB Grupy.
+	Image: image6
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:25:25
+	time modified: 2011-03-12 18:25:54
+	Name: BRAK WYDAJNOŚCI
+	Action: Dołącz podczas swojej tury do dowolnego Miejsca. Miejsce, do którego dołączyłeś Brak Wydajności, wymaga jednej dodatkowej ikony zasobów - zadecyduj jakiej podczas dołączania tej karty.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:26:16
+	time modified: 2011-03-16 06:31:28
+	post play: Discarded
+	Name: BRAK ŻYWNOŚCI
+	Action: Zagraj w dowolnym momencie, za wyjątkiem walki lub najazdu. Aż do początku twojej następnej tury żadna JAZDA nie może przeprowadzać ataków i najazdów, przyłączać się do Grup Ofensywnych i Defensywnych oraz nie może być Przeniesiona. JAZDA, która znajduje się w Grupie, pozostaje w niej, ale jej WB nie wlicza się do WB Grupy.
+	Image: image7
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:28:33
+	time modified: 2011-03-16 06:32:02
+	post play: Discarded
+	Name: CEGŁA PO CEGLE
+	Action: agraj zaraz po zniszczeniu Miejsca. Zamiast odrzucać to Miejsce, możesz je umieścić w swojej Krainie (jeśli jest taka możliwość) tak jakbyś to ty je wybudował. Możesz zignorować Koszt Początkowy i przynależność Miejsca.
+	Image: image8
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:30:37
+	time modified: 2011-03-12 18:30:48
+	Name: CENA WOJNY
+	Action: Koszt Początkowy: 4. Dołącz tę kartę do dowolnego Przywódcy podczas swojej tury. Gracz, który kontroluje tego Przywódcę, ciągnie o jedną kartę mniej podczas swojego kroku pierwszego (Dobieranie). Działanie kilku kopii tej karty kumuluje się. Przywódca może mieć dołączone maksimum trzy takie karty.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:30:58
+	time modified: 2011-03-12 18:31:22
+	Name: CIĘCIE
+	Action: Zagraj podczas najazdu. Wybierz jednego z Wojowników przeprowadzających najazd. Ten Wojownik został za towarzyszami i nie może wziąć udziału w tym najeździe.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:31:39
+	time modified: 2011-03-16 06:32:37
+	post play: Discarded
+	Name: CZAS POKOJU
+	Action: Zagraj w dowolnym momencie. Aż do początku twojej następnej tury żaden z graczy nie może zaatakować. Jeśli zagrałeś kartę w trakcie walki, kończy się ona ostatecznym remisem. Można wciąż przeprowadzać najazdy
+	Image: image9
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:32:02
+	time modified: 2011-03-16 06:33:34
+	Name: CZASZKA AZJATYCKA
+	Action: Koszt Początkowy: 10. KARTA UNIKATOWA. KLUCZ-CZASZKA. Musisz posiadać w swojej krainie WYSPIARZY lub WPŁYW HARDINGA, aby zagrać tę kartę. Ponadto możesz ją zagrać tylko zaraz po Zniszczeniu jakiegoś Miejsca. Dołącz kartę do Przywódcy podczas swojej tury. W jednej turze możesz zagrać tylko jedną KLUCZ-CZASZKĘ. WB twojego Przywódcy zwiększa się o +4. Jeśli dołączysz do swego Przywódcy wszystkie cztery KLUCZE-CZASZKI, zwyciężasz!
+	Image: image10
+	CV: +
+	CV1: 4
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:40:48
+	time modified: 2011-03-16 06:34:00
+	Name: CZASZKA EUROPEJSKA
+	Action: Koszt Początkowy: 10. KARTA UNIKATOWA. KLUCZ-CZASZKA. Musisz posiadać w swojej krainie WYSPIARZY lub WPŁYW HARDINGA, aby zagrać tę kartę. Ponadto możesz ją zagrać tylko zaraz po Zniszczeniu jakiegoś Miejsca. Dołącz kartę do Przywódcy podczas swojej tury. W jednej turze możesz zagrać tylko jedną KLUCZ-CZASZKĘ. WB twojego Przywódcy zwiększa się o +4. Jeśli dołączysz do swego Przywódcy wszystkie cztery KLUCZE-CZASZKI, zwyciężasz
+	Image: image11
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:41:20
+	time modified: 2011-03-16 06:35:44
+	Name:
+		CZASZKA POŁUDNIOWO-
+		AMERYKAŃSKA
+	Action: Koszt Początkowy: 10. KARTA UNIKATOWA. KLUCZ-CZASZKA. Musisz posiadać w swojej krainie WYSPIARZY lub WPŁYW HARDINGA, aby zagrać tę kartę. Ponadto możesz ją zagrać tylko zaraz po Zniszczeniu jakiegoś Miejsca. Dołącz kartę do Przywódcy podczas swojej tury. W jednej turze możesz zagrać tylko jedną KLUCZ-CZASZKĘ. WB twojego Przywódcy zwiększa się o +4. Jeśli dołączysz do swego Przywódcy wszystkie cztery KLUCZE-CZASZKI, zwyciężasz!
+	Image: image13
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:42:07
+	time modified: 2011-03-16 06:34:56
+	Name:
+		CZASZKA
+		PÓŁNOCNO-
+		AMERYKAŃSKA
+	Action: Koszt Początkowy: 10. KARTA UNIKATOWA. KLUCZ-CZASZKA. Musisz posiadać w swojej krainie WYSPIARZY lub WPŁYW HARDINGA, aby zagrać tę kartę. Ponadto możesz ją zagrać tylko zaraz po Zniszczeniu jakiegoś Miejsca. Dołącz kartę do Przywódcy podczas swojej tury. W jednej turze możesz zagrać tylko jedną KLUCZ-CZASZKĘ. WB twojego Przywódcy zwiększa się o +4. Jeśli dołączysz do swego Przywódcy wszystkie cztery KLUCZE-CZASZKI, zwyciężasz!
+	Image: image12
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:42:47
+	time modified: 2011-03-16 06:36:51
+	post play: Annihilated
+	Name:
+		DESPERACKA
+		AKCJA
+	Action: Możesz zwrócić jedno ze zniszczonych przez ciebie Miejsc prawowitemu właścicielowi (ten musi je odrzucić), dzięki czemu zyskujesz tyle Jednostek Złota, ile wynosi podwojone WB Miejsca. Uzyskane w ten sposób Jednostki Złota dołącz do swoich Zasobów Złota. Ta karta nie działa na żetony zdobyte podczas najazdu na Przywódcę.
+	Image: image14
+	Autor: PETER SNDRE JONES
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:44:33
+	time modified: 2011-03-16 06:37:20
+	Name: DOBROBYT
+	Action: Dołącz w dowolnym momencie do swego Przywódcy. W każdej turze możesz wyciągnąć jedną dodatkową kartę podczas kroku Dobieranie kart. Kilka kopii tej karty kumuluje się. Jeśli ta karta ma zostać odrzucona, to ulega anihilacji (nawet jeśli nie została wykorzystana).
+	Image: image15
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:45:02
+	time modified: 2011-03-12 18:45:31
+	post play: Discarded
+	Name: DRŻENIE
+	Action: RYTUAŁ. Możesz przenieść jedno Miejsce gdziekolwiek indziej na obszarze swej Krainy (jeśli jest to możliwe). Działanie tego Rytuału, w przeciwieństwie do większości innych, jest stałe.
+	Image: 
+	Affiliation: The Lutheran Triad
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:46:13
+	time modified: 2011-03-12 18:46:38
+	Name: DWURURKA
+	Resources: <sym><sym-auto>8</sym-auto></sym>
+	Action: EKWIPUNEK. BROŃ. Wyposaż nią w swoją PIECHOTĘ. WB Wojownika uzbrojonego w Dwururkę zwiększa się o +1. Może on ponadto atakować dwa razy w jednej turze. Jeśli Wojownik może już atakować więcej niż raz w turze, to wszystkie efekty kumulują się.
+	Image: 
+	CV: +
+	CV1: 1
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:46:57
+	time modified: 2011-03-12 18:50:24
+	Name: DZIAŁKO PRZECIWLOTNICZE
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: EKWIPUNEK. Wyposaż w nie swoją PIECHOTĘ nie-Lotnika. BROŃ. Ten Wojownik może przeciwdziałać najazdom z powietrza, może być atakowany z powietrza, ale nie może atakować i najeżdżać z powietrza. Tej broni można użyć tylko w trakcie walki powietrznej. Odrzuć tę kartę, jeśli wyposażony w nią Wojownik stał się Lotnikiem.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:50:33
+	time modified: 2011-03-12 18:50:43
+	Name: EFEKTYWNE WYKORZYSTANIE PRZESTRZENI
+	Action: Dołącz podczas swojej tury do swojego Miejsca. Liczba sąsiadów tego miejsca zwiększa się o +2 (aż do maksimum 4). Jeśli ta karta zostanie odrzucona, kontrolujący to Miejsce gracz musi odrzucić tyle kart Miejsc, aby Liczba Sąsiadów nie została przekroczona.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:50:51
+	time modified: 2011-03-12 18:51:03
+	Name: EKONOMICZNE PLANOWANIE
+	Action: Dołącz w dowolnym momencie do swego Przywódcy. Kiedy ta karta znajduje się w grze, możesz zamiast wykonywać akcje w kroku drugim (Wykonywanie Akcji) zyskać 5 Jednostek Zło
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:51:17
+	time modified: 2011-03-12 18:51:33
+	post play: Annihilated
+	Name: EUREKA!
+	Action: Zagraj podczas swojego kroku Bilansowania. Wszystkie twoje karty produkujące Złoto, produkują w tej turze dwa wazy więcej Złota.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:51:56
+	time modified: 2011-03-12 18:52:04
+	Name: FAŁSZYWE PROROCTWO
+	Action: Dołącz podczas swojej tury do dowolnego PROROKA. Od tej pory Wojownik, do którego dołączono Fałszywe Proroctwo, nie może przeprowadzić akcji Wygłaszanie Proroctw Półksiężyca.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:52:11
+	time modified: 2011-03-12 18:52:24
+	post play: Discarded
+	Name: FERWOR WALKI
+	Action: Zagraj zaraz po dowolnej walce. Wojownik, który zwyciężył, musi natychmiast zaatakować jeszcze raz (jeśli jest to tylko możliwe). Tej karty nie można zagrać, jeśli walka zakończyła się remisem.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:52:36
+	time modified: 2011-03-12 18:53:03
+	Name: FORTYFIKACJA
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 4. EKWIPUNEK. Dołącz do któregoś ze swoich Miejsc lub do swojego Przywódcy. WB karty, do której dołączono Fortyfikację, zwiększa się o +4.
+	Image: 
+	CV: +
+	CV1: 4
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:53:47
+	time modified: 2011-03-12 20:54:58
+	post play: Annihilated
+	Name: GŁUPOTA CZY ODWAGA?
+	Action: Zagraj w dowolnym momencie na dowolnego Wojownika, Miejsce lub Przywódcę. Do początku twojej następnej tury ta karta zwiększa WB wybranego atutu o +2 lub zmniejsza je o -2 (ty decydujesz, która z wersji ma miejsce).
+	Image: 
+	CV: .
+	CV1: .
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:54:38
+	time modified: 2011-03-16 06:38:00
+	Name: GRANAT
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: EKWIPUNEK. Wyposaż w niego swoją PIECHOTĘ. Wojownik może podczas walki lub najazdu anihilować Granat potrajając swoją WB.
+	Image: image16
+	CV: X
+	CV1: 3
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:54:58
+	time modified: 2011-03-16 06:38:37
+	post play: Annihilated
+	Name: INFILTRACJA
+	Action: Zagraj podczas najazdu, zanim zostanie ustalony jego cel. Możesz wybrać dowolne Miejsce za cel najazdu, nawet jeśli nie ma ono odsłoniętych brzegów. Możesz nawet wybrać Przywódcę chronionego Miejscami.
+	Image: image17
+	Autor: ANGUS MCKIE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:55:23
+	time modified: 2011-03-12 18:55:38
+	Name: JASNOWIDZENIE
+	Action: MROCZNA HARMONIA. Obdarz swoją PIECHOTĘ. Za każdym razem, gdy ten Wojownika znajdzie się w walce lub podczas najazdu, jego przeciwnik musi aż do końca konfliktu pokazywać wszystkie karty, które ma na ręce.
+	Image: 
+	Affiliation: The Dark Legion
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:55:48
+	time modified: 2011-03-12 18:56:13
+	post play: Annihilated
+	Name: JA TO WEZMĘ
+	Action: Zagraj, kiedy jakaś karta ma zostać odrzucona. Zamiast trafić na stos kart odrzuconych, wraca ona do ręki swojego właściciela. Jednak wszystkie dołączone do niej karty należy odrzucić. Ten atut nie działa na karty anihilowane.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:56:26
+	time modified: 2011-03-16 06:39:07
+	post play: Discarded
+	Name: KAMUFLAŻ
+	Action: Zagraj podczas swojego kroku Najazd. Twoi najeźdźcy mogą przemknąć się obok każdego Wojownika lub Grupy Defensywnej stacjonujących na pograniczu. Ani Wojownik, ani Grupa nie mogą zapobiec najazdowi.
+	Image: image18
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:57:02
+	time modified: 2011-03-12 18:57:25
+	post play: Discarded
+	Name: KŁOPOT Z KSIĘGAMI
+	Action: Zagraj Podczas kroku Bilansowania dowolnego gracza. Do początku twojej następnej tury wszystkie karty tego gracza są zbilansowane. Niestety, gracz nie może zwiększyć swych Zasobów Złota o niewykorzystane Jednostki Złota.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:57:44
+	time modified: 2011-03-12 18:58:10
+	Name: KŁOPOTY Z SUROWCAMI
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Dołącz podczas swojej tury do Krainy dowolnego gracza. Podczas następnego kroku Bilansowania ten gracz MUSI zapłacić za tę kartę. Przed odrzuceniem tej karty należy odrzucić wszystkie inne, które wymagają Surowców. Kłopoty z Surowcami należy anihilować po zakończeniu Bilansowania.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:58:31
+	time modified: 2011-03-12 18:58:52
+	Name: KOLCZASTY PANCERZ
+	Resources: <sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 1. EKWIPUNEK. PANCERZ. Dołącz do POJAZDU. WB Wojownika zwiększa się o +2.
+	Image: 
+	CV: +
+	CV1: 2
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:58:58
+	time modified: 2011-03-16 06:39:51
+	Name: KONSEKWENCJE
+	Action: Dołącz w dowolnym momencie do swojego Przywódcy. Kiedy ta karta znajduje się w grze, za każde 3 Jednostki Złota możesz anihilować dowolną kartę dołączaną, która znajduje się w grze. Za każdą anihilowaną kartę musisz anihilować jeden atut, który znajduje się na wierzchu twojej talii (nie patrz, co straciłeś).
+	Image: image19
+	Autor: PETER ANDREW JONES
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:59:14
+	time modified: 2011-03-16 06:44:30
+	post play: Annihilated
+	Name: KRADZIEŻ
+	Action: SABOTAŻ. Zagraj podczas kroku Wykonywania Akcji, jeśli posiadasz WYWROTOWCA w Krainie innego gracza. Możesz wziąć Zasoby Złota gracza, który kontroluje WYWROTOWCA i dołączyć je do swoich Zasobów Złota.
+	Image: image4
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 18:59:52
+	time modified: 2011-03-12 19:00:06
+	post play: Annihilated
+	Name: LĄDOWANIE AMFIBII
+	Action: Koszt Początkowy: 3. Zagraj podczas swojej tury. Do początku twojej następnej tury wszyscy Wojownicy w twoim Oddziale są uważani za Marynarzy.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:00:10
+	time modified: 2011-03-12 19:00:21
+	Name: LINIA BRZEGOWA
+	Action: Zagraj w dowolnym momencie na któreś z Miejsc, posiadających przynajmniej jedną odsłonietą krawędź. Od tej pory Miejsce leży na brzegu i może zostać najechane z wody. Jeśli Liczbą Sąsiadów tego miejsca wynosi 4, to spada do 3.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:00:29
+	time modified: 2011-03-16 06:45:56
+	post play: Annihilated
+	Name: LUDZKA TARCZA
+	Action: vZagraj zaraz po tym jak twój Wojownika pokona w walce innego Wojownika. Przeciwnik zostaje dołączony do twojego Wojownika (ale wszystkie dołączone do przegranego karty zostają odrzucone), a jego WB dodaje się do WB twojego Wojownika, jeśli jest on atakowany. Jeśli przeciwnikiem była Grupa, tylko jeden Wojownik może zostać dołączony (ty decydujesz który).
+	Image: image20
+	Autor: JOHN MATSON
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:00:51
+	time modified: 2011-03-16 06:45:19
+	post play: Discarded
+	Name: ŁAPÓWKA
+	Action: Zagraj kiedy jesteś ofiarą ataku lub najazdu. Płacąc bazowe WB dowolnej wrogiej PIECHOTY, uniemożliwiasz jej uczestniczenie w konflikcie. Możesz Przekupić więcej niż jednego Wojownika. Jeśli przekupisz wszystkich wrogich uczestników walki, atak/najazd dobiega końca. Nie możesz przekupić Wojowników Legionu Ciemności.
+	Image: image5
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:01:13
+	time modified: 2011-03-12 19:01:32
+	post play: Annihilated
+	Name:
+		MASTESUIND
+		COUP D'ETAT
+	Action: SABOTAŻ. Zagraj podczas kroku Wykonywania Akcji, jeśli posiadasz WYWROTOWCA w Krainie innego gracza. Należy obrócić koszulką do góry Przywódcę WYWROTOWCA. W tej sytuacji Przywódca nie dostarcza Zasobów i nie może korzystać ze specjalnych zdolności. Przywódcę można z powrotem obrócić w dowolnym momencie, trzeba jednak za to zapłacić 10 Jednostek Złota. Każdy Przywódca może być ofiarą tej karty tylko raz w trakcie całej gry.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:01:43
+	time modified: 2011-03-12 19:02:21
+	post play: Annihilated
+	Name: MECHANICZNY TARAN
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: EKWIPUNEK. BROŃ. Dołącz do swojej PIECHOTY. Jeśli ten Wojownik prowadzi najazd, WB wszystkich najeźdźców ulega podwojeniu. Ten modyfikator stosuje się przed wszystkimi innymi. Ta karta ulega anihilacji po przeprowadzeniu najazdu. Prowadzący najazd nie mogą używać żadnej innej BRONI. Można używać tylko jednego Tarana.
+	Image: 
+	CV: X
+	CV1: 2
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:02:34
+	time modified: 2011-03-16 06:46:36
+	post play: Attached
+	Name: MELANCHOLIA
+	Action: Dołącz podczas swojej tury do dowolnego Przywódcy. Nie możesz wykonać żadnej innej akcji ani atakować lub przeprowadzać najazdu. Kiedy Melancholia jest dołączona do Przywódcy, nie może on korzystać ze specjalnych zdolności opisanych na karcie. Zapewnia jednak ikony zasobów w zwykły sposób. Do Przywódcy w danym momencie można dołączyć tylko jedną kopię karty.
+	Image: image21
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:04:42
+	time modified: 2011-03-16 06:47:06
+	post play: Discarded
+	Name: MEMORANDUM
+	Action: Zagraj zaraz po tym, jak twój Wojownik zostanie zabity podczas walki lub najazdu. Umieść tyle Jednostek Złota w swoich Zasobach Złota, ile wynosiło zmodyfikowane WB zabitego.
+	Image: image22
+	Autor: MARCUS THORELL
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:05:22
+	time modified: 2011-03-12 19:07:38
+	Name: MILICJA
+	Action: Koszt Początkowy: X. Dołącz w trakcie swojej tury do swojego Miejsca. WB Miejsca zwiększa się o +X, gdzie X to Koszt Początkowy, który zapłaciłeś (umieść Jednostki Złota na tej karcie - dzięki temu nie zapomnisz wartości modyfikatora).
+	Image: 
+	CV: +
+	CV1: X
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:07:52
+	time modified: 2011-03-12 19:08:24
+	Name: MIOTACZ PŁOMIENI
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: EKWIPUNEK. BROŃ. Wyposaż w nią swoją PIECHOTĘ. Wojownicy zabici w walce przez Wojownika wyposażonego w Miotacz Płomieni są anihilowani, a nie odrzucani.
+	Image: 
+	Affiliation: The Sons of Rasputin
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:08:30
+	time modified: 2011-03-12 19:08:42
+	post play: Annihilated
+	Name: MOTYWACJA
+	Action: Zagraj podczas swojej tury. Wszyscy twoi Wojownicy mogą atakować w tej turze dwa razy.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:08:49
+	time modified: 2011-03-12 19:09:11
+	Name: MROCZNE BŁOGOSŁAWIEŃSTWO
+	Action: Zagraj w dowolnym momencie na swojego Wojownika (bez względu na przynależność). Od tej pory Wojownik jest uważany za GODNEGO MROCZNEJ HARMONII.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:26:48
+	time modified: 2011-03-16 06:47:38
+	post play: Annihilated
+	Name: MUSIMY JEŚĆ
+	Action: Zagraj zaraz po zabiciu w walce dowolnego Wojownika, który nie jest POJAZDEM. Weź kartę zabitego Wojownika i umieść na niej tyle żetonów, ile wynosi jego bazowe WB (całość połóż gdzieś z boku). Podczas Bilansowania możesz wykorzystać te znaczniki jako ikony Żywności. Po zużyciu wszystkich żetonów Wojownik trafia na stos kart odrzuconych swojego właściciela.
+	Image: image23
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:28:49
+	time modified: 2011-03-12 19:29:06
+	Name: MUTACJA NEKROBIONICZNA
+	Action: MROCZNA HARMONIA. Obdarz swoją PIECHOTĘ lub JAZDĘ. Ciało Wojownika uległo niesamowitym zmianom. Od tej pory jest uważany za Żołnierza, Marynarza i Lotnika.
+	Image: 
+	Affiliation: The Dark Legion
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:29:36
+	time modified: 2011-03-12 19:29:47
+	post play: Annihilated
+	Name: MYŚLAŁEM ŻE JEJ PILNUJECIE
+	Action: Zagraj w dowolnym momencie na jakąś JAZDĘ i zapłać tyle Jednostek Złota, ile wynosi jej WB. Bestia uciekła! Odrzuć Wojownika.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:29:48
+	time modified: 2011-03-16 06:48:15
+	Name: NADEJŚCIE VALPURGIUSA!
+	Action: Koszt Początkowy: 10. KARTA UNIKATOWA. Dołącz w dowolnym momencie do swego Przywódcy. Kiedy ta karta znajduje się w grze, możesz zagrywać karty przynależne do Legionu Ciemności, a wszyscy twoi Wojownicy uznani są za GODNYCH MROCZNEJ HARMONII. Ponadto tylko ty możesz posiadać w grze WPŁYW HARDINGA. Podczas każdego kroku Bilansowania możesz zignorować jedną ikonę zasobów na każdym należącym do ciebie Wojowniku Legionu Ciemności. W danej chwili możesz mieć dołączoną do Przywódcy tylko jedną kopię tej karty.
+	Image: image24
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:30:26
+	time modified: 2011-03-16 06:48:54
+	post play: Discarded
+	Name: NADGODZINY
+	Action: Zagraj podczas swojego kroku Bilansowania. Karta twojego Przywódcy produkuje w tej turze dwa razy więcej ikon zasobów.
+	Image: image25
+	Autor: STODIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:32:24
+	time modified: 2011-03-16 06:49:30
+	Name: NAJEMNIK
+	Action: Dołącz podczas swojej tury do dowolnego Wojownika. Wymaga on o +X ikon ZŁ więcej, gdzie X to jego WB.
+	Image: image26
+	Autor: PETER ANDREW JONES
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:32:35
+	time modified: 2011-03-16 06:50:07
+	Name:
+		NA SWOIM
+		WŁASNYM
+	Action: Zagraj w dowolnym momencie na jakiegoś Wojownika. Od tej chwili jest on uważany za SAMOTNIKA. Jeśli ten Wojownik znajduje sie w Grupie Ofensywnej lub Defensywnej, natychmiast ją opuszcza. Karta nie ma wpływu na resztę Grupy.
+	Image: image27
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:32:58
+	time modified: 2011-03-12 19:33:26
+	Name: NASZA WOLA NIE MA GRANIC
+	Action: PRZEPOWIEDNIA. Kiedy ta karta znajduje się w grze, możesz zwiększać WB swoich Wojowników spod znaku Półksiężyca o +2 za każdą Jednostkę Złota, którą wydasz podczas walki lub najazdu. Każda Jednostka Złota działa tylko na jednego Wojownika. WB wojownika wraca do normy po zakończeniu konfliktu.
+	Image: 
+	Affiliation: Crescentia
+	CV: +
+	CV1: 2
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:33:33
+	time modified: 2011-03-16 06:50:42
+	post play: Annihilated
+	Name: NIC DO STRACENIA
+	Action: Zagraj na dowolnego Wojownika podczas kroku Wykonywanie Akcji. Aż do początku twojej następnej tury ten Wojownik nie może zostać zabity ani w walce, ani podczas najazdu.
+	Image: image28
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:33:50
+	time modified: 2011-03-16 06:51:12
+	post play: Annihilated
+	Name: NIEHONOROWE DZIAŁANIE
+	Action: Zagraj na któregoś z Wojowników znajdujących się w grze w dowolnym momencie, za wyjątkiem walki lub najazdu. Musisz zapłacić tyle Jednostek Złota, ile wynosi WB Wojownika, na którego zagrywasz tę kartę. Należy odrzucić Wojownika oraz wszystkie dołączone do niego karty. Jeśli Wojownik wchodził w skład Grupy, to karta nie działa na jej pozostałych członków.
+	Image: image29
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:34:19
+	time modified: 2011-03-12 19:34:30
+	post play: Discarded
+	Name: NIE TAK SZYBKO
+	Action: Zagraj w każdej chwili na dowolnego Wojownika. Ten Wojownik musi odrzucić wszystkie dołączone do niego karty.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:34:44
+	time modified: 2011-03-12 19:35:03
+	Name: NIEŻYCZLIWOŚĆ
+	Action: Dołącz podczas swojej tury do swojego Wojownika. Zabici przez tego Wojownika przeciwnicy są anihilowani a nie odrzucani. Tej zdolności można używać nawet wtedy, gdy Wojownik wchodzi w skład Grupy Ofensywnej. Jeśli przeciwnikiem jest Grupa Defensywna, anihiluje się tylko jednego obrońcę.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:35:09
+	time modified: 2011-03-16 06:52:07
+	post play: Annihilated
+	Name: NIGDY WIĘCEJ
+	Action: Zagraj w dowolnym momencie. Możesz obejrzeć stos kart odrzuconych dowolnego gracza i anihilować dowolne dwie karty. Następnie musisz anihilować jeden atut, który znajduje się na wierzchu twojej talii (nie patrz, co straciłeś).
+	Image: image30
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:35:36
+	time modified: 2011-03-12 19:35:48
+	post play: Annihilated
+	Name: O!
+	Action: Zagraj zaraz po tym, jak twój Wojownik lub twoja Grupa przegrała walkę. Tak naprawdę walka zakończyła się ostatecznym remisem - nie ma ani zwycięzcy, ani przegranego.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:35:52
+	time modified: 2011-03-16 06:52:34
+	Name: OBWÓD DEFENSYWNY
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Dołącz w trakcie swojej tury do dowolnego Miejsca. WB tego Miejsca ulega podwojeniu. Ten modyfikator stosuje się przed innymi
+	Image: image31
+	CV: X
+	CV1: 2
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:36:44
+	time modified: 2011-03-16 06:53:19
+	post play: Annihilated
+	Name: OCALAŁE SUROWCE
+	Action: Zagraj zaraz po zabiciu w walce POJAZDU. Weź kartę zabitego Wojownika i umieść na niej tyle żetonów, ile wynosi jego bazowe WB (całość połóż gdzieś z boku). Podczas Bilansowania możesz wykorzystać te znaczniki jako ikony Surowców. Po zużyciu wszystkich żetonów, Wojownik trafia na stos kart odrzuconych swojego właściciela.
+	Image: image32
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:37:09
+	time modified: 2011-03-16 06:53:50
+	Name: ODKRYCIE PRAWDZIWEGO WROGA
+	Action: PRZEPOWIEDNIA. Wybierz dowolną przynależność różną od Hordy Półksiężyca. Kiedy ta karta znajduje się w grze, WB wszystkich twoich Wojowników walczących z przeciwnikami o wybranej przez ciebie przynależności zwiększa się o +2.
+	Image: image33
+	Affiliation: Crescentia
+	CV: +
+	CV1: 2
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:37:37
+	time modified: 2011-03-16 06:54:34
+	Name:
+		ODKRYCIE
+		SŁABOŚCI PRZECIWNIKA
+	Action: PRZEPOWIEDNIA. Kiedy ta karta znajduje się w grze, Wojownicy, których zaatakujesz nie zyskują pozytywnych modyfikatorów dawanych przez inne karty. Negatywne modyfikatory cały czas działają. Jeśli to Wojownicy przeciwnika najeżdżają lub atakują, modyfikatory działają zwyczajnie.
+	Image: image34
+	Affiliation: Crescentia
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:38:04
+	time modified: 2011-03-16 06:55:07
+	Name: ODLICZANIE
+	Action: Wprowadź do gry pod koniec swojej tury. Zmieniły się wymagania zwycięstwa. Umieść 7 żetonów na tej karcie. Zdejmuj jeden żeton podczas każdego swojego kroku pierwszego (Dobieranie). Kiedy usuniesz wszystkie żetony, gra kończy się i zwycięża ten gracz, który posiada najwięcej PZ. Jeśli ta karta zostanie odrzucona, działają normalne warunki zwycięstwa.
+	Image: image35
+	Autor: LES EDWARDS
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:39:23
+	time modified: 2011-03-12 19:39:33
+	post play: Annihilated
+	Name: ODZYSK
+	Action: Zagraj podczas swojej tury. Możesz przejrzeć swój stos kart odrzuconych i wziąć jedną kartę z powrotem do ręki. Kiedy to zrobisz, anihiluj dwie karty leżące na wierzchu twojej talii (nie patrz na nie).
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:39:39
+	time modified: 2011-03-12 19:40:02
+	post play: Annihilated
+	Name: OGRABIENIE ŚLEPEGO
+	Action: Zagraj w dowolnym momencie na któregoś z graczy. Zapasy Złota tegoż gracza wracają do wspólnej puli. Tej karty nie możesz użyć na gracza, który posiada WIEŻĘ STRAŻNICZĄ w swojej Krainie.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:40:12
+	time modified: 2011-03-16 06:55:44
+	post play: Annihilated
+	Name: OŚWIECENIE
+	Action: Zagraj w dowolnym momencie. Wszyscy gracze, za wyjątkiem ciebie, muszą aż do początku twojej następnej tury mieć odkryte karty na swoich rękach.
+	Image: image36
+	Autor: PETER ANDREW JONES
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:40:52
+	time modified: 2011-03-16 06:56:12
+	post play: Annihilated
+	Name: PACYFISTA
+	Action: Zagraj podczas tury dowolnego gracza, zanim dojdzie do kroku Atak. Gracz nie może w tej turze przeprowadzić ataku lub najazdu (ty decydujesz, czego).
+	Image: image37
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:41:10
+	time modified: 2011-03-12 19:42:21
+	post play: Attached
+	Name: PANCERNA UPRZĄŻ
+	Resources: <sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 1. EKWIPUNEK. PANCERZ. Dołącz do swojej JAZDY. Podczas walki (ale nie podczas najazdu) WB Wojownika zwiększa się o +2.
+	Image: 
+	CV: +
+	CV1: 2
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:42:44
+	time modified: 2011-03-12 19:43:01
+	post play: Annihilated
+	Name: PECH
+	Action: Zagraj podczas walki lub najazdu. Do końca walki WB jednego Wojownika spada o połowę (zaokrąglając w dół). Ten modyfikator stosuje się przed wszystkimi innymi.
+	Image: 
+	CV: /
+	CV1: 2
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:43:12
+	time modified: 2011-03-12 19:43:51
+	Name: PIEKIELNE DZIAŁKO
+	Resources: <sym-auto>8</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt Początkowy: 2. EKWIPUNEK. BROŃ. Wyposaż w nie swój POJAZD. WB tego wojownika zwiększa się o +5. Jeśli walka zakończyła się remisem, to ten Wojownik i tak wygrywa.
+	Image: 
+	Affiliation: The Dark Legion
+	CV: +
+	CV1: 5
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:44:03
+	time modified: 2011-03-12 19:44:21
+	Name: PIRYT
+	Resources: <sym-auto>6</sym-auto><sym-auto>6</sym-auto><sym-auto>6</sym-auto>
+	Action: Dołącz podczas swojej tury do Krainy dowolnego gracza. Podczas następnego kroku Bilansowania ten gracz MUSI zapłacić za tę kartę. Przed odrzuceniem tej karty należy odrzucić wszystkie inne, które wymagają Złota. Piryt należy anihilować po zakończeniu Bilansowania.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:44:31
+	time modified: 2011-03-16 06:57:23
+	Name:
+		PISMO
+		INKWIZYTORA
+		BENEDIKTUSA
+	Action: Koszt Początkowy: 5. Dołącz w dowolnym momencie do swojego Przywódcy. Kiedy karta znajduje się w grze, możesz Werbować WYSPIARZY. Nie możesz zagrać tej karty, jeśli twój Przywódca przynależy do Legionu Ciemności
+	Image: image38
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:44:59
+	time modified: 2011-03-16 06:58:13
+	post play: Annihilated
+	Name: PLAGA
+	Action: Zagraj w dowolnym momencie. Wszyscy Wojownicy znajdujący się w grze zostają odrzuceni wraz z dołączonymi do nich kartami.
+	Image: image39
+	Autor: SIMON BISLEY
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:45:22
+	time modified: 2011-03-16 06:59:48
+	post play: Annihilated
+	Name:
+		PLANY
+		ZNISZCZENIA
+	Action: Koszt Początkowy: 3. Zagraj zaraz po tym, jak twoje Miejsce zostanie zniszczone. I tak zamierzałeś zrównać je z ziemią. Twój przeciwnik nie zdobywa PZ, a twoje Miejsce zostaje odrzucone, zamiast trafić do rąk najeźdźcy.
+	Image: image40
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:46:29
+	time modified: 2011-03-12 19:46:52
+	Name: PLUGAWY GŁÓD
+	Action: MROCZNA HARMONIA. Obdarz swoją JAZDĘ. Ten Wojownik pożera wszystkich przeciwników, których zabił w trakcie walki (za wyjątkiem POJAZDÓW). Karty ofiar ulegają anihilacji i nie zostają po prostu odrzucone. Również karty dołączone do ofiar należy anihilować. Jeśli przeciwnikiem była Grupa, tylko jeden Wojownik ulega anihilacji (ty decydujesz który).
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:51:29
+	time modified: 2011-03-12 19:51:40
+	post play: Annihilated
+	Name: PODPALENIE
+	Action: SABOTAŻ. Zagraj podczas kroku Wykonywanie Akcji, jeśli posiadasz WYWROTOWCA w Krainie innego gracza. Możesz odrzucić jedno Miejsce z Krainy, w której znajduje się Wywrotowiec. Za tę akcję nie zdobywa się PZ.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:51:44
+	time modified: 2011-03-16 07:00:29
+	Name:
+		PODZIAŁ
+		BOGACTWA
+	Action: Wprowadź do gry w dowolnym momencie. Kiedy ta karta znajduje się w grze, żaden z graczy nie może mieć więcej niż 10 Jednostek Złota w swoich Zasobach Złota. Nadmiar należy odłożyć do Wspólnej Pul
+	Image: image41
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:52:11
+	time modified: 2011-03-12 19:52:18
+	post play: Annihilated
+	Name: POSZUKIWANIE
+	Action: Zagraj podczas swojej tury. Możesz przejrzeć swoją talię i wziąć jedną kartę do ręki. Kiedy to zrobisz, przetasuj talię, a następnie anihiluj dwie karty leżące na jej wierzchu (nie patrz na nie).
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:52:27
+	time modified: 2011-03-12 19:52:50
+	post play: Discarded
+	Name: POŚWIĘCENIE
+	Action: RYTUAŁ. Do początku twojej następnej tury WB wszystkich twoich luterańskich Wojowników zwiększa się o +X, kiedy przeprowadzają najazd. W tym celu musisz poświęcić jednego ze swoich luterańskich Wojowników znajdujących się w grze (odrzuć go). X to WB poświęconego Wojownika.
+	Image: 
+	Affiliation: The Lutheran Triad
+	CV: +
+	CV1: X
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:53:07
+	time modified: 2011-03-12 19:54:03
+	post play: Discarded
+	Name: POTENCJAŁ
+	Action: Zagraj podczas walki lub najazdu. Za każdą wydaną Jednostkę Złota WB jednego Wojownika lub celu najazdu zwiększa się o +1 do końca konfliktu. Złoto można wydawać podczas całego starcia
+	Image: 
+	CV: +
+	CV1: 1
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:53:33
+	time modified: 2011-03-16 07:01:06
+	post play: Annihilated
+	Name:
+		POTĘŻNE
+		WICHRY
+	Action: Zagraj podczas dowolnego ataku lub najazdu z powietrza. Atak/najazd natychmiast kończy się ostatecznym remisem. Ponadto do początku następnej tury gracza, który właśnie wykonuje działania, nie można przeprowadzać żadnych ataków ani najazdów z powiet
+	Image: image42
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:54:52
+	time modified: 2011-03-12 19:55:12
+	Name: POWOŁANIE
+	Action: Zagraj w dowolnym momencie na swojego Wojownika. Od tej pory jest on uważany za PATRIARCHĘ.
+	Image: 
+	Affiliation: The Lutheran Triad
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:55:17
+	time modified: 2011-03-12 19:55:32
+	post play: Annihilated
+	Name: PROBLEMY W PRACY
+	Action: SABOTAŻ. Zagraj podczas kroku Wykonywanie Akcji, jeśli posiadasz Wywrotowca w Krainie innego gracza. Odwróć jedno Miejsce koszulką do góry w Krainie, w której znajduje się Wywrotowiec. Od tej pory to miejsce nie może zostać najechane i nie można na nie wpływać w żaden inny sposób. Nie dostarcza żadnych specjalnych zdolności ani Zasobów, ale jednocześnie nie korzysta z Zasobów. To Miejsce jest uznawane za UNIERUCHOMIONE. Linie dostawcze mogą przez nie przechodzić.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:55:39
+	time modified: 2011-03-12 19:55:53
+	Name: PROROCZE WIZJE
+	Action: Zagraj w dowolnym momencie na swojego Wojownika. Od tej pory jest on uważany za PROROKA.
+	Image: 
+	Affiliation: Crescentia
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:55:59
+	time modified: 2011-03-12 19:56:13
+	post play: Discarded
+	Name: PROTEKCJA
+	Action: RYTUAŁ. Do początku twojej następnej tury wszyscy twoi luterańscy Wojownicy nie mogą zostać zabici, jeśli przeprowadzają atak lub najazd. Kiedy się bronią, można ich zabić w zwyczajny sposób.
+	Image: 
+	Affiliation: The Lutheran Triad
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:56:16
+	time modified: 2011-03-12 19:56:30
+	post play: Annihilated
+	Name: PRZELICZ TO
+	Action: Zagraj w dowolnym momencie na któregoś z graczy. Musi on natychmiast przeprowadzić krok Bilansowania, tak jakby teraz nadeszła jego kolej. Gracz może zwiększyć swe Zasoby Złota o niewykorzystane Jednostki Złota.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:56:35
+	time modified: 2011-03-12 19:56:49
+	post play: Discarded
+	Name: PRZEMIANA
+	Action: RYTUAŁ. Do początku twojej następnej tury wszyscy twoi luterańscy Wojownicy są uważani za Żołnierzy, Marynarzy i Lotników.
+	Image: 
+	Affiliation: The Lutheran Triad
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:56:55
+	time modified: 2011-03-12 19:57:19
+	post play: Annihilated
+	Name:
+		RZEMYŚL TO
+		JESZCZE RAZ
+	Action: Zagraj zaraz po tym, jak ktoś zagrał dowolną kartę Intryg. Karta Intryg nie działa i należy ją odrzucić. Wszystkie wydane Jednostki Złota są tracone.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:57:24
+	time modified: 2011-03-12 19:58:01
+	Name: PRZERAŹLIWY SZAŁ
+	Action: MROCZNA HARMONIA. Obdarz swoją PIECHOTĘ. Za każdym razem, kiedy ten Wojownik jest najeźdźcą, jego WB ulega podwojeniu. Ten modyfikator stosuje się po wszystkich innych.
+	Image: 
+	Affiliation: The Dark Legion
+	CV: X
+	CV1: 2
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:58:08
+	time modified: 2011-03-12 19:58:24
+	post play: Discarded
+	Name: PRZEWAGA TAKTYCZNA
+	Action: Zagraj w trakcie walki lub najazdu. Do końca konfliktu WB jednego wojownika lub celu najazdu zwiększa się o +3.
+	Image: 
+	CV: +
+	CV1: 3
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:58:28
+	time modified: 2011-03-12 19:58:50
+	post play: Discarded
+	Name: PRZEŻYJĄ TYLKO NAJSILNIEJSI
+	Action: Zagraj w trakcie walki lub najazdu. Podczas tego starcia nie działają karty dołączone do Wojowników. Modyfikatory wynikające z kart niedołączonych wciąż działają.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:59:01
+	time modified: 2011-03-16 07:01:55
+	post play: Annihilated
+	Name: REKONSTRUKCJA
+	Action: Zagraj podczas swojej tury. Możesz przeorganizować ułożenie Miejsc w swojej Krainie tak, jak chcesz. Nowy wygląd Krainy musi być legalny. Wszystkie karty dołączone do Miejsc pozostają dołączone i dalej działają. Nie możesz poruszyć swego Przywódcy i kart UNIERUCHOMIONYCH.
+	Image: image43
+	Autor: STEFAN THUNBERG
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:59:19
+	time modified: 2011-03-12 20:00:01
+	post play: Annihilated
+	Name: SKAZANIEC
+	Action: RYTUAŁ. WB jednego z twoich luterańskich Wojowników ulega potrojeniu. Ten modyfikator stosuje się po wszystkich innych. Wojownika, na którego działa ta karta, musisz odrzucić na początku swojej następnej tury.
+	Image: 
+	Affiliation: The Lutheran Triad
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 19:59:45
+	time modified: 2011-03-12 19:59:55
+	Name: SKOWYT SIĘ ZBLIŻA
+	Action: PRZEPOWIEDNIA. Kiedy ta PRZEPOWIEDNIA znajduje się w grze, WB całej twojej JAZDY spod znaku Półksiężyca ulega podwojeniu. Ten modyfikator stosuje się przed wszystkimi innymi. Tę kartę musisz anihilować na początku swojej następnej tury.
+	Image: 
+	Affiliation: Crescentia
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:00:13
+	time modified: 2011-03-16 07:03:05
+	post play: Annihilated
+	Name: SKROMNE ZWYCIĘSTWO
+	Action: Zagraj zaraz po tym, jak jeden z twoich Wojowników lub Grup zabije innego w walce. Zdobywasz tyle PZ, ile wynosi bazowe WB pokonanego. Jeśli przeciwnikiem była Grupa, możesz zdobyć PZ tylko za jednego Wojownika (ty decydujesz, za którego). Musisz pominąć swój następny atak i najazd.
+	Image: image44
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:00:48
+	time modified: 2011-03-16 07:03:36
+	post play: Annihilated
+	Name: SKUPIENIE
+	Action: Zagraj w dowolnym momencie. Natychmiast po zagraniu Skupienia musisz anihilować jedną z kart, które znajdują się na twojej ręce. Aż do początku twojej następnej tury nie można przeprowadzać najazdów. Jeśli zagrałeś tę kartę w trakcie najazdu, kończy się on ostatecznym remisem. Wciąż można przeprowadzać ataki.
+	Image: image45
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:01:11
+	time modified: 2011-03-12 20:01:35
+	Name: SOLIDARNOŚĆ
+	Action: Dołącz do swojej Grupy Ofensywnej. Nie będzie ona musiała rozpaść się po Ataku. Jeśli przeprowadzi ona najazd, musi zastosować wspólną Taktykę. Po przeprowadzeniu najazdu staje się zwyczajną Grupą Defensywną. Grupa rozpada się w zwykły sposób na początku twojej następnej tury i wtedy należy odrzucić tę kartę.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:01:50
+	time modified: 2011-03-16 07:04:03
+	Name: SPALONA ZIEMIA
+	Action: UNIERUCHOMIONA. Zagraj zaraz po tym, jak zniszczysz jakieś Miejsce. Umieść tę kartę tam, gdzie znajdowało się to Miejsce. Od tej pory żadne Miejsce nie może zostać tu umieszczone. Przez tę kartę nie mogą przechodzić Linie Dostawcze.
+	Image: image46
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:02:10
+	time modified: 2011-03-16 07:04:47
+	Name:
+		SPOJRZENIE
+		W PRZYSZŁOŚĆ
+	Action: PRZEPOWIEDNIA. Kiedy ta karta znajduje się w grze, wszyscy twoi przeciwnicy muszą przez cały czas pokazywać wszystkim co mają na ręce. Na początku każdej swojej tury musisz zapłacić 4 Jednostki Złota, aby ta karta nadal znajdowała się w grze. Jeśli nie zapłacisz, musisz ją odrzucić.
+	Image: image47
+	Affiliation: Crescentia
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:02:48
+	time modified: 2011-03-16 07:05:25
+	post play: Annihilated
+	Name:
+		SPOTKANIE
+		NA SZCZYCIE
+	Action: TEJ KARTY MOŻNA UŻYĆ TYLKO PODCZAS GRY ZESPOŁOWEJ. Zagraj w dowolnym momencie. Ty i twoi koledzy z zespołu możecie odejść od stołu i powymieniać się kartami, które macie na ręku. Gracze mogą wrócić do stołu z dowolną liczbą atutów w ręku. Zyskują oni pełną kontrolę nad tymi kartami do końca gry. Wymiana kart nie powinna trwać dłużej niż 3 minuty. Każdy członek zespołu może zagrać tę kartę tylko raz w trakcie całej gry.
+	Image: image48
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:03:07
+	time modified: 2011-03-12 20:03:22
+	Name: STALOWY REKIN
+	Resources: <sym-auto>9</sym-auto>
+	Action: Koszt Początkowy: 1. EKWIPUNEK. Dołącz do swojej PIECHOTY. Od tej pory ten Wojownik uważany jest za Marynarza.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:03:26
+	time modified: 2011-03-16 07:06:17
+	post play: Annihilated
+	Name:
+		STRASZLIWA
+		ULEWA
+	Action: Zagraj podczas dowolnego ataku lub najazdu lądem. Atak/najazd natychmiast kończy się ostatecznym remisem. Ponadto do początku następnej tury gracza, który właśnie wykonuje działania, nie można przeprowadzać żadnych ataków ani najazdów lądem.
+	Image: image49
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:03:57
+	time modified: 2011-03-12 20:04:12
+	Name: SUSZA
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: Dołącz podczas swojej tury do Krainy dowolnego gracza. Podczas następnego kroku Bilansowania ten gracz MUSI zapłacić za tę kartę. Przed odrzuceniem tej karty należy odrzucić wszystkie inne, które wymagają Żywności. Suszę należy anihilować po zakończeniu Bilansowania.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:04:18
+	time modified: 2011-03-12 20:04:48
+	post play: Discarded
+	Name: SZAŁ
+	Action: Zagraj na JAZDĘ przeciwnika w dowolnym momencie za wyjątkiem walki i najazdu. Bestia, na którą działa Szał Atakuje swego towarzysza! Wybierz Obrońcę w tym samym Oddziale lub Pograniczu co ta JAZDA i przeprowadź normalną walkę (bestia musi mieć możliwość zaatakowania wybranego celu). Do końca walki ty kontrolujesz JAZDĘ. Tej karty nie można zagrać na Wojownika wchodzącego w skład Grupy.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:04:58
+	time modified: 2011-03-12 20:05:30
+	post play: Annihilated
+	Name: SZARŻA
+	Action: Zagraj na swoją JAZDĘ lub POJAZD podczas walki. Do końca walki lub najazdu WB Wojownika ulega potrojeniu. Ten modyfikator stosuje się po wszystkich innych. Karty nie można zagrać na Wojownika wchodzącego w skład Grupy.
+	Image: 
+	CV: X
+	CV1: 3
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:05:40
+	time modified: 2011-03-12 20:06:16
+	post play: Annihilated
+	Name: SZCZĘŚLIWA RĘKA
+	Action: Zagraj w dowolnym momencie. Weź dowolną kartę EKWIPUNKU któregokolwiek Wojownika i dołącz ją do innego Wojownika. Ten ostatni musi mieć możliwość korzystania z EKWIPUNKU, ale możesz zignorować przynależność. Możesz zagrać tę kartę nawet wtedy, kiedy nie posiadasz w grze atutu pozwalającego korzystać z EKWIPUNKU.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:06:21
+	time modified: 2011-03-16 07:06:44
+	post play: Annihilated
+	Name: SZTUCZKA
+	Action: Zagraj w dowolnym momencie. Możesz zamienić swoje Zasoby Złota z Zasobami Złota innego gracza. Kiedy używasz tego atutu, musisz anihilować dwie karty, które znajdują się na wierzchu twojej talii.
+	Image: image50
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:06:38
+	time modified: 2011-03-12 20:06:55
+	Name: SZYBOWIEC
+	Resources: <sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 1. EKWIPUNEK. Dołącz do swojej PIECHOTY. Od tej pory ten Wojownik uważany jest za Lotnika.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:07:04
+	time modified: 2011-03-12 20:07:59
+	post play: Annihilated
+	Name:
+		ŚMIERĆ Z
+		OBŁOKÓW
+	Action: Koszt Początkowy: 3. Zagraj podczas swojej tury. Do początku twojej następnej tury wszyscy Wojownicy w twoim Oddziale są uważani za Lotników.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:08:05
+	time modified: 2011-03-12 20:08:23
+	Name: TARCZA
+	Action: Dołącz do dowolnej karty dołączanej znajdującej się w grze. Karta, na którą działa Tarcza, nie może zostać odrzucona ani anihilowana, dopóki Tarcza nie zostanie odrzucona lub anihilowana.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:08:47
+	time modified: 2011-03-12 20:09:02
+	Name:
+		TCHÓRZLIWY
+		SKUNKS
+	Action: Dołącz do dowolnego Wojownika podczas swojej tury. Wojownik, do którego dołączyłeś tę kartę, nie może atakować, wchodzić w skład Ofensywnych i Defensywnych Grup oraz przeprowadzać najazdów. Jeśli zostanie zaatakowany, to walczy normalnie.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:09:06
+	time modified: 2011-03-16 07:07:13
+	post play: Annihilated
+	Name: TERRORYZM
+	Action: Zagraj w dowolnym momencie na którekolwiek Miejsce, znajdujące się w grze i zapłać tyle Jednostek Złota, ile wynosi WB tego Miejsca. Kartę symbolizującą to Miejsce należy natychmiast odrzucić. Za to działanie nie zdobywa się PZ.
+	Image: image51
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:09:42
+	time modified: 2011-03-16 07:07:39
+	Name:
+		TOKSYCZNY
+		WYCIEK
+	Action: Dołącz w swojej turze do dowolnego Miejsca, które produkuje SU lub PA. Kiedy ta karta znajduje się w grze, wszystkie karty przyległe do tego Miejsca produkują o jedną ikonę ŻW mniej (jeśli w ogóle jakieś produkują). Karta nie może produkować mniej niż 0 ikon.
+	Image: image52
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:10:01
+	time modified: 2011-03-12 20:10:14
+	Name:
+		TRANSPORT
+		OSOBISTY
+	Action: Koszt Początkowy: 1. EKWIPUNEK. Dołącz do swojej PIECHOTY. Możesz Przenieść tego Wojownika pod koniec swojej tury, po kroku Najazd. Możesz go Przenieść nawet jeśli już raz Przeniosłeś go podczas kroku Wykonywania Akcji.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:10:20
+	time modified: 2011-03-12 20:10:34
+	Name: TRUCIZNA
+	Action: MROCZNA HARMONIA. Obdarz swoją JAZDĘ. WB tego Wojownika zwiększa się o +4. Jeśli walka, w której bierze udział ten Wojownik, zakończy się remisem, on i tak wygrywa (nawet jeśli wchodzi w skład Grupy).
+	Image: 
+	Affiliation: The Dark Legion
+	CV: +
+	CV1: 4
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:10:38
+	time modified: 2011-03-12 20:11:04
+	Name: TRZĘSIENIE ZIEMI
+	Action: MROCZNA HARMONIA. Obdarz swoją PIECHOTĘ. Raz na turę obdarzony Wojownik może przenieść dowolne Miejsce gdziekolwiek na obszarze twojej Krainy (jeśli tylko jest to możliwe).
+	Image: 
+	Affiliation: The Dark Legion
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:11:08
+	time modified: 2011-03-12 20:11:20
+	post play: Discarded
+	Name: UCIECZKA
+	Action: Zagraj podczas walki na dowolnego Wojownika. Jeśli używasz tej karty przeciwko wrogiemu Wojownikowi, musisz zapłacić tyle Jednostek Złota, ile wynosi jego WB. Wojownik, na którego zagrałeś tę kartę, ucieka do ręki kontrolującego gracza. Wszystkie dołączone do Wojownika karty należy odrzucić. Karta nie działa na resztę Grupy, jeśli Wojownik jest jej członkiem.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:11:26
+	time modified: 2011-03-12 20:11:37
+	post play: Discarded
+	Name: UKRYTE BOGACTWO
+	Action: Zagraj w dowolnym momencie. Możesz natychmiast zwiększyć swe Zasoby Złota o 5 Jednostek Złot
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:11:41
+	time modified: 2011-03-16 07:08:11
+	Name: UNIERUCHOMIONY
+	Action: Zagraj na dowolnego Wojownika zaraz po tym, kiedy zostanie zabity. Nie trzeba go odrzucać, nie może jednak atakować, wchodzić w skład Ofensywnych i Defensywnych Grup, przeprowadzać najazdów, Przenosić się, korzystać ze specjalnych zdolności oraz otrzymywać kart dołączanych. Po prostu nic nie robi, tylko pochłania zasoby tak długo, jak ta karta znajduje się w grze. Kiedy zostanie ona odrzucona, należy odrzucić również jego.
+	Image: image53
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:12:13
+	time modified: 2011-03-16 07:08:36
+	post play: Annihilated
+	Name: UPADEK!
+	Action: Zagraj podczas przeprowadzanego przez ciebie najazdu. Twoi najeźdźcy powracają do twojego Oddziału. Najazd kończy się natychmiast.
+	Image: image54
+	Autor: JOHN MATSON
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:12:40
+	time modified: 2011-03-16 07:09:11
+	post play: Annihilated
+	Name:
+		UTRATA
+		POTENCJAŁU
+	Action: Zagraj w dowolnym momencie. Możesz obejrzeć karty na ręku jednego z graczy. Za każde 3 Jednostki Złota możesz odrzucić dowolną trzymaną przez niego kartę. Za każde 6 Jednostek Złota możesz anihilować jedną z nich.
+	Image: image55
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:13:11
+	time modified: 2011-03-12 20:13:20
+	Name: UTRATA WIARY
+	Action: Dołącz podczas swojej tury do dowolnego PATRIARCHY. Od tej pory Wojownik, do którego dołączono Utratę Wiary, nie może przeprowadzić akcji Odprawianie Rytuałów Triady
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:13:26
+	time modified: 2011-03-12 20:13:43
+	Name: WEZWANIE DO OBRONY
+	Action: Dołącz w dowolnym momencie do swojej Grupy Defensywnej. WB wszystkich jej członków zwiększa się o +2. Kartę należy odrzucić, kiedy Grupa rozpadnie się.
+	Image: 
+	CV: +
+	CV1: 2
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:13:48
+	time modified: 2011-03-16 07:09:49
+	post play: Annihilated
+	Name: WIATR PRZEMIAN
+	Action: TEJ KARTY MOŻNA UŻYĆ TYLKO PODCZAS GRY ZESPOŁOWEJ. Zagraj ją w dowolnym momencie. Kolejność graczy odwraca się. Jeśli gra toczyła się zgodnie z ruchem wskazówek zegara, teraz będzie się toczyć przeciwnie do ruchu wskazówek zegara (i na odwrót). Ta karta nie pozwala graczowi przeprowadzić dwóch tur jedna po drugiej.
+	Image: image56
+	Autor: PETER ANDREW JONES
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:14:06
+	time modified: 2011-03-12 20:14:25
+	Name: W OBU DŁONIACH
+	Action: Dołącz w dowolnym momencie do jakiegoś Wojownika. Ten Wojownik może w trakcie walki używać do dwóch Broni, których działanie kumuluje się.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:14:30
+	time modified: 2011-03-12 20:14:54
+	post play: Annihilated
+	Name:
+		WOJNA
+		BŁYSKAWICZNA
+	Action: Zagraj podczas swojej tury. Wszyscy twoi Wojownicy mogą w tej turze przeprowadzić dwa Najazdy.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:15:01
+	time modified: 2011-03-16 07:10:19
+	Name: WPŁYW HARDINGA
+	Resources: <sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: Koszt Początkowy: 10. Dołącz w dowolnym momencie do swojego Przywódcy. Możesz zagrywać karty o dowolnej przynależności. Raz na turę możesz zapłacić 10 Jednostek Złota i dołączyć do swojego Przywódcy dowolną znajdującą się w grze KLUCZ-CZASZKĘ. Jeśli ta karta zostanie odrzucona, wszystkie twoje KLUCZE-CZASZKI również należy odrzucić, a twoje Zasoby Złota wracają do Wspólnej Puli. W danej chwili możesz mieć dołączoną do Przywódcy tylko jedną kopię tej karty.
+	Image: image57
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:15:53
+	time modified: 2011-03-16 07:11:19
+	post play: Discarded
+	Name: W SAMĄ PORĘ
+	Action: Zagraj podczas najazdu, którego celem jest twoje Miejsce lub Przywódca. Możesz przenieść jednego Wojownika ze swojego Oddziału na swoje Pogranicze, musi on jednak mieć możliwość walki wybraną przez najeźdźców Taktyką. Ten Wojownik nie przeciwdziała najazdowi, ale dodaje swoje WB do WB Miejsca/Przywódcy. Jeśli przegrasz konflikt, Wojownik zostaje zabity (nie ma to wpływu na zdobywane PZ).
+	Image: image58
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:16:18
+	time modified: 2011-03-12 20:16:49
+	post play: Annihilated
+	Name:
+		WSPÓLNE
+		FUNDUSZE
+	Action: TEJ KARTY MOŻNA UŻYĆ TYLKO PODCZAS GRY ZESPOŁOWEJ. Dołącz ją do swojego Przywódcy. Kiedy karta znajduje się w grze, ty i twoi koledzy z zespołu możecie bez ograniczeń korzystać z twoich Zasobów Złota w dowolnym momencie.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:16:54
+	time modified: 2011-03-16 07:11:47
+	post play: Annihilated
+	Name:
+		WSPÓLNE
+		PRZEDSIĘWZIĘCIE
+	Action: TEJ KARTY MOŻNA UŻYĆ TYLKO PODCZAS GRY ZESPOŁOWEJ. Zagraj w dowolnym momencie. Możesz natychmiast przenieść dowolną liczbę Wojowników (wraz z dołączonymi do nich kartami) ze swojej Krainy do Krainy kolegi z zespołu. Twój kolega decyduje, gdzie zostaną oni umieszczeni, ale nie kontroluje ich. Jeśli któraś z przeniesionych kart zostanie odrzucona, trafia na twój stos kart odrzuconych.
+	Image: image59
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:17:34
+	time modified: 2011-03-16 07:12:19
+	Name: WSPÓŁPRACA
+	Action: TEJ KARTY MOŻNA UŻYĆ TYLKO PODCZAS GRY ZESPOŁOWEJ. Dołącz ją do swojego Przywódcy. Kiedy karta znajduje się w grze, ty i twoi koledzy z zespołu możecie Przenosić Wojowników między Oddziałami i Pograniczami. Ty możesz Przenosić Wojowników tylko DO swoich kolegów, a nie OD nich.
+	Image: image60
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:17:57
+	time modified: 2011-03-12 20:18:20
+	post play: Annihilated
+	Name:
+		WSTRZYMANIE
+		PRAC
+	Action: Zagraj podczas swojej tury na dowolną kartę, która posiada niebieskie ikony zasobów (nawet na Przywódcę). Aż do początku twojej następnej tury nie można korzystać z ikon zasobów karty, na którą zagrałeś Wstrzymanie Prac. Trzeba jednak zapłacić za czerwone ikony, które znajdują się na niefortunnej karcie.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:18:39
+	time modified: 2011-03-12 20:37:57
+	post play: Annihilated
+	Name: WSZYSTKIM PO RÓWNO
+	Action: Zagraj na jednego Wojownika podczas walki. Do końca walki bazowe WB tego Wojownika jest takie samo, jak bazowe WB jego przeciwnika.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:37:36
+	time modified: 2011-03-16 07:12:51
+	post play: Annihilated
+	Name:
+		WSZYSTKO W
+		SWOIM CZASIE
+	Action: Zagraj na początku swojej tury. Możesz w tej turze przeprowadzić Bilansowanie przed Wykonywaniem Akcji.
+	Image: image61
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:38:03
+	time modified: 2011-03-12 20:38:21
+	Name: WYCIEK PALIWA
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: Dołącz podczas swojej tury do Krainy dowolnego gracza. Podczas następnego kroku Bilansowania ten gracz MUSI zapłacić za tę kartę. Przed odrzuceniem tej karty należy odrzucić wszystkie inne, które wymagają Paliwa. Wyciek Paliwa należy anihilować po zakończeniu Bilansowania.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:38:28
+	time modified: 2011-03-12 20:38:46
+	Name: WYDAJNOŚĆ
+	Action: Dołącz podczas swojej tury do dowolnego Miejsca lub Przywódcy. Dołączona Wydajność zapewnia ci jedną dodatkową ikonę zasobów - zadecyduj jaką podczas dołączania tej karty.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:38:51
+	time modified: 2011-03-12 20:38:58
+	post play: Discarded
+	Name: WYRZECZENIE
+	Action: Zagraj w dowolnym momencie. Możesz odrzucić dowolną kartę dołączaną, która znajduje się w grze
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:39:02
+	time modified: 2011-03-16 07:13:39
+	Name: WYSSANIE DUSZY
+	Action: MROCZNA HARMONIA. Obdarz swojego Wojownika. Za każdego przeciwnika, którego ten Wojownik pokona w walce, umieść na jego karcie znacznik. Każdy znacznik zwiększa WB Wojownika o +2. Jeśli Wojownik wchodzi w skład Grupy, to nie zdobywa znaczników. Znaczniki pozostają, nawet jeżeli ta karta Mrocznej Harmonii zostanie odrzucona.
+	Image: image62
+	Affiliation: The Dark Legion
+	CV: +
+	CV1: 2
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:39:26
+	time modified: 2011-03-12 20:39:39
+	post play: Annihilated
+	Name: WYTRYSK PALIWA
+	Action: Zagraj podczas swojego kroku Bilansowania. Wszystkie twoje karty produkujące Paliwo produkują w tej turze dwa razy więcej Paliwa.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:39:42
+	time modified: 2011-03-12 20:39:50
+	Name: WYWROTOWIEC
+	Action: Musisz mieć w swojej krainie AGENCJĘ WYWIADOWCZĄ, aby zagrać tę kartę. Dołącz ją w dowolnym momencie do jakiejkolwiek PIECHOTY przeciwnika. Ten Wojownik jest teraz twoim szpiegiem (ale cały czas kontroluje go twój przeciwnik). Kiedy ta karta znajduje się w grze, możesz na przeciwnika, który ma w swych szeregach WYWROTOWCA, zagrywać karty SABOTAŻU.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:39:51
+	time modified: 2011-03-12 20:40:06
+	post play: Discarded
+	Name: WYZWANIE
+	Action: RYTUAŁ. Do początku twojej następnej tury WB wszystkich twoich luterańskich Wojowników ulega podwojeniu, kiedy się bronią. Jeżeli atakują lub najeżdżają, ich WB nie zmienia się.
+	Image: 
+	Affiliation: The Lutheran Triad
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:40:09
+	time modified: 2011-03-12 20:40:37
+	post play: Annihilated
+	Name: ZABÓJSTWO
+	Action: SABOTAŻ. Zagraj podczas kroku Wykonywanie Akcji, jeśli posiadasz WYWROTOWCA w Krainie innego gracza. Możesz anihilować jednego Wojownika (wraz z wszystkimi dołączonymi do niego kartami) znajdującego się w tej samej Krainie co WYWROTOWIEC.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:40:46
+	time modified: 2011-03-12 20:41:09
+	post play: Annihilated
+	Name: ZACIEKŁY NAJAZD
+	Action: Zagraj podczas najazdu, po ustaleniu najeźdźców. W najeździe mogą brać udział również Wojownicy znajdujący się na twoim Pograniczu. Jeśli najazd zakończył się sukcesem, ci Wojownicy wracają na Pogranicze.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:41:15
+	time modified: 2011-03-16 07:14:33
+	post play: Annihilated
+	Name:
+		ZACZNIJMY
+		OD NOWA
+	Action: Zagraj w dowolnym momencie. Każdy z graczy musi odrzucić wszystkie karty, które ma w ręku, a następnie połączyć stos kart odrzuconych z talią, potasować tak powstałą nową talię i wyciągnąć z niej siedem kart (tylko siedem, nawet jeśli dany gracz może wyciągnąć więcej kart). Kiedy ty wyciągniesz już siedem kart, musisz anihilować atut, który znajduje się na wierzchu twojej talii (nie patrz co straciłeś).
+	Image: image63
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:41:45
+	time modified: 2011-03-12 20:42:00
+	Name:
+		ZALEW
+		NEKROBIONIKI
+	Action: MROCZNA HARMONIA. Obdarz swojego wojownika. Jeżeli ten Wojownik zostanie zabity w walce, ginie również jego przeciwnik. Jeśli przeciwnikiem była Grupa, ginie tylko jeden jej członek.
+	Image: 
+	Affiliation: The Dark Legion
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:42:06
+	time modified: 2011-03-12 20:42:15
+	Name: ZALICZKA
+	Action: Dołącz w dowolnym momencie do jakiegoś Przywódcy. Koszt Początkowy wszystkich kart tego Przywódcy zwiększa się o +1 (jeżeli karta nie miała Kosztu Początkowego, to wynosi on teraz 1). Działanie kilku kopii tej karty nie kumuluje się. Jeśli ta karta ma zostać odrzucona, należy ją anihilować.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:42:19
+	time modified: 2011-03-16 07:20:22
+	post play: Annihilated
+	Name: ZANIECZYSZCZENIE ŹRÓDŁA WODY
+	Action: SABOTAŻ. Zagraj podczas kroku Wykonywanie Akcji, jeśli posiadasz WYWROTOWCA w Krainie innego gracza. Gracz kontrolujący WYWROTOWCA musi odrzucić połowę swoich Wojowników (zaokrąglając w dół). Gracz, na którego działa karta, decyduje, których Wojowników odrzucić, ale WYWROTOWIEC musi pozostać.
+	Image: image65
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:42:47
+	time modified: 2011-03-12 20:42:57
+	post play: Discarded
+	Name: ZASADZKA 
+	Action: Zagraj podczas walki, w której Wojownik z twojego Oddziału jest Obrońcą. Możesz natychmiast sformować Grupę Defensywną, w skład której wchodził będzie ten Obrońca. Po sformowaniu Grupy przeprowadź dalej walkę. Grupa rozpada się w zwykły sposób na początku twojej następnej tury.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:42:59
+	time modified: 2011-03-16 07:20:51
+	post play: Discarded
+	Name: ZASKOCZENIE
+	Action: Zagraj w dowolnym momencie na jakąś Grupę Ofensywną lub Defensywną. Ta Grupa ulega rozproszeniu.
+	Image: image66
+	Autor: ANGUS MCKIE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:43:19
+	time modified: 2011-03-12 20:43:35
+	post play: Discarded
+	Name: ZDRAJCA!
+	Action: Zagraj podczas najazdu na dowolnego najeżdżającego. Wojownik, na którego działa ta karta, musi obrócić się przeciw swym towarzyszom. Jego WB nie jest dodawane do WB najeźdźców. Zamiast tego zwiększa WB celu. Jeśli najeźdźcy zwyciężą, zdrajcę należy odrzucić. Jeśli przegrają, zdrajcę należy dołączyć do Pogranicza celu. Od tej pory kontroluje go gracz, który zagrał tę kartę.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:43:38
+	time modified: 2011-03-16 07:21:17
+	Name: ZŁY FRONT
+	Action: Dołącz podczas swojej tury do dowolnego Miejsca. Dopóki ta karta znajduje się w grze, to Miejsce nie może być celem najazdu. Jeśli dzięki tej karcie wszystkie Miejsca w Krainie nie mogą być celem najazdu, to może nim zostać Przywódca (nawet jeśli nie ma odsłoniętych krawędzi).
+	Image: image67
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:44:09
+	time modified: 2011-03-12 20:44:17
+	post play: Discarded
+	Name: ZMIANA ROZKAZÓW
+	Action: Zagraj w dowolnym momencie na któregoś z Wojowników. Możesz natychmiast przenieść go do jego Oddziału lub Pogranicza. Tę kartę możesz zagrać na początku najazdu (po ustaleniu Taktyki), aby zapobiec najazdowi. Nie możesz tego jednak zrobić po wyznaczeniu najeźdźców. Jeśli Wojownik wchodził w skład Grupy, to karta nie działa na jej pozostałych członków.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:44:26
+	time modified: 2011-03-16 07:19:37
+	Name: ZMIANA WYGLĄDU
+	Action: MROCZNA HARMONIA. Obdarz swoją PIECHOTĘ. Od tej pory ten Wojownik może zmieniać swój wygląd tak, że będzie przypominał dowolną PIECHOTĘ znajdującą się w grze. Należy uznać, że jest on idealną kopią wybranej PIECHOTY, wyłączając dołączone karty. Wojownik może wybrać tylko raz. Dołączone do niego karty działają bez zmian, za wyjątkiem tych, z których nie pozwala mu korzystać nowy wygląd.
+	Image: image64
+	Affiliation: The Dark Legion
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:44:56
+	time modified: 2011-03-12 20:45:20
+	post play: Annihilated
+	Name: ZNACZĄCY DEPOZYT
+	Action: Zagraj podczas swojego kroku Bilansowania. Wszystkie twoje karty produkujące Surowce, produkują w tej turze dwa razy więcej Surowców.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:45:28
+	time modified: 2011-03-16 07:21:44
+	post play: Annihilated
+	Name: ZNAD KRAWĘDZI
+	Action: Zagraj podczas swojej tury. Jeśli w trakcie tej tury nie wykonałeś/wykonasz żadnych akcji, nie przeprowadzisz ani ataku, ani najazdu, możesz przenieść dowolną kartę ze stosu kart anihilowanych do ręki.
+	Image: image68
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:45:52
+	time modified: 2011-03-12 20:46:09
+	Name: ZNAJOMOŚCI
+	Action: Dołącz w dowolnym momencie do swojego Przywódcy. Podczas Bilansowania za potrzebne ci ŻW, SU czy PA płacisz tylko jedną Jednostkę Złota, a nie dwie.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 20:46:12
+	time modified: 2011-03-12 20:46:31
+	post play: Discarded
+	Name: ŻĄDZA KRWI
+	Action: Zagraj zaraz po walce, w której zwyciężyła twoja PIECHOTA. Wojownik może zostawić przegranego nienaruszonego, a zamiast tego zaatakować innego Wojownika, znajdującego się w tym samym Oddziale lub na tym samym Pograniczu. WB atakującego zwiększa się o +6. Tej karty nie możesz zagrać na swoją Ofensywną i Defensywną Grupę.
+	Image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 00:17:41
+	time modified: 2011-03-13 00:17:57
+	post play: Annihilated
+	Name: BERSERK
+	Action: Zagraj na dowolnego Wojownika podczas walki lub najazdu. Aż do końca konfliktu bazowe WB wojownika zostaje podwojone. Ten modyfikator stosuje się przed wszystkimi innymi.
+	Image: 
+	CV: X
+	CV1: 2
+version control:
+	type: none
+apprentice code: 

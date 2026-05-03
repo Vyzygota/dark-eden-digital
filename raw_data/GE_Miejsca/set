@@ -1,0 +1,402 @@
+﻿mse version: 0.3.8
+game: darkeden-rc
+stylesheet: places
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:49:37
+	time modified: 2011-03-13 06:50:10
+	Neighbor Allowance: 4
+	Name: CENTRALA PROPAGANDY
+	Resources: <sym-auto>8</sym-auto>
+	Action: Koszt początkowy: 2. Przylegające miejsca otrzymują +4 do WB. Twoi Luterańscy Wojownicy mogą w ciągu twojej tury przeprowadzić jeden dodatkowy atak i najazd, ale tylko przeciwko Templariuszom lub Synom Rasputina. Działanie kilku kopii tej karty nie kumuluje się.
+	Image: 
+	Affiliation: The Lutheran Triad
+	CV: 1
+	CV1: 0
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:50:24
+	time modified: 2011-03-13 06:52:56
+	Neighbor Allowance: 2
+	Name: CHLEW
+	Action: Wszystkie miejsca (lub Przywódca) nie posiadające taktyki morskiej, przylegające do tego miejsca produkują w każdej turze o 2 ikony Żywności więcej (nawet, jeśli nie produkowały wcześniej żadnej).
+	Image: 
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 8
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:51:00
+	time modified: 2011-03-13 06:52:54
+	Neighbor Allowance: 1
+	Name: CIEŚNINA GIBRALTARSKA
+	Resources: <sym-auto>6</sym-auto><sym-auto>7</sym-auto><sym-auto>8</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt początkowy: 5. KARTA UNIKATOWA. Nie może posiadać kart dołączanych. Żadna karta w Twojej krainie (za wyjątkiem tej) nie może być celem ataku bądź najazdu z wody, dopóki to miejsce znajduje się w Twojej osadzie. Żadne karty zapobiegające, wyłączające najazd lub zmieniające jego cel nie działają na tą kartę. Ta karta zawsze musi posiadać odkryte krawędzie.
+	Image: 
+	CV: 2
+	CV1: 5
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:52:05
+	time modified: 2011-03-13 06:52:48
+	Neighbor Allowance: 4
+	Name: FARMA WADOROSTÓW
+	Resources: <sym-auto>2</sym-auto><sym-auto>2</sym-auto>
+	Action: Koszt początkowy: 1. Możesz zapłacić koszt początkowy 5 żeby wybudować to miejsce pod wodą (traci taktykę powietrzną). Raz na turę możesz odrzucić kartę z Twojej ręki aby uzyskać 2 jednostki złota.
+	Image: 
+	Land: No
+	CV: 1
+	CV1: 4
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:53:01
+	time modified: 2011-03-13 07:23:55
+	Neighbor Allowance: 4
+	Name: FARMA WADOROSTÓW
+	Resources: <sym-auto>2</sym-auto><sym-auto>2</sym-auto>
+	Action: Koszt początkowy: 1. Możesz zapłacić koszt początkowy 5 żeby wybudować to miejsce pod wodą (traci taktykę powietrzną). Raz na turę możesz odrzucić kartę z Twojej ręki aby uzyskać 2 jednostki złota.
+	Image: 
+	CV: 1
+	CV1: 4
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:53:52
+	time modified: 2011-03-13 06:54:24
+	Neighbor Allowance: 4
+	Name: GENERATOR PŁYWÓW MORSKICH
+	Action: Koszt początkowy: 3. Generator produkuje 4 ikony Paliwa lub 4 ikony Złota. Podczas każdego swojego kroku Bilansowania możesz wybrać, jakie zasoby są produkowane przez to miejsce. Tylko jeden rodzaj zasobów może produkować w danej turze.
+	Image: 
+	Affiliation: Megacorporations
+	CV: 1
+	CV1: 3
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:54:33
+	time modified: 2011-03-13 07:23:59
+	Neighbor Allowance: 1
+	Name: GRANATOWA DZIURA
+	Action: NIERUCHOME. Możesz umieścić to "Miejsce" w sąsiedztwie dowolnego miejsca z taktyką morską w Osadzie jednego z graczy. Nie możesz jej umieścić w sąsiedztwie Przywódcy. Dziura nie może być celem najazdu i nie działają na nią żadne karty. Ta karta zajmuje tylke Miejsce. Nie mogą przez nią przebiegać Linie Dostawcze. Dziurę należy wliczać w Liczbę Sąsiadów innych Miejsc.
+	Image: 
+	Land: No
+	Air: No
+	Sea: No
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:54:51
+	time modified: 2011-03-13 07:24:01
+	Neighbor Allowance: 3
+	Name: KARAWANA
+	Resources: <sym-auto>8</sym-auto>
+	Action: Za każdym razem, kiedy Twój wojownik, lub grupa pokona w walcę JAZDĘ przeciwnika, możesz zapłacić w złocie równowartość podwójnego WB pokonanej Jazdy i umieścić ją na swoim Pograniczu. Od tej pory, Ty kontrolujesz karty tych wojowników. Wojownicy, których zyskałeś w ten sposób nigdy nie mogą być przenoszeni.
+	Image: 
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 3
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:55:25
+	time modified: 2011-03-13 07:24:03
+	Neighbor Allowance: 4
+	Name: KATEDRA BRACTWA
+	Action: Koszt początkowy: 2. AMBASADA. Możesz zagrywać karty przynależności Bractwa. Jeśli Twój Misjonarz powróci z krainy innego gracza (zobacz kartę Misjonarza), wszyscy inni wojownicy znajdujący się na tym samym Pograniczu/Oddziale co Misjonarz, wyruszają za nim. Umieść ich w swojej osadzie, od tej pory Ty kontrolujesz karty tych wojowników.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 4
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:55:52
+	time modified: 2011-03-13 07:24:05
+	Neighbor Allowance: 3
+	Name: KOMITET DORADCZY BRACTWA
+	Resources: <sym-auto>6</sym-auto><sym-auto>6</sym-auto>
+	Action: Wszyscy twoi wojownicy PIECHOTY mogą rzucać ZAKLĘCIA SZTUKI i dodatkowo otrzymują +4 do WB, kiedy walczą z wojownikami Legionu Ciemności oraz najeżdżają krainę Legionu Ciemności (lub Przywódcę). Działanie kilku kopii tej karty nie kumuluje się.
+	Image: 
+	Affiliation: Megacorporations
+	Sea: No
+	CV: 0
+	CV1: 9
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:56:38
+	time modified: 2011-03-13 07:23:51
+	Neighbor Allowance: 4
+	Name: ELEKTROWNIA PAROWA
+	Resources: <sym-auto>8</sym-auto>
+	Action: Koszt początkowy: 3. Wszystkie Twoje karty zużywają 1 ikonę Paliwa mniej. Działanie kilku kopii tej karty nie kumuluje sie.
+	Image: 
+	Affiliation: Megacorporations
+	CV: 1
+	CV1: 1
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:57:22
+	time modified: 2011-03-13 07:24:07
+	Neighbor Allowance: 4
+	Name: MINISTERSTWO
+	Resources: <sym-auto>6</sym-auto><sym-auto>6</sym-auto>
+	Action: Koszt początkowy: 2. Wszyscy Twoi Luterańscy Wojownicy mogą odprawiać RYTUAŁY, a gdy znajdują się na Twoim Pograniczu otrzymują +2 do WB. Działanie kilku kopii tej karty nie kumuluje się.
+	Image: 
+	Affiliation: The Lutheran Triad
+	Sea: No
+	CV: 1
+	CV1: 4
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:57:59
+	time modified: 2011-03-13 07:24:09
+	Neighbor Allowance: 2
+	Name: OKOP
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Podczas kroku Wykonywania Akcji możes przenosić swoją PIECHOTĘ z taktyką lądową do i z Okopu. Mieści on do 2 Wojowników nie mogących być grupą. WB każdego z nich zwiększa się o +5. Wojownicy Ci znajdują się na Pograniczu. Jeśli ta karta ma zostać odrzucona (lub zostanie najechana), należy odrzucić też wojowników znajdujących się w okopie.
+	Image: 
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 0
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:59:00
+	time modified: 2011-03-13 07:24:11
+	Neighbor Allowance: 4
+	Name: PLACÓWKA KORPORACJI
+	Action: Koszt początkowy: 2. AMBASADA. Wybierz jedną z Megakorporacji (Bauhaus, Cybertronik, Imperial, Kapitol, lub Mishimę), kiedy zagrywasz tę kartę. Od tego momentu możesz wprowadzać do gry CZŁONKÓW tej (i tylko tej) korporacji, oraz karty ogólnej przynależności Megakorporacji. Każda Placówka pozwala wybrać inną Megakorporację.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 4
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 06:59:48
+	time modified: 2011-03-13 07:24:13
+	Neighbor Allowance: 4
+	Name: PLATWORMA WIERTNICZA
+	Action: Koszt początkowy: X. Za każde 3 jednostki złota wydane jako koszt początkowy, Platforma Wiertnicza będzie produkować jedną ikonę Paliwa, ale maksymalnie może produkować osiem ikon.
+	Image: 
+	CV: 1
+	CV1: 2
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:07:45
+	time modified: 2011-03-13 07:08:25
+	Neighbor Allowance: 4
+	Name: PŁYWAJĄCA FORTECA
+	Resources: <sym-auto>8</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt początkowy: 5. Miejsca przylegające otrzymują +5 do WB. Możesz przenieść Pływającą Fortecę w sąsiedztwo dowolnego przystosowanego do tego miejsca w krainie, podczas swojego kroku Wykonywania Akcja. Musisz zapłacić 5 jednostek złota za każdym razem, gdy przenosisz to miejsce.
+	Image: 
+	Affiliation: The Lutheran Triad
+	Land: No
+	CV: 1
+	CV1: 4
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:10:48
+	time modified: 2011-03-13 07:24:17
+	Neighbor Allowance: 4
+	Name: PODWODNA POMPA OLEJOWA
+	Resources: <sym-auto>8</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: Koszt początkowy: 3.
+	Image: 
+	Affiliation: The Sons of Rasputin
+	Land: No
+	Air: No
+	CV: 0
+	CV1: 7
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:11:45
+	time modified: 2011-03-13 07:24:19
+	Neighbor Allowance: 1
+	Name: PODWODNY BUNKIER
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 2. Żadne z miejsc w Twojej krainie znajdujących się pod wodą, oprócz Podwodnego Bunkra, nie może być celem najazdu. W kroku wykonywania akcji możesz przenosić do i z niego, do 3 wojowników PIECHOTY i JAZDY z taktyką morską. Nie mogą oni atakować i być atakowani, ale dodają swoje WB do WB Bunkra.
+	Image: 
+	Affiliation: The Sons of Rasputin
+	Land: No
+	Air: No
+	CV: 1
+	CV1: 2
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:13:03
+	time modified: 2011-03-13 07:24:21
+	Neighbor Allowance: 4
+	Name: PROM POWIETRZNY CYBERTRONIKU
+	Resources: <sym-auto>8</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt początkowy: 2. Jeśli podczas swojej tury nie wykonasz żadnych akcji, nie przeprowadzisz ataku ani najazdu, możesz położyć żeton na każdym swoim wojowniku Templariuszy. Za każdy żeton Wojownicy zyskują +3 do WB. Każdy wojownik z żetonem jest uważany za CZŁONKA CYBERTRONIKU. W swojej Osadzie możesz mieć tylko jeden Prom Powietrzny Cybertroniku.
+	Image: 
+	Affiliation: The Templars
+	Sea: No
+	CV: 1
+	CV1: 4
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:17:01
+	time modified: 2011-03-13 07:24:23
+	Neighbor Allowance: 4
+	Name: RAFA
+	Action: Koszt początkowy: 1. To miejsce może być najeżdżane tylko przez PIECHOTĘ. NIEOGRANICZONA LICZBA W TALII.
+	Image: 
+	Land: No
+	Air: No
+	CV: 1
+	CV1: 0
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:17:33
+	time modified: 2011-03-13 07:24:25
+	Neighbor Allowance: 4
+	Name: ŚCIANA PŁACZU
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt początkowy: 3. KARTA UNIKATOWA. Przylegające miejsca otrzymują +6 do WB. Wszyscy Twoi wojownicy uważani są za CZARODZIEI, a Ci, którzy byli nimi wcześniej otrzymują +3 do swojej mocy. Wojownicy Legionu Ciemności nie mogą nigdy najechać tego miejsca. Jeśli zostanie najechane, wszyscy Twoi wojownicy otrzymują +2 do WB, kiedy walczą lub najeżdżają siły Przywódcy, który najechał Ścianę Płaczu.
+	Image: 
+	Affiliation: The Brotherhood
+	Sea: No
+	CV: 1
+	CV1: 8
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:18:08
+	time modified: 2011-03-13 07:24:27
+	Neighbor Allowance: 3
+	Name: STAROŻYTNA KRYPTA
+	Resources: <sym-auto>6</sym-auto><sym-auto>6</sym-auto><sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: KARTA UNIKATOWA. Wszyscy twoi wojowicy PIECHOTY mogą wygłaszać PROROCTWA. Raz na turę, podczas kroku Wykonywania Akcji, możesz płacąc 3 jednostki złota, odrzucić jedną kartę dołączoną będącą w grze. Kiedy to miejsce jest najeżdżane, możesz zagrać z ręki do 3 wojowników PIECHOTY posiadających taktykę używaną przez najeźdźców. Dodają oni swoje WB do WB Krypty. Jeśli przeżyją najazd, umieść ich na swoim Pograniczu.
+	Image: 
+	Affiliation: Crescentia
+	CV: 1
+	CV1: 6
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:19:01
+	time modified: 2011-03-13 07:24:29
+	Neighbor Allowance: 4
+	Name: STAW HODOWLANY
+	Resources: <sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto>
+	Action: Koszt początkowy: 1. Płacąc koszt początkowy 5 ta karta straci taktykę lądową.
+	Image: 
+	Affiliation: The Templars
+	CV: 0
+	CV1: 9
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:19:27
+	time modified: 2011-03-13 07:24:31
+	Neighbor Allowance: 4
+	Name: STOCZNIA ŁODZI PODWODNYCH
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt początkowy: 2. Możesz zagrywać wojowników uważanych za ŁODZIE PODWODNE. Jeśli ŁÓDŹ PODWODNA jest POJAZDEM nie musisz posiadać karty umożliwiającej Ci zagrywanie POJAZDÓW.
+	Image: 
+	Affiliation: The Sons of Rasputin
+	Land: No
+	Air: No
+	CV: 1
+	CV1: 2
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:20:10
+	time modified: 2011-03-13 07:24:33
+	Neighbor Allowance: 4
+	Name: SUCHY DOK
+	Resources: <sym-auto>8</sym-auto>
+	Action: Koszt początkowy: 2. Możesz werbować wojowników Templariuszy będących marynarzami, w dowolnym momencie, za wyjątkiem kroków Atak i Najazd (nadal musisz płacić za nich koszt początkowy).
+	Image: 
+	Affiliation: The Templars
+	CV: 0
+	CV1: 9
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:20:35
+	time modified: 2011-03-13 07:24:36
+	Neighbor Allowance: 1
+	Name: SYSTEM TUNELI
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt początkowy: 5. Najeżdżając krainę przeciwnika za pomocą Lądu, Twoi wojownicy mogą ominąć wszystkich wojowników znajdujących się na jego Pograniczu, ale nie mogą wtedy używać swoich zdolności specjalnych. Natychmiast po najeździe za pomocą Systemu Tuneli (niezależnie od wyniku), najeżdżany przeciwnik może anihilować go, płacąc Złotem równowartość jego bazowej WB.
+	Image: 
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 8
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:21:04
+	time modified: 2011-03-13 07:24:38
+	Neighbor Allowance: 4
+	Name: WYDMY
+	Action: To miejsce nie może posiadać kart dołączanych. Przeciwnik otrzymuje tylko 5 Punktów Zwycięstwa za udany najazd na tą kartę. NIEOGRANICZONA LICZBA W TALII.
+	Image: 
+	CV: 1
+	CV1: 0
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:21:23
+	time modified: 2011-03-13 07:24:40
+	Name: ZŁOŻE SOLI
+	Resources: <sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto>
+	Action: Koszt początkowy: 1. Płacąc koszt początkowy 3 to miejsce straci taktykę Lądową, natomiast płacąc koszt początkowy 5 to miejsce straci taktykę Lądową oraz Powietrzną, dzięki czemu znajdzie się pod wodą. 
+	Image: 
+	CV: 1
+	CV1: 4
+	Frame: Genesiss
+version control:
+	type: none
+apprentice code: 

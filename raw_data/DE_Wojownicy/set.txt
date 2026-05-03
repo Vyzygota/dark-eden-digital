@@ -1,0 +1,959 @@
+﻿mse version: 0.3.8
+game: darkeden-rc
+stylesheet: warrior
+card:
+	stylesheet: warrior
+	has styling: false
+	notes: 
+	time created: 2011-03-12 21:52:02
+	time modified: 2011-03-15 22:29:08
+	Name: BLITZTANK
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 3. POJAZD. SAMOTNIK. Blitztanka mogą atakować tylko Grupy Ofensywne i inne POJAZDY. Pojedynczy PIECHURZY i JEZDNI nie mogą atakować Blitztanka. Ten pojazd może atakować pojedynczych PIECHURÓW i JEZDNYCH.
+	Image: image5
+	Affiliation: The Sons of Rasputin
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 2
+	Autor: john matson
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:00:29
+	time modified: 2011-03-15 22:28:55
+	Name: BŁOGOSŁAWIONA ŁZA
+	Resources: <sym-auto>8</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 2. PIECHOTA. SAMOTNIK. Błogosławiona Łza nie może atakować, ale może się normalnie bronić. Jeśli w najeźdzoe bierze udział tylko pojedyncza Błogosławiona Łza, jej WB wzrasta o +15 i może najechać dowolne Miejsce, nawet takie, które nie ma Odsłoniętych krawędzi. Dodatkowo może najechać Przywódcę, nawet jeżeli w Osadzie znajdują się jakieś Miejsca. Po najeździe (niezależnie od wyniku) jest anihilowana. Jeśli Błogosławiona Łza zostanie pokonana w walce, również ulega anihilacji, a dodatkowo wszyscy jej przeciwnicy giną (są odrzucani).
+	Image: image6
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 2
+	Autor: peter bergting
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:19:08
+	time modified: 2011-03-15 22:29:36
+	Name: CENTURION HORDY
+	Resources: <sym-auto>8</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 1. PIECHOTA. WB Centuriona Hordy wzrasta o +2 za każdego ŻOŁNIERZA HORDY znajdującego się w tym samym Oddziale lub Pograniczu.
+	Image: image7
+	Affiliation: The Templars
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: jamie sims
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:20:16
+	time modified: 2011-03-15 22:30:12
+	Name: CIĘŻKI KAWALERZYSTA
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: JAZDA. Uważany za KAWALERZYSTĘ. WB Ciężkiego Kawalerzysty wzrasta o +1 za każdego innego KAWALERZYSTĘ w tym samym Oddziale lub Pograniczu. Nie zmienia swojego własnego WB. Nie działają na niego negatywne modyfikatory do WB.
+	Image: image8
+	Affiliation: The Lutheran Triad
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 8
+	Autor: peter bergting
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:21:06
+	time modified: 2011-03-15 22:30:49
+	Name: DRAPIEŻNIAK
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: JAZDA. SAMOTNIK. Jeśli na twoim Pograniczu przebywa Drapieżniak, to twoja Osada nie może być najeżdżana, nawet z wody czy z powietrza.
+	Image: image9
+	Affiliation: The Templars
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 8
+	Autor: paul bonner
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:22:04
+	time modified: 2011-03-15 22:31:27
+	Name: DWURÓG PÓŁKSIĘŻYCA
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: JAZDA.
+	Image: image10
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 9
+	Autor: paul bonner
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:22:48
+	time modified: 2011-03-15 22:32:05
+	Name: EZOGHUL
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 2. JAZDA. SAMOTNIK. GODNY MROCZNEJ HARMONII. Ezoghul używa śmiercionośnego Działka Ręcznego Blutarch i miecza Ashreketh. Nie może używać BRONI ani PANCERZY.
+	Image: image1
+	Affiliation: The Dark Legion
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 1
+	Autor: studio parente
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:23:22
+	time modified: 2011-03-15 22:32:35
+	Name: FALISTY OGON
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt Początkowy: 2. POJAZD. Jeśli walka, w której uczestniczy Falisty Ogon, kończy się remisem, to Falisty Ogon i tak wygra.
+	Image: image2
+	Affiliation: The Sons of Rasputin
+	Land: No
+	Sea: No
+	CV: 0
+	CV1: 9
+	Autor: john matson
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:24:27
+	time modified: 2011-03-15 22:33:06
+	Name: FIZYLIER
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. Jeśli w skład Grupy Ofensywnej lub Defensywnej wchodzą tylko Fizylierzy, WB każdego z nich wzrasta o +2.
+	Image: image3
+	Affiliation: The Lutheran Triad
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 2
+	Autor: peter bergting
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:24:58
+	time modified: 2011-03-15 22:33:35
+	Name:
+		FLAMMEN
+		SOLDAT
+	Resources: <sym-auto>9</sym-auto><sym-auto>7</sym-auto>
+	Action: PIECHOTA. Uważany za SOLDATA. Musisz mieć w twojej Osadzie kartę umożliwiającą ci korzystanie z EKWIPUNKU, żeby zagrać tę kartę. Podczas ataku bazowe WB Flammen Soldata ulega podwojeniu. Ten modyfikator stosuje się na końcu. WB Flammen Soldata jest normalne, kiedy jest on atakowany lub kiedy najeżdża. Nie może używać BRONI.
+	Image: image4
+	Affiliation: The Sons of Rasputin
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 4
+	Autor: jamie sims
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:25:43
+	time modified: 2011-03-15 22:34:14
+	Name:
+		GOMORYJSKI
+		KASTRAT
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: PIECHOTA. GODNY MROCZNEJ HARMONII. Kastraci mogą najeżdżać dwukrotnie, jeśli robią to sami. Pierwszy raz muszą najechać jakieś odsłonięte Miejsce. Jeżeli pierwszy najazd zakończy się sukcesem, mogą najechać dowolną kartę sąsiadującą z ich pierwszym celem, nawet jeśli jest to karty Przywódcy.
+	Image: image11
+	Affiliation: The Dark Legion
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 9
+	Autor: peter bergting
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:26:29
+	time modified: 2011-03-15 22:35:21
+	Name: GRINDER
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 5. KARTA UNIKATOWA, PIECHOTA, WYSPIARZ. Grinder może atakować cztery razy w turze, ale nigdy nie może najeżdżać. Nie może używać BRONI ani PANCERZY.
+	Image: image12
+	Affiliation: The Brotherhood
+	CV: 0
+	CV1: 4
+	Autor: paul bonner
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:26:58
+	time modified: 2011-03-15 22:35:12
+	Name: INDYGO
+	Resources: <sym-auto>8</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 5. KARTA UNIKATOWA. PIECHOTA. WYSPIARZ. Podczas ataku WB Siostry Indygo zwiększa się o +6 (kiedy jest atakowana i podczas najazdu jej WB nie ulega zmianie). Nie może używać BRONI.
+	Image: image13
+	Affiliation: The Brotherhood
+	CV: 0
+	CV1: 3
+	Autor: paul bonner
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:27:59
+	time modified: 2011-03-15 22:35:58
+	Name: KAWALERZYSTA
+	Resources: <sym-auto>7</sym-auto>
+	Action: JAZDA. WB Kawalerzysty wzrasta o +1 za każdego innego KAWALERZYSTĘ w tym samym Oddziale lub Pograniczu. Nie zmienia swego własnego WB. Nie działają na niego negatywne modyfikatory do WB.
+	Image: image14
+	Affiliation: The Lutheran Triad
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 6
+	Autor: peter bergting
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:32:27
+	time modified: 2011-03-15 22:36:31
+	Name: KOMANDOS JEAGER
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. Musisz mieć w swojej Osadzie kartę umożliwiającą ci korzystanie z EKWIPUNKU, żeby zagrać tę kartę. Jeager nie może najeżdżać z powietrza, jeśli w tej samej rundzie atakował z powietrza (nadal może najeżdżać z ziemi).
+	Image: image15
+	Affiliation: The Sons of Rasputin
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: peter bergting
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:33:05
+	time modified: 2011-03-15 22:37:01
+	Name: KOMMENDANT
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 1. PIECHOTA. WB Kommendanta zwiększa się o +1 za każdego SOLDATA w tym samym Pograniczu lub Oddziale.
+	Image: image16
+	Affiliation: The Sons of Rasputin
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: jamie sims
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:33:44
+	time modified: 2011-03-15 22:37:39
+	Name: KORSARZ
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. Musisz mieć w twojej Osadzie kartę umożliwiającą ci używanie EKWIPUNKU, żeby zagrać tę kartę. WB Korsarza jest podwajane, kiedy ten atakuje. Ten modyfikator stosuję się na samym początku. Podczas najazdu jego WB się nie zmienia. Nie może używać BRONI ani PANCERZY.
+	Image: image17
+	Affiliation: The Lutheran Triad
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: peter bergting
+	Frame: Basic
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:34:17
+	time modified: 2011-03-15 22:39:44
+	Name: KOZACKI KOMMENDANT
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 2. JAZDA. WB Kommendanta zwiększa się o +1 za każdego KOZAKA w tym samym Pogrganiczu lub Oddziale.
+	Image: image18
+	Affiliation: The Sons of Rasputin
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 6
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:35:12
+	time modified: 2011-03-15 22:39:24
+	Name:
+		KOZACKI
+		ZWIADOWCA
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: JAZDA. Uważany za KOZAKA. Kozaccy Zwiadowcy na twoim Pograniczu chronią cię przed najazdami z ziemi, wody i powietrza. Mogą łączyć się w Grupy Ofensywne i Defensywne tylko z innymi Kozackimi Zwiadowcami.
+	Image: image19
+	Affiliation: The Sons of Rasputin
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 4
+	Autor: peter bergting
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:35:48
+	time modified: 2011-03-15 22:40:19
+	Name: KOZAK
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: JAZDA. Jeśli Grupa Ofensywna lub Defensywna składa się tylko z Kozaków, to WB każdego z nich zwiększa się o +1.
+	Image: image20
+	Affiliation: The Sons of Rasputin
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 5
+	Autor: paul bonner
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:36:23
+	time modified: 2011-03-15 22:40:44
+	Name: LEGIONISTA TEMPLARIUSZY
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. Przeciwnik musi atakować Legionistów Templariuszy (lub Grupy w skład których wchodzą Legioniści Templariuszy) zanim zaatakuje jakiegoś innego wojownika w tym samym Oddziale/Pograniczu. NIEOGRANICZONA LICZBA W TALII.
+	Image: image21
+	Affiliation: The Templars
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 2
+	Autor: studio cs
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:37:00
+	time modified: 2011-03-15 22:41:28
+	Name:
+		LUTERAŃSKI
+		SIERŻANT
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 1. PIECHOTA. WB Luterańskiego Sierżanta wzrasta o +1 za każdego LUTERAŃSKIEGO WIERNEGO w tym samym Oddziale lub Pograniczu.
+	Image: image22
+	Affiliation: The Lutheran Triad
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:37:58
+	time modified: 2011-03-15 22:41:51
+	Name:
+		LUTERAŃSKI
+		WIERNY
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. NIEOGRANICZONA LICZBA W TALII.
+	Image: image23
+	Affiliation: The Lutheran Triad
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 2
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:38:49
+	time modified: 2011-03-15 22:42:18
+	Name: MAMUT ZAĆMIENIA
+	Resources: <sym-auto>7</sym-auto>
+	Action: JAZDA.
+	Image: image24
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 5
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:39:33
+	time modified: 2011-03-15 22:43:04
+	Name: MASTODONT
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: JAZDA. Mastodont nie może atakować innych wojowników Hordy Półksiężyca.
+	Image: image25
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 7
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:40:02
+	time modified: 2011-03-15 22:43:36
+	Name: MĘCZENNIK
+	Resources: <sym-auto>8</sym-auto><sym-auto>7</sym-auto>
+	Action: PIECHOTA. SAMOTNIK. Męczennik może atakować tylko JAZDĘ, a najeżdżać tylko PIŻMIEJA HORDY PÓŁKSIĘŻYCA. Zarówno po ataku, jak i po najeździe (niezależnie od wyniku) jest on anihilowany. Jeśli zostanie zaatakowany, jego bazowe WB wynosi 2. Jeśli zostanie pokonany w walce, także zostaje anihilowany, a dodatkowo wszyscy jego przeciwnicy giną (i są odrzucani).
+	Image: image26
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 9
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:40:41
+	time modified: 2011-03-15 22:44:02
+	Name: MITCH HUNTER
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 5. KARTA UNIKATOWA. PIECHOTA. WYSPIARZ. Hunter wyposażony jest w potężny Miecz Przemocy i Pistolet "Egzekutor", dlatego nie może używać BRONI.
+	Image: image27
+	Affiliation: Megacorporations
+	CV: 0
+	CV1: 6
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:41:17
+	time modified: 2011-03-15 22:45:10
+	Name: NASSAL
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. GODNY MROCZNEJ HARMONII.
+	Image: image28
+	Affiliation: The Dark Legion
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: JEFF MIRACOLA
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:42:04
+	time modified: 2011-03-15 22:45:38
+	Name: OŻYWIEŃCZY LEGIONISTA
+	Action: PIECHOTA. Ożywieńczy Legioniści nie pobierają żadnych ikon. Nigdy nie mogą tworzyć Grup Defensywnych ani być Marynarzami lub Lotnikami. NIEOGRANICZONA LICZBA W TALII.
+	Image: image29
+	Affiliation: The Dark Legion
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 1
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:42:46
+	time modified: 2011-03-15 22:46:46
+	Name: PATRIARCHA
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. Przeciwnicy nie mogą atakować Patriarchy, chyba że jest on jedynym wojownikiem w Oddziale/Pograniczu (lub jest członkiem jedynej Grupy).
+	Image: image31
+	Affiliation: The Lutheran Triad
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 2
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:43:18
+	time modified: 2011-03-15 22:47:06
+	Name: PHISCHE
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 2. JAZDA. GODNY MROCZNEJ HARMONII.
+	Image: image32
+	Affiliation: The Dark Legion
+	Air: No
+	CV: 0
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:43:54
+	time modified: 2011-03-15 22:47:55
+	Name: PIECHOTA MORSKA TEMPLARIUSZY
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. Musisz mieć w twojej Osadzie kartę umożliwiającą ci używanie EKWIPUNKU, żeby zagrać tę kartę. Jeśli w skład Grupy Ofensywnej wchodzi tylko Piechota Morska Templariuszy, bądź najeżdża sama Piechota Morska Templariuszy. WB każdego z nich wzrasta o +2.
+	Image: image33
+	Affiliation: The Templars
+	Air: No
+	CV: 0
+	CV1: 3
+	Autor: JOHN MATSON
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:44:22
+	time modified: 2011-03-15 22:48:25
+	Name: PLAMISTY KRUK
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 1. PIECHOTA. NIEOGRANICZONA LICZBA W TALII.
+	Image: image34
+	Land: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:44:45
+	time modified: 2011-03-15 22:50:29
+	Name: PŁASZCZKA VEROUNIST
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: POJAZD.
+	Image: image35
+	Affiliation: The Templars
+	Land: No
+	Sea: No
+	CV: 0
+	CV1: 8
+	Autor: PETER 
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:45:44
+	time modified: 2011-03-15 22:46:21
+	Name:
+		POJAZD
+		POWIETRZNY
+		PALANKIN
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: POJAZD. Pojazd Powietrzny Palankin nie może brać udziału w ataku ani w najeździe. Jeśli znajduje się na twoim Pograniczu, Palankin uniemożliwia najazdy lądem, z wody i z powietrza. Jeżeli Palankin jest w jednej Grupie z PATRIARCHĄ, WB wszystkich wojowników w tym samym Oddziale/Pograniczu wzrasta o +1 dopóki istnieje ta Grupa.
+	Image: image30
+	Affiliation: The Lutheran Triad
+	Land: No
+	Sea: No
+	CV: 0
+	CV1: 5
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:46:33
+	time modified: 2011-03-15 22:51:23
+	Name: POJAZD POWIETRZNY "POSĘPNY RZEŹNIK"
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt Początkowy: 2. POJAZD. Posępny Rzeźnik może znajdować się tylko w twoim Oddziale.
+	Image: image36
+	Affiliation: The Lutheran Triad
+	Land: No
+	Sea: No
+	CV: 0
+	CV1: 7
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:47:25
+	time modified: 2011-03-15 22:51:57
+	Name:
+		PRETORIAŃSKI
+		ŁOWCA
+	Resources: <sym-auto>8</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 2. PIECHOTA. Łowca może utworzyć Grupy Ofensywne i Defensywne tylko z jednym innym Pretoriańskim Łowcą i z nikim innym. Nie może używać BRONI ani PANCERZY.
+	Image: image37
+	Affiliation: The Dark Legion
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 8
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:48:12
+	time modified: 2011-03-15 22:52:22
+	Name: PROROK
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. Prorok może Wygłaszać Proroctwa Hordy Półksiężyca. Przeciwnicy nie mogą atakować Proroka, chyba że jest on jedynym Wojownikiem w Oddziale/Pograniczu (lub jest członkiem jedynej Grupy).
+	Image: image38
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 2
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:48:41
+	time modified: 2011-03-15 22:52:46
+	Name: RAZYDA
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: PIECHOTA. GODNY MROCZNEJ HARMONII. Tylko inni wojownicy Legionu Ciemności mogą tworzyć Grupę Ofensywną z Razydą. Nie może używać BRONI ani PANCERZY.
+	Image: image39
+	Affiliation: The Dark Legion
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 6
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:49:09
+	time modified: 2011-03-15 23:41:11
+	Name: REKRUT
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 1. PIECHOTA. NIEOGRANICZONA LICZBA W TALII.
+	Image: image40
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: SIMON BISLEY
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:49:39
+	time modified: 2011-03-15 23:41:42
+	Name: ROGATY SERRET
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: JAZDA. WB Rogatego Serreta wzrasta o +2, kiedy walczy on przeciwko PIECHOCIE.
+	Image: image41
+	Affiliation: The Templars
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 6
+	Autor: JOHN MATSON
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:50:05
+	time modified: 2011-03-15 23:42:09
+	Name: SCHWERWAFFE SOLDAT
+	Resources: <sym-auto>8</sym-auto><sym-auto>7</sym-auto>
+	Action: PIECHOTA. Musisz mieć w swojej Osadzie kartę umożliwiającą ci korzystanie z EKWIPUNKU, żeby zagrać tę kartę. Schwerwaffe nie może najeżdżać z powietrza.
+	Image: image42
+	Affiliation: The Sons of Rasputin
+	Air: Yes
+	Sea: No
+	CV: 0
+	CV1: 4
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:50:51
+	time modified: 2011-03-15 23:42:37
+	Name:
+		SEBASTIAN
+		CRENSHAW
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 5. KARTA UNIKATOWA. PIECHOTA. CZARODZIEJ. WYSPIARZ. Crenshaw musi, jeśli jest to możliwe, atakować wojowników Legionu Ciemności (to samo dotyczy Grup Ofensywnych, w skład których wchodzi). Nie może używać BRONI ani PANCERZY.
+	Image: image43
+	Affiliation: The Brotherhood
+	CV: 0
+	CV1: 7
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:51:23
+	time modified: 2011-03-15 23:43:11
+	Name: SIERŻANT RODU
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 1. PIECHOTA. WB Sierżanta Rodu zwiększa się o +1 za każdego ŻOŁNIERZA RODU w tym samym Pograniczu lub Oddziale.
+	Image: image44
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 2
+	Autor: JAMIE SIMS
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:52:00
+	time modified: 2011-03-15 23:43:40
+	Name: SOLDAT
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. NIEOGRANICZONA LICZBA W TALII.
+	Image: image45
+	Affiliation: The Sons of Rasputin
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 2
+	Autor: JAMIE SIMS
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:52:27
+	time modified: 2011-03-15 23:44:07
+	Name:
+		SOLDAT
+		SZTURMOWY
+	Resources: <sym-auto>8</sym-auto><sym-auto>7</sym-auto>
+	Action: PIECHOTA. Uważany za SOLDATA. Soldaci Szturmowi mogą tworzyć Grupy Ofensywne i Defensywne tylko z innymi Soldatami Szturmowymi. Podczas walki WB każdego z przeciwników zmniejsza się o -X, gdzie X jest liczbą twoich Soldatów Szturmowych, biorących udział w walce.
+	Image: image46
+	Affiliation: The Sons of Rasputin
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:53:09
+	time modified: 2011-03-16 06:12:56
+	Name: STALOWY BYK
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 3. JAZDA. Jeśli w skład Grupy Ofensywnej wchodzą tylko Stalowe Byki lub najeżdżają tylko Stalowe Byki, WB każdego z nich zwiększa się o +2.
+	Image: image47
+	Affiliation: The Sons of Rasputin
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 7
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:53:37
+	time modified: 2011-03-16 06:14:18
+	Name:
+		SZARY
+		ARTYLERZYSTA
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. Musisz mieć w twojej Osadzie kartę umożliwiającą ci używanie EKWIPUNKU, żeby zagrać tę kartę. Jeśli na twoim Pograniczu przebywa Artylerzysta, to twoja Osada nie może być najeżdżana, nawet z wody czy z powietrza. Artylerzysta może być atakowany z wody i z powietrza, ale sam może atakować i najeżdżać tylko lądem. Nie może używać Broni.
+	Image: image49
+	Affiliation: The Lutheran Triad
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 4
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:54:19
+	time modified: 2011-03-16 06:13:39
+	Name: ŚWIĘTY UROX
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: JAZDA. SAMOTNIK. Święty Urox może w danej turze atakować lub najeżdżać. W jednej turze nie może robić obu tych rzeczy naraz.
+	Image: image48
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 1
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:55:01
+	time modified: 2011-03-16 06:15:29
+	Name: TRANSPORTER CORARIUS
+	Resources: <sym-auto>8</sym-auto><sym-auto>9</sym-auto>
+	Action: POJAZD. Corarius nie może atakować, ale może bronić się i najeżdżać. Jeśli najazd prowadzą tylko Transportery Corarius i KOMANDOSI JEAGER, to mogą oni najeżdżać z ziemi, wody i powietrza, a celem ataku może być dowolna karta, nawet jeżeli nie ma ona Odsłoniętych krawędzi.
+	Image: image50
+	Affiliation: The Sons of Rasputin
+	Land: No
+	Sea: No
+	CV: 0
+	CV1: 8
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:55:41
+	time modified: 2011-03-16 06:15:56
+	Name: TRENER MASTODONTÓW
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. Trener może w dowolnym momencie, jeśli tylko leży koszulką do dołu, Przenieść jednego Wojownika JAZDY z Oddziału/Pogranicza, w którym się znajduje do innego Oddziału/Pogranicza. Po tej czynności odwróć Trenera koszulką do dołu. Odwracany jest z powrotem na początku twojej następnej tury. To, w jaki sposób ta karta leży na stole, odzwierciedla tylko gotowość do Przenoszenia JAZDY i nie ma wpływu na grę.
+	Image: image51
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 2
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:56:31
+	time modified: 2011-03-16 06:16:24
+	Name: UKRYTE OSTRZE
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt Początkowy: 3. POJAZD. Najazd z powietrza, w którym biorą udział tylko Ukryte Ostrza, może ominąć jednego Wojownika lub jedną Grupę Defensywną znajdującą się na Pograniczu (ty wybierasz którą). Ten Wojownik lub ta Grupa Defensywna nie może zapobiec najazdowi.
+	Image: image52
+	Affiliation: The Sons of Rasputin
+	Land: No
+	Sea: No
+	CV: 0
+	CV1: 7
+	Autor: JOHN MATSON
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:57:03
+	time modified: 2011-03-16 06:17:19
+	Name: WODNY SERRET
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: JAZDA. WB Wodnego Serreta wzrasta o +1 za każdą PIECHOTĘ MORSKĄ TEMPLARIUSZY w tym samym Oddziale lub Pograniczu.
+	Image: image53
+	Affiliation: The Templars
+	Land: No
+	Air: No
+	CV: 0
+	CV1: 7
+	Autor: JOHN MATSON
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:57:30
+	time modified: 2011-03-16 06:17:53
+	Name:
+		WÓŁ
+		ARTYLERYJSKI
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: JAZDA.
+	Image: image54
+	Affiliation: Crescentia
+	Sea: No
+	CV: 0
+	CV1: 7
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:58:10
+	time modified: 2011-03-16 06:18:23
+	Name: WÓZ BOJOWY "BYSTRY"
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: POJAZD. Bystry może w jednej turze albo dwa razy atakować, albo dwa razy najeżdżać. Nie może i atakować i najeżdżać w tej samej turze.
+	Image: image55
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 6
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:58:50
+	time modified: 2011-03-16 06:21:21
+	Name: ZHURGON
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 2. JAZDA. GODNY MROCZNEJ HARMONII.
+	Image: image59
+	Affiliation: The Dark Legion
+	Sea: No
+	CV: 0
+	CV1: 9
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:59:14
+	time modified: 2011-03-16 06:23:22
+	Name: ZWIADOWCA KAWALERII
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: JAZDA. Uważany za KAWALERZYSTĘ. Jeśli na twoim Pograniczu przebywa Zwiadowca Kawalerii, to twoja Osada nie może być najeżdżana, nawet z wody czy z powietrza. WB Zwiadowcy Kawalerii wzrasta o +1 za każdego innego KAWALERZYSTĘ w tym samym Oddziale lub Pograniczu. Nie zmienia swego własnego WB. Nie działają na niego negatywne modyfikatory do WB.
+	Image: image63
+	Affiliation: The Lutheran Triad
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 5
+	Autor: JEFF MIRACOLA
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 22:59:46
+	time modified: 2011-03-16 06:19:17
+	Name: ŻANDARM
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 2. PIECHOTA. WB Żandarma wzrasta o +2 za każdego innego ŻANDARMA w tym samym Oddziale/Pograniczu.
+	Image: image56
+	Affiliation: The Templars
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 4
+	Autor: JAMIE SIMS
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:00:21
+	time modified: 2011-03-16 06:20:08
+	Name:
+		ŻANDARMSKI
+		BESTAL
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 3. PIECHOTA. Uważany za ŻANDARMA. Żandarmski Bestal może tworzyć Grupy Ofensywne i Defensywne z innymi Żandarmskimi Bestalami.
+	Image: image57
+	Affiliation: The Templars
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 6
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:01:04
+	time modified: 2011-03-16 06:20:42
+	Name: ŻEGLARZ
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 1. PIECHOTA. NIEOGRANICZONA LICZBA W TALII.
+	Image: image58
+	Land: No
+	Air: No
+	CV: 0
+	CV1: 3
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:01:34
+	time modified: 2011-03-16 06:21:49
+	Name: ŻOŁNIERZ DŻIHAD
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. WB Żołnierza Dżihad wzrasta o +2 za każdego JEZDNEGO Hordy Półksiężyca w tym samym Oddziale lub Pograniczu.
+	Image: image60
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: JAMIE SIMS
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:02:07
+	time modified: 2011-03-16 06:22:23
+	Name: ŻOŁNIERZ HORDY
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. WB PIECHOTY walczącej przeciw Żołnierzowi Hordy maleje o -1. Jeżeli PIECHUR walczy z Grupą Żołnierzy, tylko jeden z nich modyfikuje jego WB. Nie może używać PANCERZY.
+	Image: image61
+	Affiliation: The Templars
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:02:44
+	time modified: 2011-03-16 06:22:51
+	Name: ŻOŁNIERZ RODU
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. WB Żołnierza Rodu zwiększa się o +2, jeśli jest w Grupie Ofensywnej z co najmniej jednym JEZDNYM. NIEOGRANICZONA LICZBA W TALII.
+	Image: image62
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 1
+	Autor: JAMIE SIMS
+version control:
+	type: none
+apprentice code: 

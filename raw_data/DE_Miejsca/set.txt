@@ -1,0 +1,724 @@
+﻿mse version: 0.3.8
+game: darkeden-rc
+stylesheet: places
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:28:48
+	time modified: 2011-03-12 23:29:25
+	Neighbor Allowance: 4
+	Name: AGENCJA WYWIADOWCZA
+	Resources: <sym-auto>6</sym-auto><sym-auto>6</sym-auto><sym-auto>6</sym-auto>
+	Action: Koszt początkowy: 4. Raz w ciągu każdej tury możesz obejrzeć pierwsze dwie karty z talii dowolnego gracza (odłóż te karty w tej samej kolejności).
+	Image: 
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 7
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:29:42
+	time modified: 2011-03-12 23:30:10
+	Neighbor Allowance: 4
+	Name: AMBASADA HORD PÓŁKSIĘŻYCA
+	Action: Koszt początkowy: 2. AMBASADA. Jeśli ta karta znajduje się w grze, możesz zagrywać karty przynależne do Hord Półksiężyca.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 2
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:30:13
+	time modified: 2011-03-12 23:30:38
+	Neighbor Allowance: 4
+	Name: AMBASADA LUTERAńSKIEJ TRIADY
+	Action: Koszt początkowy: 2. AMBASADA. Jeśli ta karta znajduje się w grze, możesz zagrywać karty przynależne do Luterańskiej Triady.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 3
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:30:42
+	time modified: 2011-03-12 23:31:14
+	Neighbor Allowance: 4
+	Name: AMBASADA SYNÓW RASPUTINA
+	Action: Koszt początkowy: 2. AMBASADA. Jeśli ta karta znajduje się w grze, możesz zagrywać karty przynależne do Synów Rasputina.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 3
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:31:19
+	time modified: 2011-03-12 23:31:36
+	Neighbor Allowance: 4
+	Name: AMBASADA TEMPLARIUSZY
+	Action: Koszt Początkowy: 2. AMBASADA. Jeśli ta karta znajduje się w grze, możesz zagrywać karty przynależne do Templariuszy.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 3
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:31:42
+	time modified: 2011-03-12 23:32:10
+	Name: BARYKADA
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: To miejsce, a nie żadne inne, musi być celem najazdu, jeśli ktoś najedzie cię lądem. Jeżeli w swojej Osadzie posiadasz kilka Barykad, najeźdźca może wybrać, którą z nich najedzie. Nie można do tej karty dołączać ZŁEGO FRONTU. NIEOGRANICZONA LICZBA W TALII.
+	Image: 
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 5
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:32:25
+	time modified: 2011-03-12 23:32:48
+	Neighbor Allowance: 4
+	Name: BAZA OCHRONY
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 2. WB wszystkich kart sąsiadujących z Bazą Ochrony zwiększa się o +2.
+	Image: 
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 8
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:33:01
+	time modified: 2011-03-12 23:33:19
+	Neighbor Allowance: 2
+	Name: BAZAR
+	Resources: <sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto>
+	Action: Koszt Początkowy: 3.
+	Image: 
+	Sea: No
+	CV: 0
+	CV1: 6
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:33:26
+	time modified: 2011-03-12 23:33:50
+	Neighbor Allowance: 4
+	Name: CENTRUM DOWODZENIA
+	Resources: <sym-auto>9</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 3. Jeżeli ta karta znajduje się w twojej Osadzie, żaden gracz nie może oglądać ani manipulować twoimi kartami na ręku, talią i stosem kart odrzuconych, chyba że ty na to pozwolisz.
+	Image: 
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 4
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:34:03
+	time modified: 2011-03-12 23:34:18
+	Neighbor Allowance: 4
+	Name: CENTRUM OBRONY
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 3. Jeżeli zostaniesz najechany po tym, jak zostaną wyznaczeni najeźdźcy, możesz płacąc 3 Jednostki Złota przenieść jednego Wojownika ze swojego Oddziału na swoje Pogranicze. Jeśli ten Wojownik używa tej samej taktyki co najeźdźcy, zakończy to najazd.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 0
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:34:26
+	time modified: 2011-03-12 23:34:49
+	Neighbor Allowance: 3
+	Name: CENTRUM SZKOLENIA MARYNARKI
+	Resources: <sym-auto>7</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 4. Jeżeli ta karta znajduje się w twojej Osadzie, Wszyscy twoi Wojownicy PIECHOTY są uważani także za Marynarzy, oprócz swoich normalnych Taktyk.
+	Image: 
+	CV: 1
+	CV1: 3
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:34:57
+	time modified: 2011-03-12 23:35:23
+	Neighbor Allowance: 4
+	Name: CYSTERNA
+	Resources: <sym-auto>6</sym-auto><sym-auto>6</sym-auto>
+	Action: Koszt Początkowy: 1. MAGAZYN. Podczas każdego kroku Bilansowania możesz za każda niewykorzystaną ikonę PA umieścić na tej karcie żeton. Możesz go użyć podczas swojego kroku Bilansowania, by uzyskać ikonę PA.
+	Image: 
+	Sea: No
+	CV: 0
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:35:30
+	time modified: 2011-03-12 23:35:57
+	Neighbor Allowance: 4
+	Name: CYTADELA LEGIONU CIEMNOŚCI
+	Action: Koszt Początkowy: 3. AMBASADA. Jeśli ta karta znajduje się w grze, możesz zagrywać karty przynależne do legionu Ciemności.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 6
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:36:01
+	time modified: 2011-03-12 23:36:20
+	Neighbor Allowance: 4
+	Name: FABRYKA
+	Resources: <sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 3. Możesz zagrywać karty Intryg - EKWIPUNEK.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 3
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:36:23
+	time modified: 2011-03-12 23:36:45
+	Neighbor Allowance: 3
+	Name: FABRYKA BRONI
+	Resources: <sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 3. Jeżeli możesz zagrywać karty EKWIPUNKU, to nie musisz płacić za nie żadnego Kosztu Początkowego.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 0
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:36:51
+	time modified: 2011-03-12 23:37:30
+	Neighbor Allowance: 4
+	Name: GENERATOR ENERGII SŁONECZNEJ
+	Resources: <sym-auto>4</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: Koszt Początkowy: 1.
+	Image: 
+	Affiliation: The Templars
+	Sea: No
+	CV: 0
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:37:35
+	time modified: 2011-03-12 23:37:58
+	Neighbor Allowance: 4
+	Name: HANGAR
+	Resources: <sym-auto>9</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 2. Jeżeli twój POJAZD zostanie zniszczony podczas walki lub najazdu, możesz wziąć go z powrotem do ręki po zapłaceniu równowartości jego bazowej WB w Jednostkach Złota. Karty dołączone do Wojownika są odrzucane.
+	Image: 
+	CV: 1
+	CV1: 0
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:38:15
+	time modified: 2011-03-12 23:38:41
+	Neighbor Allowance: 4
+	Name: KOPALNIA 
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>1</sym-auto>
+	Action: Koszt Początkowy: 1.
+	Image: 
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 0
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:38:53
+	time modified: 2011-03-12 23:39:12
+	Neighbor Allowance: 4
+	Name: LABORATORIUM
+	Resources: <sym-auto>6</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 2. Sąsiadujące Miejsca, które produkują ikony PA, wytwarzają ich dwa razy więcej (nie dotyczy to tej karty). Ten modyfikator jest stosowany po wszystkich innych.
+	Image: 
+	Sea: No
+	CV: 0
+	CV1: 8
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:39:22
+	time modified: 2011-03-12 23:39:41
+	Neighbor Allowance: 3
+	Name: MAGAZYN Z ZAOPATRZENIEM
+	Resources: <sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 3. Jeżeli możesz zagrywać karty EKWIPUNKU, to możesz zagrywać dowolne karty Ekwipunku niezależenie od ich przynależności. Inne ograniczenia dotyczące Ekwipunku muszą być przestrzegane
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 0
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:39:49
+	time modified: 2011-03-12 23:40:06
+	Neighbor Allowance: 4
+	Name: MENNICA
+	Resources: <sym-auto>9</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 2. Sąsiadujące Miejsca, które produkują ikony ZŁ, wytwarzają ich dwa razy więcej (nie dotyczy to tej karty). Ten modyfikator jest stosowany po wszystkich innych.
+	Image: 
+	CV: 0
+	CV1: 8
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:40:27
+	time modified: 2011-03-13 00:29:55
+	Neighbor Allowance: 1
+	Name: NIEZNISZCZALNA SKAŁA
+	Action: NIERUCHOME. Możesz umieścić to "Miejsce" w dowolnym legalnym punkcie w Osadzie jednego z graczy. Nie możesz jej umieścić w sąsiedztwie Przywódcy. Skała nie może być celem najazdu i nie działają na nią żadne karty. Ta karta zajmuje tylko Miejsce. Nie mogą przez nią przebiegać Linie Dostawcze. Skałę należy wliczać w Liczbę Sąsiadów innych Miejsc.
+	Image: 
+	Land: No
+	Air: No
+	Sea: No
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:40:46
+	time modified: 2011-03-12 23:41:29
+	Neighbor Allowance: 4
+	Name: NOTRE DAME
+	Resources: <sym-auto>6</sym-auto><sym-auto>6</sym-auto><sym-auto>9</sym-auto><sym-auto>9</sym-auto><sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: KARTA UNIKATOWA. Główna kwatera Templariuszy. Notre Dame pozwala ci zagrywać karty o przynależności Templariuszy (ale tylko te, które możesz zagrywać) w dowolnym momencie, za wyjątkiem walki lub najazdu. Dodatkowo karty te nie wymagają Kosztu Początkowego. Wszystkie karty Templariuszy pobierają o jedną ikonę mniej, wybraną przez ciebie na początku każdego twojego kroku Bilansowania.
+	Image: 
+	Affiliation: The Templars
+	Sea: No
+	CV: 1
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:41:32
+	time modified: 2011-03-12 23:42:05
+	Neighbor Allowance: 2
+	Name: OBÓZ PRACY
+	Action: Koszt Początkowy: 6. Za każdym razem, kiedy twoja PIECHOTA zabije jakiegoś Piechura (lub Grupę, w skład której wchodził Piechur), możesz umieścić pokonanych Piechurów w Obozie Pracy, zamiast ich odrzucać. Za każdego więźnia w Obozie, podczas swojego kroku Bilansowania otrzymujesz wybraną przez siebie ikonę zasobów. Jeśli ta karta zostanie odrzucona, należy odrzucić również wszystkich więźniów
+	Image: 
+	Sea: No
+	CV: 0
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:42:10
+	time modified: 2011-03-12 23:42:41
+	Neighbor Allowance: 3
+	Name: OBÓZ SZKOLENIOWY
+	Resources: <sym-auto>8</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 2. Kiedy zagrywasz tę kartę, wybierz przynależność. Jeśli podczas swojej tury nie wykonasz żadnej akcji (możesz normalnie atakować i najeżdżać), możesz położyć na tej karcie żeton. Za każdy znajdujący się na niej żeton Wojownicy o wybranej przynależności zyskują +2 do WB. W swojej Osadzie możesz mieć tylko jeden Obóz Szkoleniowy dla każdej przynależności.
+	Image: 
+	CV: 1
+	CV1: 1
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:42:59
+	time modified: 2011-03-13 00:27:22
+	Neighbor Allowance: 0
+	Name: PIŻMIEJ SPOD ZNAKU PÓŁKSIĘŻYCA
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: To Miejsce jest w rzeczywistości wielkim zwierzęciem. Możesz je umieścić pod dowolnym swoim Miejscem bądź pod Przywódcą. Piżmiej nosi tę kartę na grzbiecie. To Miejsce/Przywódca nie może być celem najazdu, dopóki Piżmiej nie zostanie wcześniej zniszczony lub odrzucony. Karty, które działają na Wojowników, nie działają na Piżmieja.
+	Image: 
+	Affiliation: Crescentia
+	Sea: No
+	CV: 1
+	CV1: 7
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:43:53
+	time modified: 2011-03-12 23:44:07
+	Name: POLE MINOWE
+	Action: oszt początkowy: X. Bazow WB Pola Minowego równe jest Koszowi Początkowemu który ustalasz zagrywając tę kartę (umieść na karcie Jednosatki Złota, aby go zapamiętać). Na Pole Minowe nie działa żadna karta Intryg. Przeciwnicy muszą najeżdżać Pole Minowe (jeśli ma one jakieś odsłonięte krawędzie) zanim będą mogli zaatakować jakąkolwiek kartę sąsiadującą z nim. Wojownicy, którzy najadą Pole Minowe, giną natychmiast po walce (oczywiście jeśli ich WB jest wyższe, to zniszczą Pole Minowe).
+	Image: 
+	CV: X
+	CV1: X
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:44:51
+	time modified: 2011-03-12 23:45:18
+	Neighbor Allowance: 4
+	Name: POLE NAFTOWE
+	Resources: <sym-auto>4</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: Koszt Początkowy: 1.
+	Image: 
+	Sea: No
+	CV: 0
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:45:27
+	time modified: 2011-03-12 23:45:48
+	Neighbor Allowance: 4
+	Name: POMPA GAZOWA
+	Resources: <sym-auto>4</sym-auto>
+	Action:
+			NIEPOZORNE. To Miejsce nie może zostać najechanem chyba że wszystkie Miejsca w tej samej Osadzie są uważane za NIEPOZORNE, bądź wszystkie Miejsca w tej Osadzie nie mogą być najeżdżane (w wyniku działania jakichś kart).
+	Image: 
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 2
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:45:56
+	time modified: 2011-03-12 23:46:12
+	Neighbor Allowance: 2
+	Name: PUNKT HANDLOWY
+	Action: Możesz w dowolnym momencie wymienić żeton, znajdujący się na twojej karcie, która jest MAGAZYNEM, na dwie Jednostki Złota.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 0
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:46:19
+	time modified: 2011-03-12 23:46:43
+	Neighbor Allowance: 4
+	Name: RAFINERIA
+	Resources: <sym-auto>6</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt Początkowy: 2. Sąsiadujące Miejsca, które produkują ikony SU, wytwarzają ich dwa razy więcej (nie dotyczy to tej karty). Ten modyfikator jest stosowany po wszystkich innych.
+	Image: 
+	Sea: No
+	CV: 0
+	CV1: 8
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:46:52
+	time modified: 2011-03-12 23:47:20
+	Neighbor Allowance: 4
+	Name: RZEŹNIA
+	Action: Rzeźnia pozwala ci odrzucać podczas twojego kroku Bilansowania twoich JEZDNYCH, dzięki czemu uzyskasz tyle ikon ŻW, ile wynosi ich bazowa WB. Umieść na tej karcie tyle żetonów, ile uzyskałeś ŻW. Podczas swojego kroku Bilansowania możesz używać tych żetonów jak potrzebnej żywności, jeden żeton za ŻW. Nie możesz w ten sposób przetworzyć Jazdy, która została Zwerbowana w tej samej turze.
+	Image: 
+	Affiliation: Crescentia
+	Sea: No
+	CV: 0
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:47:24
+	time modified: 2011-03-12 23:47:53
+	Neighbor Allowance: 2
+	Name: SANKTUARIUM
+	Resources: <sym-auto>6</sym-auto><sym-auto>8</sym-auto>
+	Action: Żadna karta sąsiadująca z Sanktuarium nie może stać się celem najazdu. Samo Sanktuarium może być najeżdżane normalnie. Liczba Sąsiadów tej karty nigdy nie może wzrosnąć powyżej 3. Nie można do tej karty dołączyć ZŁEGO FRONTU.
+	Image: 
+	Affiliation: The Lutheran Triad
+	Sea: No
+	CV: 0
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:47:56
+	time modified: 2011-03-12 23:48:17
+	Neighbor Allowance: 4
+	Name: SILOS
+	Resources: <sym-auto>6</sym-auto><sym-auto>6</sym-auto>
+	Action: Koszt Początkowy: 1. MAGAZYN. Podczas każdego kroku Bilansowania możesz za każdą niewykorzystaną ikonę SU umieścić na tej karcie żeton. Możesz go użyć podczas swojego kroku Bilansowania, by uzyskać ikonę SU.
+	Image: 
+	Sea: No
+	CV: 0
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:48:27
+	time modified: 2011-03-12 23:48:50
+	Neighbor Allowance: 4
+	Name: SKARBIEC
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Pocztkowy: 3. Jeżeli ta karta znajduje się w twojej Osadzie, żaden gracz nie może manipulować twoimi Jednostkami Złota, chyba że ty na to pozwolisz. Kiedy wydasz Jednostkę Złota, nie jest ona już uważana za "twoją".
+	Image: 
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 4
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:49:00
+	time modified: 2011-03-12 23:49:35
+	Neighbor Allowance: 4
+	Name: SKŁAD
+	Resources: <sym-auto>8</sym-auto>
+	Action: Koszt początkowy: 2. Możesz umieścić w Składzie do pięciu kart z ręki w dowolnym momencie, płacąc 2 jednostki złota za każdą umieszczaną w nim kartę (nie pokazuj tych kart). Możesz zagrywać kart ze Składu tak jak z ręki. Jeśli Skład zostanie odrzucony lub najechany to znajdujące się w nim karty są odrzucane.
+	Image: 
+	Sea: No
+	CV: 0
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:49:42
+	time modified: 2011-03-12 23:50:15
+	Neighbor Allowance: 4
+	Name: SKŁAD PREFABRYKATÓW
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 5. Jeśli ta karta znajduje się w grze, nie musisz płacić Kosztu Początkowego za żadne Miejsce.
+	Image: 
+	Affiliation: The Sons of Rasputin
+	Sea: No
+	CV: 0
+	CV1: 7
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:50:23
+	time modified: 2011-03-12 23:50:36
+	Neighbor Allowance: 4
+	Name: SPICHLERZ
+	Resources: <sym-auto>6</sym-auto><sym-auto>6</sym-auto>
+	Action: Koszt Początkowy: 1. MAGAZYN. Podczas każdego kroku Bilansowania możesz za każdą niewykorzystaną ikonę ŻW umieścić na tej karcie żeton. Możesz go użyć podczas swojego kroku Bilansowania, by uzyskać ikonę ŻW.
+	Image: 
+	CV: 0
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:50:53
+	time modified: 2011-03-12 23:51:14
+	Neighbor Allowance: 4
+	Name: STACJA NAWOŻENIA
+	Resources: <sym-auto>9</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 2. Sąsiadujące Miejsca, które produkują ikony ŻW, wytwarzają ich dwa razy więcej (nie dotyczy to tej karty). Ten modyfikator jest stosowany po wszystkich innych.
+	Image: 
+	Sea: No
+	CV: 0
+	CV1: 8
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:51:23
+	time modified: 2011-03-12 23:51:55
+	Neighbor Allowance: 3
+	Name: STAJNIE
+	Resources: <sym-auto>4</sym-auto><sym-auto>2</sym-auto>
+	Action: Koszt Początkowy: 3. Możesz wykładać Wojowników uważanych za JAZDĘ. Stajnie nie tylko pozwalają na produkcję zwierząt bojowych, są także źródłem gazu ziemnego i mięsa.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 3
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:51:58
+	time modified: 2011-03-13 00:00:42
+	Neighbor Allowance: 4
+	Name: SZPITAL
+	Resources: <sym-auto>9</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 2. Jeżeli twój PIECHUR zostanie zabity podczas walki bądź najazdu, możesz wziąć go z powrotem do ręki po zapłaceniu równowartości jego bazowej WB w Jednostkach Złota. Karty dołączone do Wojownika są odrzucane.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 0
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:52:21
+	time modified: 2011-03-12 23:52:43
+	Neighbor Allowance: 4
+	Name: SZPITAL WETERYNARYJNY
+	Resources: <sym-auto>9</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 2. Jeżeli twój JEZDNY zostanie zabity podczas walki bądź najazdu, możesz wziąć go z powrotem do swojej ręki po zapłaceniu równowartości jego bazowej WB w Jednostkach Złota. Karty dołączone do Wojownika są odrzucane.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 0
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:52:50
+	time modified: 2011-03-12 23:53:15
+	Neighbor Allowance: 4
+	Name: SZTAB ANTYTERRORYSTYCZNY
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 6. Jeśli ta karta znajduje się w grze, nie działąją na ciebie karty SABOTAŻU.
+	Image: 
+	Sea: No
+	CV: 0
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:53:21
+	time modified: 2011-03-12 23:53:47
+	Neighbor Allowance: 3
+	Name: TAWERNA
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt Początkowy: 2. WB twoich Wojowników znajdujących się na twoim Pograniczu wzrasta o +1 za każdą Tawernę w twojej Osadzie
+	Image: 
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 6
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:53:51
+	time modified: 2011-03-12 23:54:15
+	Neighbor Allowance: 3
+	Name: TUNEL PARY
+	Resources: <sym-auto>4</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: Koszt Początkowy: 1.
+	Image: 
+	Affiliation: The Sons of Rasputin
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 1
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:54:24
+	time modified: 2011-03-12 23:54:58
+	Neighbor Allowance: 4
+	Name: WARSZTAT
+	Resources: <sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 3. Możesz zagrywać Wojowników uważanych za POJAZDY.
+	Image: 
+	Sea: No
+	CV: 1
+	CV1: 3
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:55:04
+	time modified: 2011-03-12 23:55:37
+	Neighbor Allowance: 4
+	Name: WIEŻA STRAŻNICZA
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 2. Jeśli zostaniesz najechany, po wyznaczeniu najeźdźcy, możesz jeszcze przed rozpoczęciem najazdu zaatakować jednego z Wojowników biorących w nim udział. Zaatakować może Wojownik znajdujący się w twoim Oddziale, musi on ponadto użyć tej samej Taktyki co najeźdźcy. Nie możesz utworzyć Grupy Ofensywnej. Jeśli twój Wojownik przeżyje, pozostaje na twoim Pograniczu.
+	Image: 
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:55:47
+	time modified: 2011-03-12 23:56:16
+	Name: WYSYPISKO ŚMIECI
+	Resources: <sym-auto>6</sym-auto>
+	Action: Kiedy ta karta znajduje się w grze, podczas swojego kroku Odrzucania możesz odrzucić dowolną liczbę kart, płacąc za każdą (za wyjątkiem pierwszej) 2 Jednostki Złota.
+	Image: 
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 5
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:56:23
+	time modified: 2011-03-12 23:57:03
+	Neighbor Allowance: 4
+	Name: WYTWÓRNIA PAPKI
+	Resources: <sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto>
+	Action: Koszt Początkowy: 1. W tym Miejscu produkowane jest pożywienie dla członków luterańskiej Triady - kleik z ryżu i końskiego mleka zwany Papką.
+	Image: 
+	Affiliation: The Lutheran Triad
+	Sea: No
+	CV: 0
+	CV1: 7
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:57:10
+	time modified: 2011-03-12 23:57:26
+	Neighbor Allowance: 4
+	Name: ZAGAJNIK
+	Resources: <sym-auto>3</sym-auto>
+	Action: NIEPOZORNE. To miejsce nie może zostać najechane, chyba że wszystkie Miejsca w tej samej Osadzie są uważane za NIEPOZORNE, bądź wszystkie Miejsca w tej Osadzie nie mogą być najeżdżane (w wyniku działania jakichś kart).
+	Image: 
+	CV: 1
+	CV1: 1
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:57:31
+	time modified: 2011-03-12 23:57:49
+	Neighbor Allowance: 4
+	Name: ZBROJOWNIA
+	Resources: <sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 3. Za każdym razem, gdy odrzucana jest twoja karta EKWIPUNKU (nawet ta, w którą wyposażeni byli twoi zabici Wojownicy), możesz wziąć ja z powrotem do swojej ręki.
+	Image: 
+	Sea: No
+	CV: 0
+	CV1: 7
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:57:57
+	time modified: 2011-03-12 23:58:16
+	Neighbor Allowance: 4
+	Name: ZIEMIA ORNA
+	Resources: <sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto>
+	Action: Koszt Początkowy: 1.
+	Image: 
+	Sea: No
+	CV: 0
+	CV1: 9
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:58:37
+	time modified: 2011-03-12 23:58:58
+	Neighbor Allowance: 4
+	Name: ZŁOŻE MINERAŁÓW
+	Resources: <sym-auto>1</sym-auto>
+	Action: NIEPOZORNE. To Miejsce nie może zostać najechane, chyba że wszystkie Miejsca w tej samej Osadzie są uważane za NIEPOZORNE, bądź wszystkie Miejsca w tej Osadzie nie mogą być najeżdżane (w wyniku działania jakichś kart).
+	Image: 
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 2
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:59:14
+	time modified: 2011-03-12 23:59:37
+	Neighbor Allowance: 4
+	Name: ZŁOŻE RUDY
+	Resources: <sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto>
+	Action: Koszt Początkowy: 1.
+	Image: 
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 8
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:59:41
+	time modified: 2011-03-13 00:00:13
+	Neighbor Allowance: 4
+	Name: ŻYZNE ZIEMIE
+	Resources: <sym-auto>2</sym-auto>
+	Action: NIEPOZORNE. To Miejsce nie może zostać najechane, chyba że wszystkie Miejsca w tej samej Osadzie są uważane za NIEPOZORNE, bądź wszystkie Miejsca w tej Osadzie nie mogą być najeżdżane (w wyniku działania jakichś kart).
+	Image: 
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 2
+version control:
+	type: none
+apprentice code: 

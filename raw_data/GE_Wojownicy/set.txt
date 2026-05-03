@@ -1,0 +1,602 @@
+﻿mse version: 0.3.8
+game: darkeden-rc
+stylesheet: warrior
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:38:18
+	time modified: 2011-03-16 08:41:03
+	Name: 19-Y CICHY
+	Resources: <sym-auto>8</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt Początkowy: 1. PIECHOTA. CZŁONEK CYBERTRONIKU. ŻOŁNIERZ ZAGŁADY. Nigdy nie może stać się, Marynarzem, CZARODZIEJEM, PROROKIEM, PATRYJARCHĄ, GODNYM MROCZNEJ HARMONII. Możesz dołączyć do niego kartę EKWIPUNKU, którą może używać Piechota nawet, jeśli nie posiadasz w swojej osadzie, karty umożliwiającej Ci zagrywanie Ekwipunku.
+	Image: image2
+	Affiliation: The Cybertronic
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 5
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:40:14
+	time modified: 2011-03-16 08:43:34
+	Name: ANTAGONIST
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. CZŁONEK KAPITOLU. Kiedy znajduje się w Twoim Oddziale lub w Twoim Pograniczu, możesz zagruwać karty POJAZDÓW. Jeśli wszyscy Twoi Antagoniści zostaną odrzuceni, POJAZDY które dzięki nim zagrałeś pozostają w grze.
+	Image: image3
+	Affiliation: The Capitol
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 2
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:41:39
+	time modified: 2011-03-16 08:44:05
+	Name: BARAKUDA
+	Resources: <sym-auto>9</sym-auto>
+	Action: Koszt początkowy: 1. POJAZD. ŁÓDŹ PODWODNA. Barakuda nigdy nie może posiadać taktyki lądowej i powietrzenej. Twoja PIECHOTA może formować Morskie Grupy Ofensywne z Barakudą, nawet jeśli nie posiada taktyki wodnej.
+	Image: image4
+	Affiliation: The Sons of Rasputin
+	Land: No
+	Air: No
+	CV: 0
+	CV1: 5
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:42:17
+	time modified: 2011-03-16 08:46:15
+	Name: DIABOL
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 1. PIECHOTA. Diabol (lub grupa, w której się znajduje) w przypadku remisu podczas walki, zwycięża. Możesz odrzucić Diabola podczas DOWOLNEJ walik, w której NIE bierze on udziału. Jeden z walczących wojowników (wybierasz który) otrzymuje aż do końca trwania konfliktu, modyfikator do WB równy WB Diabola. Możesz odrzucić więcej niż jednego Diabola, żeby zwiększyć WB walczących wojowników. NIEOGRANICZONA LICZBA W TALII.
+	Image: image1
+	Affiliation: The Templars
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: MUTANT CHRONICLES
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:42:45
+	time modified: 2011-03-16 08:46:41
+	Name: ENIGMA
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 2. PIECHOTA.  Enigma sprawia wrażenie będącej w dowolnym miejscu w tym samym czasie. Może być przenoszona w dowolnym momencie (oprócz trwającej walki lub najazdu) i tak często jak sobie tego życzysz.
+	Image: image5
+	Affiliation: The Mishima
+	CV: 0
+	CV1: 4
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:43:32
+	time modified: 2011-03-16 08:47:11
+	Name:
+		JEŹDZIEC
+		APOKALIPSY
+	Resources: <sym-auto>7</sym-auto>
+	Action: JAZDA. Kiedy Jeździec Apokalipsy znajduje się w Twojej krainie, zwiększa limit dobieranych przez Ciebie kart w kroku Dobierania o jedną. Działanie kilku kipii tej karty nie kumuluje się.
+	Image: image6
+	Affiliation: The Lutheran Triad
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 4
+	Autor: MUTANT CHRONICLES
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:44:24
+	time modified: 2011-03-16 08:47:49
+	Name: KONKWISTADOR
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 2. PIECHOTA. ŻOŁNIERZ ZAGŁADY. Możesz anihilować Konkwistadora w dowolnym momencie (poza trwającą walką lub najazdem) aby wziąć jedno miejsce będące w grze, które posiada przynajmniej jedną odsłoniętą krawędź i umieścić je w legalnym miejscu, w swojej krainie (wszystkie karty dołączone oraz Udoskonalenia przenoszone są razem z tym miejscem). Musisz dodatkowo zapłacić X jednostek złota gdzie X jest zmodyfikowanym WB miejsca, które chcesz przenieść. Punkty zwycięstwa nie są przyznawane.
+	Image: image7
+	Affiliation: The Imperial
+	Air: No
+	CV: 0
+	CV1: 4
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:45:11
+	time modified: 2011-03-16 08:48:24
+	Name: KRZYCZĄCY KRUK
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt początkowy: 3. POJAZD. Krzyczący Kruk wydaje straszny głos, który odstrasza PIECHOTĘ i JAZDĘ dzięki czemu nie może ona go atakować (PIECHOTA oraz JAZDA BRONi się przed Krukiem w normalny sposób). Kruk może być zaatakowany tylko przez inne POJAZDy, albo Grupy Ofensywne składające się tylko z POJAZDÓW.
+	Image: image8
+	Affiliation: The Templars
+	Land: No
+	Sea: No
+	CV: 0
+	CV1: 5
+	Autor: MUTANT CHRONICLES
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:45:46
+	time modified: 2011-03-16 08:48:46
+	Name: KRZYŻOWIEC
+	Resources: <sym-auto>7</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt początkowy: 3. PIECHOTA. CZARODZIEJ. Kiedy Krzyżowiec atakuje, jego bazowe WB wynosi 1, ale może atakować 4 razy na turę. Najeżdżać może tylko raz (z WB równym 4). Otrzymuje modyfikator +2 do WB, jeśli tworzy grupę z GRINDEREM i dodatkowy modyfikator +2 do WB, jeśli walczy przeciwko HERETYKOWI. Te modyfikatory stosuje się przed wszystkimi innymi. Nigdy nie może używać PANCERZY.
+	Image: image9
+	Affiliation: The Brotherhood
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 4
+	Autor: MUTANT CHRONICLES
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:46:25
+	time modified: 2018-11-29 21:32:35
+	Name: MĘCZENNIK Z WYBORU
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: X. PIECHOTA. Nigdy nie może przebywać na pograniczu. Przeznaczeniem Męczennika z wyboru jest śmierć, więc nie odczuwa strachu. Połóż X żetonów na karcie tego wojownika, kiedy go werbujesz. Koszt początkowy wynosi X raz 3 Jednostki Złota. Za każdym razem, kiedy wojownik ten zginie w walce lub najeździe, zdejmij z niego jeden żeten. Kiedy po przegranej walce lub najeździe nie ma już na nim żadnego żetonu, który mógłbyś zdjąć, Męczennika z wyboru należy odrzucić.
+	Image: image10
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 4
+	Autor: MUTANT CHRONICLES
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:47:07
+	time modified: 2011-03-16 08:49:56
+	Name: MISJONARZ
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. Misjonarze żyją by roznosić po świecie słowo Kardynała niewiernym. Misjonarz może być przenoszony do Oddziałów i Pogranicz innych graczy, jednakże gracz, do którego krainy przenosisz Misjonarza, przejmuje nad nim kontrolę. Jeśli rozkażesz Misjonarzowi żeby powrócił do Twojej krainy, gracz, który go kontroluje musi to uczynić podczas swojego kolejnego kroku Wykonywania Akcji. NIEOGRANICZONA LICZBA W TALII.
+	Image: image11
+	Affiliation: The Brotherhood
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 2
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:47:34
+	time modified: 2011-03-16 08:50:23
+	Name: MORSKA STRZYGA
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt początkowy: 3. POJAZD. SAMOTNIK. Za pierwszym razem, kiedy Strzyga zostanie pokonana w walce lub podczas najazdu, umieść żeton na tej karcie. Strzyga traktowana jest jako "ranna" i musisz zostać ponownie pokonana, zanim zostanie odrzucona. Rana nie ma żadnego efektu na tą kartę.
+	Image: image12
+	Affiliation: The Templars
+	Land: No
+	Air: No
+	CV: 1
+	CV1: 0
+	Autor: STUART BEEL
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:48:30
+	time modified: 2011-03-16 08:50:52
+	Name: NAMIESTNIK
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 2. PIECHOTA. Uważany za KOMMENDANTA. Otrzymuje +1 do WB za każdego KOMMENDANTA (ale nie za Kozackiego Kommendanta) w tym samym oddziale lub pograniczu. Grupa ofensywna, w której skład wchodzi Namiestnik nie musi się rozpadać po Kroku Atak. Stają się wtedy Grupą Defensywną, a jej członkowie nie mogą przeprowadzić w tej turze najazdu.
+	Image: image13
+	Affiliation: The Sons of Rasputin
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 5
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:49:01
+	time modified: 2011-03-16 08:51:21
+	Name:
+		NEFRYTOWY
+		DUCH
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 1. PIECHOTA. ŻOŁNIERZ ZAGŁADY. Możesz zwerbować Ducha do swojej osady, po swoim Kroku Bilansowania. Nefrytowy Duch w przypadku remisu w walce, jest zwycięzcą. NIEOGRANICZONA LICZBA W TALII.
+	Image: image14
+	Affiliation: The Mishima
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:49:35
+	time modified: 2011-03-16 08:51:54
+	Name: NUREK
+	Resources: <sym-auto>7</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt początkowy: 3. PIECHOTA. Nurek nie może atakować i najeżdżać w tej samej turze. Możesz umieścić na nim żeton za każdą niewykorzystaną jednostkę Paliwa, jaka zostanie Ci w Kroku Bilansowania (za jedną jednostkę Paliwa możesz umieścić żeton tylko na jednym Nurku). Nurek otrzymuje +1 do WB za każdy żeton, jaki na nim umieścisz. Ikony Paliwa z Magazynów nie mogą być użyte. Żetony należy odrzucić na końcu twojej tury.
+	Image: image15
+	Affiliation: The Lutheran Triad
+	Air: No
+	CV: 0
+	CV1: 5
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:50:04
+	time modified: 2011-03-16 08:52:31
+	Name: PIRANIA
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: POJAZD. Pirania może atakować i najeżdżać karty znajdujące się pod wodą. Połóż x żetonów symbolizujących torpedy na karcie, kiedy werbujesz Piranię (każdy żeton kosztuje 2 Jednostki Złota). Podczas walki z ŁODZIĄ PODWODNĄ lub najazdu na miejsce pod wodą, Pirania może odpalić jedną lub więcej torped (zdejmij odpowiednią ilość żetonów). Każda odpalona torpeda dodaje +3 do WB Piranii.
+	Image: image16
+	Affiliation: The Templars
+	Land: No
+	Air: No
+	CV: 0
+	CV1: 4
+	Autor: MUTANT CHRONICLES
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:50:35
+	time modified: 2011-03-16 08:53:03
+	Name: POKRYTY ŁUSKAMI
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 2. PIECHOTA. Połóż na karcie jeden żeton reprezentujący Torpedę, kiedy werbujesz tego wojownika. W trakcie walki lub najazdu za pomocą wody, ten wojownik może odpalić Torpedę (zdejmij żeton) otrzymując modyfikator +5 do WB, do końca trwania konfliktu. Podczas swojego kroku Wykonywania Akcji, możesz załadować kolejną Torpedę w miejsce już wykożystanej, płacąc 5 Jednostek Złota.
+	Image: image17
+	Affiliation: The Lutheran Triad
+	Land: No
+	Air: No
+	CV: 0
+	CV1: 5
+	Autor: ALEX HORLEY
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:51:23
+	time modified: 2018-11-29 21:24:20
+	Name: PONURY ŻNIWIARZ
+	Action: PIECHOTA. SAMOTNIK. Żniwiarz nie pobiera żadnych ikon zasobów, ale żeby zachować jego kartę w grze, musi on zabić przynajmniej jednego wojownika przeciwnika w każdej turze. Jeśli mu się to nie uda, należy go odrzucić na końcu kroku Ataku.
+	Image: image18
+	Affiliation: The Dark Legion
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 0
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:52:02
+	time modified: 2011-03-16 08:54:00
+	Name: POSZUKIWACZ
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 2. PIECHOTA. CZARODZIEJ. Możesz anihilować Poszukiwacza w dowolnym momencie (oprócz trwającej walki lub najazdu) aby przejąć kontrolę nad dowolnym nie należącym do Legionu Ciemności wojownikiem, który znajduje się w grze i umieścić go na swoim Pograniczu. Od tej pory Ty kontrolujesz tego wojownika.
+	Image: image19
+	Affiliation: The Brotherhood
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 4
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:52:26
+	time modified: 2011-03-16 08:54:23
+	Name: POTĘŻNY TARAN
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt początkowy: 4. POJAZD. Podczas Twojego Kroku Bilansowania, możesz zatankować Potężnego Tarana niewykorzystanymi jednostkami Paliwa. Za każdą jednostkę Paliwa, jaką tankujesz, połóż żeton na tej karcie. Możesz wydać te żetony w trakcie walki lub najazdu. Każdy wydany żeton dodaje +1 do WB Wielkiego Tarana aż do końca trwania konfliktu. Wszystkie niewykorzystane żetony należy odrzucić na koniec Twojej tury.
+	Image: image20
+	Affiliation: Crescentia
+	Land: No
+	Air: No
+	CV: 0
+	CV1: 8
+	Autor: MUTANT CHRONICLES
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:53:05
+	time modified: 2011-03-16 08:54:50
+	Name: POTOMEK
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 3. PIECHOTA. Kiedy Potomek znajduje się w Twojej krainie zwiększa limit dobieranych przez Ciebie kart w Kroku Dobierania o jedną. Działanie kilku kopii tej karty nie kumuluje się.
+	Image: image21
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 4
+	Autor: JAMIE SIMS
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:53:33
+	time modified: 2011-03-16 08:55:44
+	Name: STEROWIEC HINDENFOKKER
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt początkowy: X. POJAZD. Połóż X żetonów na tej karcie, kiedy werbujesz tego wojownika. X jest kosztem początkowym, który zdecydujesz się zapłacić. Możesz zdjąć żeton przed swoim Krokiem Ataku lub Najazdu, aby umożliwić Hindenfokkerowi atak lub najazd na cel znajdujący się pod wodą. Hindenfokker otrzymuje taktykę Wodną aż do końca trwania konfliktu.
+	Image: image23
+	Affiliation: The Sons of Rasputin
+	Land: No
+	Sea: No
+	CV: 0
+	CV1: 5
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:54:10
+	time modified: 2011-03-16 08:56:21
+	Name: STRAŻNIK
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 2. PIECHOTA. CZARODZIEJ. Strażnicy mają zadanie dopilnować, żeby Megakorporacje nie wtargnęły do Mrocznego Raju. Możesz odrzucić Strażnika w dowolnym momencie (poza trwającą walką lub najazdem) żeby odrzucić jednego wybranego przez Ciebie wojownika, który przynależy do Megakorporacji (karty dołączone do tego wojownika również są odrzucane).
+	Image: image24
+	Affiliation: The Brotherhood
+	CV: 0
+	CV1: 5
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:55:01
+	time modified: 2011-03-16 08:57:38
+	Name: STRAŻNIK KHANA
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 2. PIECHOTA. Khan podarował wyjątkowe zdolności Strażnikom, wybierz jedną z nich, kiedy werbujesz tego wojownika. Zdolność OCHRONY: Strażnik otrzymuje +3 do WB, kiedy znajduje się na Pograniczu. Zdolność ATAKU: otrzymuje +3 do WB, kiedy atakuje. Zdolność NAJAZDU: otrzymuje +3 do WB, kiedy najeżdża. Raz wybranej zdolności nie można zmienić.
+	Image: image25
+	Affiliation: Crescentia
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:55:31
+	time modified: 2011-03-16 09:32:31
+	Name: SURVIELER
+	Resources: <sym-auto>8</sym-auto>
+	Action: PIECHOTA. Survieler może dokonać autodestrukcji podczas walki lub najazdu. Jeśli zdecydujesz się na autodestrukcję wojownika, otrzymuje on +15 do WB. Po zakończeniu konfliktu, Survieler i wszyscy członkowie grupy w skład której wchodzili, lub uczestniczący wraz z nim w najeździe są anihilowani.
+	Image: image26
+	Affiliation: The Cybertronic
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:56:12
+	time modified: 2011-03-16 09:33:26
+	Name: SYN PÓŁNOCY
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 2. PIECHOTA. Syn północy w przypadku remisu w konflikcie jest zwycięzcą. W dowolnym momencie kiedy jedna z twoich kart ma zostać anihilowana możesz zdecydować, że zostanie odrzucona. Natychmiast po tym musisz anihilować Syna Północy.
+	Image: image27
+	Affiliation: The Sons of Rasputin
+	Air: No
+	CV: 0
+	CV1: 5
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:56:46
+	time modified: 2011-03-16 09:33:56
+	Name: SZABLOGRZBIET
+	Resources: <sym-auto>8</sym-auto><sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt początkowy: 2. POJAZD. ŁÓDŹ PODWODNA. Nigdy nie może posiadać taktyki lądowej i powietrznej. Może tworzyć grupy i najeżdżać tylko z wojownikami, którzy mogą atakować i najeżdżać karty znajdujące się pod wodą. Jeśli w skład najeżdżających wojowników wchodzi Szablogrzbiet, celem najazdu może być dowolne miejsce w Osadzie lub karta Przywódcy nawet, jeśli nie posiada żadnych odkrytych krawędzi.
+	Image: image28
+	Affiliation: The Sons of Rasputin
+	Land: No
+	Air: No
+	CV: 0
+	CV1: 8
+	Autor: STUART BEEL
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:57:29
+	time modified: 2011-03-16 08:55:16
+	Name: ŚMIGŁOWIEC WYSPIARZY
+	Resources: <sym-auto>9</sym-auto>
+	Action: Koszt początkowy: 1. POJAZD. Śmigłowiec Wyspiarzy może być przenoszony w dowolnym momencie (oprócz trwającej walki lub najazdu) i tak często jak sobie tego życzysz.
+	Image: image22
+	Affiliation: Megacorporations
+	Land: No
+	CV: 0
+	CV1: 5
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:58:08
+	time modified: 2011-03-16 09:34:24
+	Name: TANCERZ WOJNY
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 2. PIECHOTA. Za każdym razem, gdy zagrasz RYTUAŁ, który po zakończeniu działania należy odrzucić (nie działa na anihilowane karty), ten wojownik umożliwia Ci wzięcie go ponownie na rękę. Za każdym razem, gdy ostatni z Twoich Tancerzy Wojny w Twojej krainie zostanie odrzucony lub anihilowany, musisz odrzucić wszystkie Twoje RYTUAŁY pozostające w grze oraz na twoim ręku i pokazać przeciwnikowi karty, jakie masz na ręce.
+	Image: image29
+	Affiliation: The Lutheran Triad
+	CV: 0
+	CV1: 5
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 07:58:41
+	time modified: 2011-03-16 09:34:52
+	Name: TWARZ DUCHA
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 1. PIECHOTA. Przywdziani w magiczne kości przodków Twarze Duchów nie czują strachu. Kiedy jakaś twoja Twarz Ducha zginie w walce lub najeździe, połóż żeton na innej Twojej Twarzy Ducha będącej w grze. Każdy żeton zwiększa WB o +2 i jest odrzucany razem z wojownikiem. NIEOGRANICZONA LICZBA W TALII.
+	Image: image30
+	Affiliation: The Lutheran Triad
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 3
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:01:13
+	time modified: 2011-03-16 09:35:23
+	Name: UPADŁY ANIOŁ
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 2. PIECHOTA. Upadły Anioł musi dowieść swojej wartości przed członkami swojego Klanu. Kiedy zginie po raz pierwszy w walce lub podczas najazdu, umieść na nim żeton. Oznacza on, że wojownik został "ranny" i aby jego karta została odrzucona musi ponownie zginąć w walce lub podczas najazdu. "Rana" nie ma żadnego wpływu na wojownika.
+	Image: image31
+	Affiliation: The Imperial
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 4
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:01:55
+	time modified: 2011-03-16 09:36:09
+	Name: WILCZARZ
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 1. PIECHOTA. ŻOŁNIERZ ZAGŁADY. Wilczarz może stworzyć specjalną jednostkę, z dowolnym POJAZDEM znajdującym się w tym samym oddziale lub pograniczu (nie może tworzyć jednostki specjalnej z SAMOTNIKAMI). Dołącz Wilczarza do POJAZDu. JEDNOSTKA SPECJALNA stworzona w ten spsób sumuje WB połączonych kart oraz wszystkie ich zdolności specjlane. Ta JEDNOSTKA SPECJALNA nigdy nie może się rozpaść. Może być Przenoszona i tworzyć Grupy z innymi wojownikami.
+	Image: image32
+	Affiliation: The Bauhaus
+	Air: No
+	Sea: No
+	CV: 0
+	CV1: 4
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:02:32
+	time modified: 2011-03-16 09:37:40
+	Name: WODOLOT
+	Resources: <sym-auto>9</sym-auto><sym-auto>9</sym-auto>
+	Action: Koszt początkowy: 2. POJAZD. To lekki statek powietrzny przystosowany również do walki pod wodą. Może zanurkować pod wodę z powietrza. Jeśli Wodolot nie atakował, lub atakował tylko z powietrza, może w tej samej turze najechać kartę Miejsca lub Przywódcy znajdującą się pod wodą.
+	Image: image33
+	Affiliation: Crescentia
+	Land: No
+	CV: 0
+	CV1: 7
+	Autor: PAUL BONNER
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:03:30
+	time modified: 2011-03-16 09:38:08
+	Name: WOLVERINE
+	Resources: <sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 3. PIECHOTA. ŻOŁNIERZ ZAGŁADY. Wolverine nie może w tej samej turze atakować i najeżdżać, może wykonać tylko jedną z tych czynności.
+	Image: image34
+	Affiliation: The Capitol
+	Air: No
+	CV: 0
+	CV1: 8
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:04:21
+	time modified: 2011-03-16 09:38:30
+	Name: WYSŁANNIK PIEKIEŁ
+	Resources: <sym-auto>7</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt początkowy: 3. PIECHOTA. Nie może używać BRONI. Wojowników zabitych w walce przez Wysłannika piekieł należy anihilować zamiast odrzucać. Jeśli Wysłannik przegra walkę lub najazd to jego przeciwnik może przejąć kontrolę nad tą kartą (umieszczony zostaje w jego oddziale i może być Przenoszony).
+	Image: image35
+	Affiliation: The Dark Legion
+	Air: No
+	Sea: No
+	CV: 1
+	CV1: 4
+	Autor: PETER BERGTING
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:05:08
+	time modified: 2011-03-16 09:38:50
+	Name: ZAGUBIONA DUSZA
+	Resources: <sym-auto>7</sym-auto>
+	Action: PIECHOTA. Zamiast werbować Zagubioną Duszę w normalny sposób, możesz zwerbować jedną lub więcej, kiedy jakieś miejsce w Twojej osadzie jest najeżdżane z powietrza. WB Duszy dodawane jest do WB najeżdżanego miejsca. Jeśli zwyciężysz, umieść Zagubioną Duszę na swoim Pograniczu, jeśli przegrasz karty wszystkich zwerbowanych podczas tego najazdu Dusz należy odrzucić.
+	Image: image36
+	Affiliation: The Templars
+	Sea: No
+	CV: 0
+	CV1: 2
+	Autor: STUDIO PARENTE
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:05:35
+	time modified: 2011-03-16 09:39:12
+	Name:
+		ZENITIAńSKI
+		MISTRZ MORDU
+	Resources: <sym-auto>7</sym-auto><sym-auto>7</sym-auto>
+	Action: Koszt początkowy: 5. PIECHOTA. GODNY MROCZNEJ HARMONII. NIGDY nie może używać BRONI ani PANCERZA. Mistrz Mordu może przeprowadzić cztery ataki w turze. Pierwszy atak wykonuje normalnie, przed każdym następnym musisz anihilować jedną kartę z wierzchu swojej talii.
+	Image: image37
+	Affiliation: The Dark Legion
+	Air: No
+	CV: 0
+	CV1: 8
+	Autor: PAUL BONNER
+	Frame: Genesiss
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-13 08:06:06
+	time modified: 2011-03-16 09:39:36
+	Name: ZAPOMNIANY STRAŻNIK
+	Resources: <sym-auto>7</sym-auto><sym-auto>8</sym-auto>
+	Action: Koszt początkowy: 2. PIECHOTA.  SAMOTNIK. Zapomniany Strażnik otrzymuje modyfikator +5 do WB, kiedy jest atakowany. Strażnik może zaatakować dowolnego członka jakiejkolwiek Grupy, tak jakby nie wchodził on w jej skład.
+	Image: image38
+	Affiliation: The Bauhaus
+	CV: 0
+	CV1: 5
+	Autor: PETER BERGTING
+	Frame: Genesiss
+version control:
+	type: none
+apprentice code: 

@@ -1,0 +1,263 @@
+﻿mse version: 0.3.8
+game: darkeden-rc
+stylesheet: leader
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:10:23
+	time modified: 2011-03-15 21:43:33
+	Name: ABDUL IV SPOD ZACHODZĄCEGO SŁOŃCA
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych miejsc wzrasta o +2. Abdul może zagrywać karty Wojowników będących JAZDĄ.
+	Image: image2
+	Affiliation: Crescentia
+	Sea: No
+	CV: 1
+	CV1: 0
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:14:52
+	time modified: 2011-03-15 21:44:42
+	Name: ALI II SPOD ZAĆMIONEGO SŁOŃCA
+	Resources: <sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +1. Podczas kroku Bilansowania, Ali musi wydać tylko 1 Jednostkę Złota (zamiast 2), żeby zdobyć czasową kontrolę nad ikoną ŻW.
+	Image: image3
+	Affiliation: Crescentia
+	Sea: No
+	CV: 1
+	CV1: 6
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:18:18
+	time modified: 2011-03-15 21:46:01
+	Name: ASTINOU
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +2. Werbując Wojowników Astinou płaci tylko połowę Kosztu Początkowego (zaokrąglając w dół).
+	Image: image4
+	Affiliation: The Templars
+	Sea: No
+	CV: 1
+	CV1: 4
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:18:58
+	time modified: 2011-03-15 21:47:11
+	Name: CAIN MOURNOR
+	Resources: <sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +2. Jeżeli Wojownicy Caina nie atakują podczas jego tury, mogą oni w tej turze dokonać najazdu dwukrotnie.
+	Image: image5
+	Affiliation: The Lutheran Triad
+	Sea: No
+	CV: 1
+	CV1: 2
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:19:35
+	time modified: 2011-03-15 21:48:58
+	Name:
+		DIUK ERICH
+		VON DRIER
+	Resources: <sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +2. Do Wojowników Driera można dołączać dowolne karty EKWIPUNKU niezależnie od ich przynależności. Nadal musisz zagrać kartę, która pozwala wyłożyć EKWIPUNEK.
+	Image: image7
+	Affiliation: The Sons of Rasputin
+	Sea: No
+	CV: 1
+	CV1: 2
+	Autor: JAMIE SIMS
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:20:46
+	time modified: 2011-03-15 21:48:49
+	Name: DIUK FRIEDRICH RAUFT
+	Resources: <sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +1. Podczas swojego kroku Odrzucania Rauft może odrzucić do 2 kart.
+	Image: image8
+	Affiliation: The Sons of Rasputin
+	Sea: No
+	CV: 1
+	CV1: 6
+	Autor: PETER ANDREW JONES
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:21:11
+	time modified: 2011-03-15 21:49:48
+	Name: ELIJAH COSRICK
+	Resources: <sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +1. Jeżeli przeciwnik udanie najedzie tę kartę Przywódcy, Corick decyduje jaki rodzaj nagrody otrzyma wróg.
+	Image: image10
+	Affiliation: The Lutheran Triad
+	Sea: No
+	CV: 1
+	CV1: 6
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:21:45
+	time modified: 2011-03-15 21:51:03
+	Name:
+		HRABINA ALEXANDRA
+		SPETZ
+	Resources: <sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +2. Podczas kroku bilansowania Spetz może pominąć jedną z ikon zasobów na każdym z jej POJAZDÓW. W każdej turze może to być inna ikona.
+	Image: image11
+	Affiliation: The Sons of Rasputin
+	Sea: No
+	CV: 1
+	CV1: 4
+	Autor: STUDIO CS
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:22:16
+	time modified: 2011-03-15 21:51:16
+	Name: HUSSEIN SPOD SPADAJĄCEJ GWIAZDY
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +2. Podczas swojego kroku Dobierania Hussein może dobrać do 8 kart.
+	Image: image12
+	Affiliation: Crescentia
+	Sea: No
+	CV: 1
+	CV1: 4
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:23:37
+	time modified: 2011-03-15 21:51:52
+	Name: JONAH SAND
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +3. Jeśli Jonahowi po Bilansowaniu pozostaną jakieś ikony SU, może on dodać do swoich Zapasów Złota tyle samo Jednostek Złota ze Wspólnej Puli.
+	Image: image13
+	Affiliation: The Lutheran Triad
+	Sea: No
+	CV: 1
+	CV1: 0
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:24:10
+	time modified: 2011-03-15 21:52:23
+	Name: JOSEF GABRIEL
+	Resources: <sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +2. Wydając 3 Jednostki Złota Josef może dobrać dodatkową kartę podczas swojego kroku Dobierania. Nie może w ten sposób wyciągnąć więcej niż 3 dodatkowe karty.
+	Image: image14
+	Affiliation: The Lutheran Triad
+	Sea: No
+	CV: 1
+	CV1: 4
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:24:46
+	time modified: 2011-03-15 21:53:00
+	Name: KOMMENDANT LEITHEUSSER
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +2. Leitheuser może zagrywać karty Wojowników, którzy są POJAZDAMI.
+	Image: image15
+	Affiliation: The Sons of Rasputin
+	Sea: No
+	CV: 1
+	CV1: 0
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:25:20
+	time modified: 2011-03-15 21:53:42
+	Name: MONTAGNE
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +2. Za każdą ikonę ZŁ pozostałą po Bilansowaniu Montagne zarabia 2 Jednostki Złota (zamiast 1).
+	Image: image16
+	Affiliation: The Templars
+	CV: 1
+	CV1: 0
+	Autor: JAMIE SIMS
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:25:49
+	time modified: 2011-03-15 21:54:16
+	Name:
+		NEFARYTA
+		ANCYRITE
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +2. Ancyrite nigdy nie może wybudować KATEDRY BRACTWA ani wykładać Wojowników Bractwa. Wszyscy Wojownicy Ancyrite'a uważani są za GODNYCH MROCZNEJ HARMONII (chyba że dany Wojownik nigdy nie może być GODNY).
+	Image: image17
+	Affiliation: The Dark Legion
+	Sea: No
+	CV: 1
+	CV1: 4
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:26:23
+	time modified: 2011-03-15 21:54:54
+	Name: SAMIR SPOD WSCHODZĄCEGO KSIĘŻYCA
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +2. Oprócz POJAZDÓW przynależnych jego plemieniu, Samir może używać POJAZDÓW Templariuszy, Synów Rasputina i Luteriańskiej Triady. Nadal musisz zagrać kartę, która pozwala wykładać pojazdy.
+	Image: image18
+	Affiliation: Crescentia
+	Sea: No
+	CV: 1
+	CV1: 2
+	Autor: STUDIO PARENTE
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:26:59
+	time modified: 2011-03-15 21:55:40
+	Name: SERENNEL
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +2. Serennel nie może budować AMBASAD, ale za pozostałe Miejsca płaci tylko połowę Kosztu Początkowego (zaokrąglając w dół).
+	Image: image19
+	Affiliation: The Templars
+	Sea: No
+	CV: 1
+	CV1: 2
+	Autor: PETER BERGTING
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:27:33
+	time modified: 2011-03-15 21:56:06
+	Name: VERAGE
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +1. WB wszystkich Wojowników Verage'a znajdujących się na jego Pograniczu zwiększa się o +1. Ten modyfikator stosowany jest po wszystkich innych.
+	Image: image20
+	Affiliation: The Templars
+	Sea: No
+	CV: 1
+	CV1: 6
+	Autor: PAUL BONNER
+card:
+	has styling: false
+	notes: 
+	time created: 2011-03-12 23:28:06
+	time modified: 2011-03-15 21:56:36
+	Name: WIELKI HERETYK MARCUS
+	Resources: <sym-auto>1</sym-auto><sym-auto>1</sym-auto><sym-auto>2</sym-auto><sym-auto>2</sym-auto><sym-auto>3</sym-auto><sym-auto>3</sym-auto><sym-auto>4</sym-auto><sym-auto>4</sym-auto>
+	Action: WB przyległych Miejsc wzrasta o +3. Marcus nigdy nie może wybudować KATEDRY BRACTWA ani wykładać Wojowników Bractwa. Marcus, poza kartami jemu przynależnymi, może również korzystać z kart przynależnych Synom Rasputina.
+	Image: image21
+	Affiliation: The Dark Legion
+	Sea: No
+	CV: 1
+	CV1: 0
+	Autor: STUDIO PARENTE
+version control:
+	type: none
+apprentice code: 
