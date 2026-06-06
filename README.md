@@ -1,6 +1,6 @@
 # Dark Eden Digital 🃏
 
-> Cyfrowa implementacja karcianki **Dark Eden** (Warzone 1996) w silniku Unity 6.
+> Cyfrowa implementacja karcianki **Dark Eden** (Warzone 1996) w silniku Unity 6.4 (6000.4 LTS).
 
 [![Unity](https://img.shields.io/badge/Unity-6000.4.x_LTS-black?logo=unity)](https://unity.com)
 [![CardHouse](https://img.shields.io/badge/CardHouse-1.0.4-blue)]()
