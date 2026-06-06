@@ -1,0 +1,10 @@
+{
+  "name": "Nazwa talii",
+  "faction": "DE",
+  "author": "Twoje imię lub nick",
+  "notes": "Opcjonalny komentarz — styl gry, zamysł talii",
+  "cards": [
+    { "name": "NAZWA_KARTY_Z_cards_db", "count": 1 },
+    { "name": "NAZWA_KARTY_X2", "count": 2 }
+  ]
+}

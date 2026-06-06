@@ -1,46 +1,169 @@
-# Dark Eden Digital – Główny Plan (Roadmapa)
+# Dark Eden Digital 🃏
 
-Witamy w repozytorium **Dark Eden Digital**!
-Ten dokument to szczegółowa mapa drogowa rozwoju projektu. Będzie on aktualizowany o daty wykonania zadań oraz szacunki czasowe dla nadchodzących etapów, aby cały zespół miał jasny pogląd na postępy.
+> Cyfrowa implementacja karcianki **Dark Eden** (Warzone 1996) w silniku Unity 6.
 
-### FAZA 0: Przygotowanie środowiska pracy (Preludium techniczne)
-*Zanim dotkniemy logiki gry, budujemy i konfigurujemy nasz "warsztat", abyśmy mogli płynnie współpracować.*
-- [x] **0.1**: Pobranie i instalacja Godot Engine (wersja 4.x) oraz założenie projektu "Dark Eden Digital". *(Wykonano: 03.05.2026)*
-- [x] **0.2**: Uruchomienie Google Antigravity na folderze projektu i instalacja wtyczki Godot Tools. *(Wykonano: 03.05.2026)*
-- [x] **0.3**: Skonfigurowanie Godota, aby używał Antigravity jako domyślnego, zewnętrznego edytora skryptów. *(Wykonano: 03.05.2026)*
-- [x] **0.4**: Zapisanie zasad projektu (`.cursorrules`), aby sztuczna inteligencja od początku znała strukturę (GDScript, typowanie, węzły Control). *(Wykonano: 03.05.2026)*
+[![Unity](https://img.shields.io/badge/Unity-6000.4.x_LTS-black?logo=unity)](https://unity.com)
+[![CardHouse](https://img.shields.io/badge/CardHouse-1.0.4-blue)]()
+[![Status](https://img.shields.io/badge/Stan-W_budowie-yellow)]()
 
-### FAZA 1: Fundamenty Danych (Baza i Zasoby)
-*Przygotowujemy "paliwo" dla naszej gry – surowe statystyki i grafiki.*
-- [x] **1.1**: Zautomatyzowana ekstrakcja bazy kart – wyciągnięcie danych z plików MSE i zapisanie ich w pliku `data/cards_db.json`. *(Wykonano: 03.05.2026)*
-- [x] **1.2**: Zgromadzenie wyciętych grafik (artów) dla kart testowych, dopisanie rozszerzeń `.png` i powiązanie ich w parserze. *(Wykonano: 03.05.2026)*
+---
 
-### FAZA 2: Reprezentacja Wizualna (Karty w silniku)
-*Uczymy silnik czytać nasze dane i nadajemy im fizyczny kształt na ekranie.*
-- [x] **2.1**: Założenie przejrzystej struktury folderów w Godocie (osobne foldery na `Scenes`, `Scripts`, `Resources`, `Assets`). *(Wykonano: 03.05.2026)*
-- [x] **2.2**: Zbudowanie UI (Interfejsu Użytkownika) pojedynczej Karty z klocków Godota (węzły `Control`). *(Wykonano: 03.05.2026)*
-- [ ] **2.3**: Dokończenie importera – skrypt, który weźmie nasz `cards_db.json` i automatycznie utworzy gotowe zasoby (`Resources`) dla konkretnych kart w oparciu o szablon z kroku 2.2. *[Szacowany czas: ~2-4 godziny]*
+## Co to jest?
 
-### 👥 FAZA R: Współpraca i Zespół (Zadania dla Recenzenta / Game Designera)
-*Prace projektowe, które mogą toczyć się równolegle, by gra była gotowa do testów na czas.*
-- [ ] **R.1**: **Zbudowanie pierwszych testowych talii do gry.** Zadanie polega na wybraniu zestawu kart (na podstawie bazy JSON z Fazy 1.1), które stworzą zbalansowane talie początkowe. 
-  > ⏳ **Oś czasu:** *[Szacowany czas na opracowanie: ~1-3 dni].* Talie te będą krytycznie potrzebne najpóźniej przed rozpoczęciem **Fazy 4** (Serce Gry i Maszyna Stanów).
+Wierna cyfrowa adaptacja klasycznej karcianki CCG **Dark Eden** wydanej przez Target Games w 1996 roku jako część uniwersum Warzone. Projekt odtwarza oryginalną mechanikę 6-fazowej tury, ekonomię zasobów i system walki.
 
-### FAZA 3: Przestrzeń Gry (Stół i Interfejs)
-*Tworzymy "fizyczną" przestrzeń, w której karty będą funkcjonować.*
-- [ ] **3.1**: Zaprojektowanie głównego ekranu gry z podziałem na strefy: Ręka, Talia, Odrzutowisko, Osada/Kraina. *[Szacowany czas: ~1-2 dni]*
-- [ ] **3.2**: Zaprogramowanie logiki interakcji myszką: najechanie (powiększenie karty) oraz Drag & Drop (przeciągnij i upuść na stół). *[Szacowany czas: ~1-2 dni]*
+Projekt przeszedł **migrację z Godot 4 → Unity 6000.4 LTS** (maj 2026). Obecna implementacja używa pakietu [CardHouse](https://assetstore.unity.com/packages/tools/card-game-framework-cardhouse-249311) jako frameworka zarządzania kartami.
 
-### FAZA 4: Serce Gry (Maszyna Stanów i Zasady)
-*Piszemy zasady Dark Eden, zmuszając grę do pilnowania instrukcji.*
-- [ ] **4.1**: Wdrożenie `GameManager` – głównej maszyny stanów pilnującej 6 kroków tury (Dobieranie -> Akcje -> Bilansowanie -> Atak -> Najazd -> Odrzucanie). *[Szacowany czas: ~2-3 dni]*
-- [ ] **4.2**: System Ekonomii: Walidacja kosztów zagrywania. *[Szacowany czas: ~1 dzień]*
-- [ ] **4.3**: Zautomatyzowanie Fazy Bilansowania (matematyczne podliczanie ikon zasobów). *[Szacowany czas: ~1 dzień]*
-- [ ] **4.4**: Moduł Walki: interfejs wyznaczania atakujących, obrońców i porównywania Wartości Bojowych (WB). *[Szacowany czas: ~2 dni]*
+---
 
-### FAZA 5: Umiejętności Specjalne i Szlify (Polish)
-*Sprawiamy, że gra ożywa i obsługuje skomplikowane wyjątki.*
-- [ ] **5.1**: Podpięcie sparametryzowanych zdolności kart z bazy JSON pod wydarzenia w grze. *[Szacowany czas: ~3-5 dni]*
-- [ ] **5.2**: Ręczne oskryptowanie unikalnych, "wyłamujących się" z zasad kart (Custom Scripts). *[Szacowany czas: praca ciągła]*
-- [ ] **5.3**: "Sok" z gry (Game Juice): animacje, dźwięki, efekty cząsteczkowe. *[Szacowany czas: ~2-3 dni]*
-- [ ] **5.4**: Implementacja podstawowego trybu wieloosobowego (Hot-seat lub proste P2P). *[Szacowany czas: do ustalenia w przyszłości]*
+## Stan prac — czerwiec 2026
+
+### Gotowe
+- Silnik renderowania kart (bake pipeline: off-screen camera → RenderTexture → Sprite)
+- Prefab karty z dynamicznym dopasowaniem tła, ramki i grafiki per kategoria
+- Baza **402 kart** w `data/cards_db.json` z pełnymi statystykami
+- Ładowanie kart JSON → ręka gracza z animowanym wachlarzem (SplayLayout)
+- GameManager z kompletną strukturą **6 faz tury**
+- Model gracza: strefy (Ręka, Talia, Odrzucone, Anihilowane, Osada, Pogranicze, Oddział)
+- Dobieranie kart do limitu z automatycznym przetasowaniem stosu odrzuconych
+- System zasobów (szkielet) i system walki (szkielet)
+
+### W budowie
+- `ResourceSystem.ExecuteBalancing` — automatyczne podliczanie ikon zasobów w fazie 3
+- Walidacja kosztu zagrywania kart (ekonomia złota)
+- UI fazy walki — wskazywanie atakujących i obrońców
+- Inicjalizacja talii gracza (łączenie CardGroup z konkretnymi kartami)
+
+### Planowane
+- Ekran zwycięstwa (warunek: 50 PZ)
+- Tryb hot-seat (2 gracze)
+- Animacje, dźwięki, efekty
+
+---
+
+## Baza kart
+
+| Kategoria | Liczba | Opis |
+|-----------|-------:|------|
+| Intrygi (DE) | 166 | Karty akcji i zdarzeń |
+| Wojownicy (DE) | 63 | Jednostki bojowe |
+| Miejsca (DE) | 55 | Tereny i budynki (poziome) |
+| Wojownicy (GE) | 38 | Jednostki bojowe |
+| Intrygi (GE) | 37 | Karty akcji i zdarzeń |
+| Przywódcy (DE) | 18 | Karty dowódców (poziome) |
+| Udoskonalenia (GE) | 14 | Ulepszenia (poziome) |
+| Przywódcy (GE) | 11 | Karty dowódców (poziome) |
+| **Razem** | **402** | |
+
+Pełna baza z atrybutami: [`data/cards_db.json`](data/cards_db.json)
+
+---
+
+## Mechanika tury (skrót)
+
+```
+Tura gracza (6 kroków):
+  1. Dobieranie    — dobierz do 7 kart w ręce
+  2. Akcje         — zagraj karty, aktywuj zdolności
+  3. Bilansowanie  — automatyczne zliczanie ikon zasobów z Miejsc
+  4. Atak          — wyznacz Oddział do ataku; porównaj WB z obrońcami
+  5. Najazd        — atak na Osadę (warunek: brak obrońców)
+  6. Odrzucanie    — odrzuć 1 kartę z ręki
+```
+
+**Warunek zwycięstwa:** 50 Punktów Zwycięstwa (PZ)  
+**Limit ręki:** 7 kart | **Złoto na start:** 5 żetonów | **Karty odrzucone na start:** 3
+
+---
+
+## Zadania dla Twórcy Talii
+
+Potrzebujemy testowych talii do weryfikacji mechaniki przed implementacją fazy walki.
+
+### Kiedy talie są potrzebne
+Przed ukończeniem `ResourceSystem.ExecuteBalancing` (Faza budowy: Q3 2026).  
+Talie będą używane do testów manualnych i automatycznych.
+
+### Format pliku
+
+Utwórz plik `decks/<nazwa-talii>.json` wg szablonu [`decks/TEMPLATE.json`](decks/TEMPLATE.json):
+
+```json
+{
+  "name": "Nazwa talii",
+  "faction": "DE",
+  "author": "Twoje imię lub nick",
+  "notes": "Opcjonalny komentarz — styl gry, zamysł talii",
+  "cards": [
+    { "name": "Dokładna nazwa karty z cards_db.json", "count": 1 }
+  ]
+}
+```
+
+### Wymagania dla talii testowej
+
+| Parametr | Wartość |
+|----------|---------|
+| Liczba kart | 40 |
+| Przywódcy | dokładnie 1 |
+| Wojownicy | 8–12 |
+| Miejsca lub Udoskonalenia | 10–15 |
+| Intrygi | pozostałe |
+
+Karty muszą istnieć w `data/cards_db.json` — pole `name` jako klucz.
+
+### Lista otwartych zadań
+
+- [ ] **T.1** — Talia testowa frakcji DE (40 kart, zbalansowana)
+- [ ] **T.2** — Talia testowa frakcji GE (40 kart, odpowiednik T.1)
+- [ ] **T.3** — Talia agresywna DE — nacisk na Wojowników i Atak (test CombatSystem)
+- [ ] **T.4** — Talia kontrolna DE — nacisk na Intrygi `AtAnyTime` (test PlayWindow)
+- [ ] **T.5** — Talia ekonomiczna — maksymalna liczba Miejsc (test ResourceBalancing)
+
+---
+
+## Zadania dla Recenzentów
+
+### Recenzja zasad (nie wymaga Unity)
+
+Źródło prawdy: [`instrukcja-do-gry-dark-eden.pdf`](instrukcja-do-gry-dark-eden.pdf)
+
+- [ ] **R.1** — Zweryfikuj 6 faz tury vs. instrukcja — czy kolejność i nazwy się zgadzają?
+- [ ] **R.2** — Sprawdź taktyki walki `Land / Sea / Air` — czy wszystkie jednostki mają poprawnie przypisane flagi?
+- [ ] **R.3** — Przejrzyj `PlayWindow` kart Intrygi w JSON:
+  - `AtAnyTime` — „zagraj w dowolnym momencie"
+  - `DuringCombat` — „zagraj podczas walki"
+  - `DuringRaid` — „zagraj podczas najazdu"
+  - `ActionPhase` — „zagraj podczas Akcji"
+  - Wskaż karty z niejasnym lub brakującym `action` wymagające ręcznego oskryptowania
+- [ ] **R.4** — Zweryfikuj `PostPlay` kart: `Discard / Attach / Annihilate` — czy wartości w JSON są poprawne?
+- [ ] **R.5** — Lista kart DE/GE, których grafiki wymagają priorytetowego dodania
+
+### Testy rozgrywki (po implementacji fazy walki)
+
+- [ ] **Rv.1** — Testowa rozgrywka 5 tur — zaraportuj błędy w Issues
+- [ ] **Rv.2** — Czy można zagrać jakąkolwiek kartę z talii T.1 w pierwszej turze przy 5 złota na start?
+- [ ] **Rv.3** — Warunek zwycięstwa 50 PZ — czy jest osiągalny w rozsądnej liczbie tur (< 20)?
+- [ ] **Rv.4** — Czy mechanika `Pogranicze` (obrona) vs. `Oddział` (atak) jest czytelna dla nowego gracza?
+
+---
+
+## Uruchomienie (deweloperzy)
+
+**Wymagania:** Unity Hub + Unity 6000.4.x LTS
+
+1. Otwórz projekt z folderu `DarkEdenDigital/` w Unity Hub
+2. Aktywna scena: `Assets/DarkEden/Scenes/Board.unity`
+3. Play Mode → ręka z 5 kartami pojawi się na dole ekranu
+
+Projekt lokalny (nie publiczny) — dostęp przez zaproszenie.
+
+---
+
+## Zasoby
+
+| Zasób | Link |
+|-------|------|
+| Instrukcja do gry (PDF) | [`instrukcja-do-gry-dark-eden.pdf`](instrukcja-do-gry-dark-eden.pdf) |
+| Baza kart (JSON) | [`data/cards_db.json`](data/cards_db.json) |
+| Szablon talii | [`decks/TEMPLATE.json`](decks/TEMPLATE.json) |
